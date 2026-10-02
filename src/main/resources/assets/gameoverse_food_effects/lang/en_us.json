@@ -1,0 +1,15 @@
+{
+  "effect.gameoverse_food_effects.steadfast": "Steadfast",
+  "effect.gameoverse_food_effects.steadfast.description": "Harder to knock back.",
+  "effect.gameoverse_food_effects.fresh": "Fresh",
+  "effect.gameoverse_food_effects.fresh.description": "Healing restores more health.",
+  "effect.gameoverse_food_effects.keen": "Keen",
+  "effect.gameoverse_food_effects.keen.description": "Higher chance to land critical hits.",
+  "effect.gameoverse_food_effects.focused": "Focused",
+  "effect.gameoverse_food_effects.focused.description": "Spells hit harder.",
+  "effect.gameoverse_food_effects.mana_flow": "Mana Flow",
+  "effect.gameoverse_food_effects.mana_flow.description": "Mana refills faster.",
+  "effect.gameoverse_food_effects.well_fed": "Well Fed",
+  "effect.gameoverse_food_effects.well_fed.description": "Three or more food effects at once: healing restores more and you take hits better. More variety, higher level.",
+  "tooltip.gameoverse_food_effects.chance": "%s, %s%% chance"
+}

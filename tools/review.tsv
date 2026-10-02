@@ -1,0 +1,874 @@
+id	name	tier	families	effects	kept_from_mod	dropped	recipe
+alcocraftplus:chorus_ale	Mug of Chorus Ale	meal	chorus,nut,poultry,grain	luck 60s, nausea 10s, low_gravity 382s	luck,nausea		alcocraftplus:chorus_ale
+alcocraftplus:digger_bitter	Mug of Digger Bitter	meal	grain	haste 60s, nausea 10s	haste,nausea		alcocraftplus:digger_bitter
+alcocraftplus:drowned_ale	Mug of Drowned Ale	meal	grain	water_breathing 300s, dolphins_grace 150s, nausea 10s	water_breathing,dolphins_grace,nausea		alcocraftplus:drowned_ale
+alcocraftplus:hop	Hop	raw	grain	nausea 5s	nausea		name
+alcocraftplus:ice_beer	Mug of Ice Beer	meal	grain	freeze 300s, nausea 10s, haste 382s	freeze,nausea		alcocraftplus:ice_beer
+alcocraftplus:kvass	Mug of Kvass	meal	fruit,honey,nut,grain	saturation 120s, health_boost 30s, luck 382s	saturation,health_boost		alcocraftplus:kvass
+alcocraftplus:leprechaun_cider	Mug of Leprechaun Cider	meal	rabbit,grain	luck 60s, nausea 10s, jump_boost 382s	luck,nausea		alcocraftplus:leprechaun_cider
+alcocraftplus:magnet_pilsner	Mug of Magnet Pilsner	meal	poultry,grain	attract 300s, nausea 10s, slow_falling 382s	attract,nausea		alcocraftplus:magnet_pilsner
+alcocraftplus:nether_porter	Mug of Nether Porter	meal	nut,poultry,grain	fire_resistance 300s, nausea 10s, focused 382s	fire_resistance,nausea		alcocraftplus:nether_porter
+alcocraftplus:nether_star_lager	Mug of Nether Star Lager	meal	grain	nausea 10s, luck 120s, jump_boost 300s, speed 300s, health_boost 300s, strength 180s	nausea,luck,jump_boost,speed,health_boost,strength		alcocraftplus:nether_star_lager
+alcocraftplus:night_rauch	Mug of Night Rauch	meal	nut,poultry,grain	phantom 600s, night_vision 120s, nausea 10s	phantom,night_vision,nausea		alcocraftplus:night_rauch
+alcocraftplus:sun_pale_ale	Mug of Sun Pale Ale	meal	fruit,golden,poultry,grain	regeneration 180s, nausea 10s, luck 382s	regeneration,nausea		alcocraftplus:sun_pale_ale
+alcocraftplus:wither_stout	Mug of Wither Stout	meal	nut,poultry,pumpkin,root,grain	wither 180s, nausea 10s, focused 382s	wither,nausea		alcocraftplus:wither_stout
+artifacts:eternal_steak	Eternal Steak	prepared	red_meat	strength 25s			artifacts:eternal_steak_from_campfire_cooking
+artifacts:everlasting_beef	Everlasting Beef	raw	red_meat	strength 4s			name
+artifacts:onion_ring	Onion Ring	raw	root	steadfast 4s			name
+bakeyourbread:cooked_carrot	Cooked Carrot	prepared	glow	night_vision 19s			bakeyourbread:carrot_from_campfire_cooking
+bakeyourbread:unbaked_bread	Bread Dough	prepared	grain	nausea 5s	nausea	hunger	minecraft:bread
+bakeyourbread:unbaked_cake	Unbaked Cake	dish	egg,dairy,grain	poison 15s, nausea 5s	poison,nausea	hunger	minecraft:cake
+bakeyourbread:unbaked_cookie	Cookie Dough	dish	cocoa,grain,dairy	nausea 5s, speed 98s	nausea	hunger	minecraft:cookie
+bakeyourbread:unbaked_pumpkin_pie	Pumpkin Pie Dough	dish	pumpkin,egg,dairy	poison 15s, nausea 5s	poison,nausea	hunger	minecraft:pumpkin_pie
+bakeyourbread:uncooked_beetroot_soup	Uncooked Beetroot Soup	prepared	root	steadfast 21s			minecraft:beetroot_soup
+bakeyourbread:uncooked_golden_carrot	Uncooked Golden Carrot	raw	glow	night_vision 4s			
+bakeyourbread:uncooked_mushroom_stew	Uncooked Mushroom Stew	dish	mushroom	mana_flow 120s			minecraft:mushroom_stew
+bakeyourbread:uncooked_rabbit_stew	Uncooked Rabbit Stew	dish	rabbit,glow,mushroom,root	poison 15s, jump_boost 128s	poison	hunger	minecraft:rabbit_stew_from_brown_mushroom
+cnb:apple_slice	Apple Slices	prepared	fruit	luck 16s			cnb:crafting/shapeless/apple_slice
+cnb:light_pink_waterlily	Light Pink Waterlily	raw	leafy	instant_health 0s	instant_health		name
+cnb:pink_waterlily	Pink Waterlily	raw	leafy	instant_health 0s	instant_health		name
+cnb:yellow_waterlily	Yellow Waterlily	raw	leafy	instant_health 0s	instant_health		name
+create:bar_of_chocolate	Bar of Chocolate	prepared	cocoa	speed 22s			create:compacting/chocolate
+create:builders_tea	Builder's Tea	prepared	cocoa	haste 180s	haste		create:filling/builders_tea
+create:chocolate_glazed_berries	Chocolate Glazed Berries	raw	cocoa	speed 5s			
+create:honeyed_apple	Honeyed Apple	raw	honey	regeneration 5s			
+create:sweet_roll	Sweet Roll	prepared	grain	haste 22s			create:filling/sweet_roll
+cropcritters:cooked_puffbomb_steak	Cooked Puffbomb Steak	prepared	red_meat	strength 24s			cropcritters:cooked_puffbomb_steak_from_campfire
+cropcritters:puffbomb_mushroom	Puffbomb Mushroom	raw	mushroom	mana_flow 3s			name
+cropcritters:puffbomb_slice	Puffbomb Slice	raw	mushroom	mana_flow 4s			name
+cropcritters:seed_bar	Farmer's Treat	dish	nut,fruit,pumpkin,root,berry,glow,grain	focused 128s, luck 128s			cropcritters:seed_bar_specific
+croptopia:ajvar	Ajvar	dish	chili,leafy	fire_resistance 142s, fresh 142s			croptopia:ajvar
+croptopia:ajvar_toast	Ajvar Toast	meal	grain,chili,leafy	haste 540s, fire_resistance 540s, fresh 540s			croptopia:ajvar_toast
+croptopia:almond	Almond	raw	nut	focused 3s			
+croptopia:almond_brittle	Almond Brittle	dish	nut,dairy	focused 142s, resistance 142s			croptopia:almond_brittle
+croptopia:anchovy	Anchovy	raw	fish	dolphins_grace 3s			name
+croptopia:anchovy_pizza	Anchovy Pizza	dish	fish,leafy,dairy,grain	dolphins_grace 180s, fresh 180s			croptopia:anchovy_pizza
+croptopia:apple_juice	Apple Juice	prepared	fruit	luck 21s			croptopia:apple_juice
+croptopia:apple_pie	Apple Pie	meal	fruit,egg,nut,poultry,grain	luck 495s, absorption 495s, focused 495s			croptopia:apple_pie
+croptopia:apricot	Apricot	raw	fruit	luck 3s			
+croptopia:apricot_jam	Apricot Jam	prepared	fruit	luck 19s			croptopia:apricot_jam
+croptopia:artichoke	Artichoke	raw	leafy	fresh 3s			
+croptopia:artichoke_dip	Artichoke Dip	dish	leafy,dairy	fresh 128s, resistance 128s			croptopia:artichoke_dip
+croptopia:asparagus	Asparagus	raw	leafy	fresh 3s			
+croptopia:avocado	Avocado	raw	fruit	luck 3s			
+croptopia:avocado_toast	Avocado Toast	dish	fruit,grain	luck 165s, haste 165s			croptopia:avocado_toast
+croptopia:bacon	Bacon	prepared	red_meat	strength 16s			croptopia:bacon
+croptopia:baked_beans	Baked Beans	prepared	grain	haste 21s			croptopia:baked_beans
+croptopia:baked_crepes	Baked Crêpes	meal	egg,nut,poultry,leafy,grain,dairy	absorption 540s, focused 540s, slow_falling 540s			croptopia:baked_crepes
+croptopia:baked_sweet_potato	Baked Sweet Potato	prepared	root	steadfast 21s			croptopia:baked_sweet_potato
+croptopia:baked_yam	Baked Yam	prepared	root	steadfast 21s			croptopia:baked_yam_from_campfire_cooking
+croptopia:banana	Banana	raw	fruit	luck 3s			
+croptopia:banana_cream_pie	Banana Cream Pie	meal	fruit,nut,egg,poultry,dairy,grain	luck 540s, focused 540s, absorption 540s			croptopia:banana_cream_pie
+croptopia:banana_nut_bread	Banana Nut Bread	dish	fruit,nut,grain	luck 165s, focused 165s			croptopia:banana_nut_bread
+croptopia:banana_smoothie	Banana Smoothie	dish	fruit,dairy	luck 128s, resistance 128s			croptopia:banana_smoothie
+croptopia:barley	Barley	raw	grain	haste 3s			
+croptopia:basil	Basil	raw	leafy	fresh 3s			
+croptopia:beef_jerky	Beef Jerky	prepared	red_meat	strength 21s			croptopia:beef_jerky
+croptopia:beef_stew	Beef Stew	dish	red_meat,glow,root,grain	strength 180s, night_vision 180s			croptopia:beef_stew
+croptopia:beef_stir_fry	Beef Stir Fry	dish	red_meat,chili,glow,leafy,grain	strength 180s, fire_resistance 180s			croptopia:beef_stir_fry
+croptopia:beef_wellington	Beef Wellington	meal	red_meat,chili,egg,mushroom,nut,poultry,root,grain	strength 540s, fire_resistance 540s, absorption 540s			croptopia:beef_wellington
+croptopia:beer	Beer	dish	grain	haste 142s			croptopia:beer
+croptopia:beetroot_salad	Beetroot Salad	dish	leafy,root,fruit,dairy	fresh 165s, steadfast 165s			croptopia:beetroot_salad
+croptopia:bellpepper	Bell Pepper	raw	chili	fire_resistance 3s			
+croptopia:bibim_naengmyeon	Bibim Naengmyeon	meal	egg,fruit,nut,poultry,root,grain	absorption 495s, luck 495s, focused 495s			croptopia:bibim_naengmyeon
+croptopia:bibimbap	Bibimbap	meal	egg,nut,poultry,red_meat,grain	absorption 540s, focused 540s, slow_falling 540s			croptopia:bibimbap
+croptopia:blackbean	Black Bean	raw	grain	haste 3s			
+croptopia:blackberry	Blackberry	raw	berry	keen 3s			
+croptopia:blackberry_jam	Blackberry Jam	prepared	berry	keen 19s			croptopia:blackberry_jam
+croptopia:blt	Bacon Lettuce Tomato Sandwich	dish	leafy,red_meat,grain	fresh 165s, strength 165s			croptopia:blt
+croptopia:blueberry	Blueberry	raw	berry	keen 3s			
+croptopia:blueberry_jam	Blueberry Jam	prepared	berry	keen 19s			croptopia:blueberry_jam
+croptopia:borscht	Borscht	dish	root,leafy,chili,glow	steadfast 180s, fresh 180s			croptopia:borscht
+croptopia:broccoli	Broccoli	raw	leafy	fresh 3s			
+croptopia:brownies	Brownies	meal	cocoa,egg,nut,poultry,grain,dairy	speed 495s, absorption 495s, focused 495s			croptopia:brownies
+croptopia:burrito	Burrito	dish	leafy,grain	fresh 165s, haste 165s			croptopia:burrito
+croptopia:butter	Butter	prepared	dairy	resistance 19s			croptopia:butter
+croptopia:buttered_green_beans	Buttered Green Beans	dish	grain,chili,dairy	haste 165s, fire_resistance 165s			croptopia:buttered_green_beans
+croptopia:buttered_toast	Buttered Toast	dish	grain,dairy	haste 158s, resistance 158s			croptopia:buttered_toast
+croptopia:cabbage	Cabbage	raw	leafy	fresh 3s			
+croptopia:cabbage_roll	Cabbage Roll	dish	leafy,red_meat,root,grain	fresh 180s, strength 180s			croptopia:cabbage_roll
+croptopia:caesar_salad	Caesar Salad	dish	leafy,chili,grain	fresh 165s, fire_resistance 165s			croptopia:caesar_salad
+croptopia:calamari	Calamari	raw	fish	dolphins_grace 3s			name
+croptopia:candied_kumquats	Candied Kumquats	dish	fruit,honey,nut	luck 135s, regeneration 135s			croptopia:candied_kumquats
+croptopia:candied_nuts	Candied Nuts	prepared	nut	focused 21s			croptopia:candied_nuts
+croptopia:candy_corn	Candy Corn	prepared	honey,grain	regeneration 21s			croptopia:candy_corn
+croptopia:cantaloupe	Cantaloupe	raw	fruit	luck 3s			
+croptopia:carnitas	Carnitas	dish	leafy,red_meat,root,grain	fresh 165s, strength 165s			croptopia:carnitas
+croptopia:carrot_cake	Carrot Cake	dish	glow,dairy,grain	night_vision 180s, resistance 180s			croptopia:carrot_cake
+croptopia:cashew	Cashew	raw	nut	focused 3s			
+croptopia:cashew_chicken	Cashew Chicken	dish	poultry,glow,leafy,nut,grain	slow_falling 180s, night_vision 180s			croptopia:cashew_chicken
+croptopia:cauliflower	Cauliflower	raw	leafy	fresh 3s			
+croptopia:celery	Celery	raw	leafy	fresh 3s			
+croptopia:cheese	Cheese	prepared	dairy	resistance 19s			croptopia:cheese
+croptopia:cheese_cake	Cheese Cake	dish	dairy	resistance 180s			name
+croptopia:cheese_pizza	Cheese Pizza	dish	dairy,leafy,grain	resistance 180s, fresh 180s			croptopia:cheese_pizza
+croptopia:cheeseburger	Cheeseburger	dish	red_meat,dairy,grain	strength 165s, resistance 165s			croptopia:cheeseburger
+croptopia:cheesy_asparagus	Cheesy Asparagus	dish	leafy,chili,dairy	fresh 165s, fire_resistance 165s			croptopia:cheesy_asparagus
+croptopia:cherry	Cherry	raw	berry	keen 3s			
+croptopia:cherry_jam	Cherry Jam	prepared	berry	keen 19s			croptopia:cherry_jam
+croptopia:cherry_pie	Cherry Pie	meal	berry,egg,nut,poultry,grain	keen 495s, absorption 495s, focused 495s			croptopia:cherry_pie
+croptopia:chicken_and_dumplings	Chicken and Dumplings	dish	poultry,chili,grain	slow_falling 165s, fire_resistance 165s			croptopia:chicken_and_dumplings
+croptopia:chicken_and_noodles	Chicken and Noodles	dish	poultry,chili,grain	slow_falling 165s, fire_resistance 165s			croptopia:chicken_and_noodles
+croptopia:chicken_and_rice	Chicken and Rice	dish	poultry,chili,grain	slow_falling 165s, fire_resistance 165s			croptopia:chicken_and_rice
+croptopia:chile_pepper	Chile Pepper	raw	chili	fire_resistance 3s			
+croptopia:chili_relleno	Chili Relleno	meal	chili,egg,nut,poultry,grain	fire_resistance 540s, absorption 540s, focused 540s			croptopia:chili_relleno
+croptopia:chimichanga	Chimichanga	meal	leafy,grain	fresh 540s, haste 540s			croptopia:chimichanga
+croptopia:chocolate	Chocolate	dish	cocoa,dairy	speed 128s, resistance 128s			croptopia:chocolate
+croptopia:chocolate_ice_cream	Chocolate Ice Cream	meal	cocoa,egg,nut,poultry,dairy,grain	speed 540s, absorption 540s, focused 540s			croptopia:chocolate_ice_cream
+croptopia:chocolate_milkshake	Chocolate Milkshake	meal	cocoa,egg,nut,poultry,dairy,grain	speed 428s, absorption 428s, focused 428s			croptopia:chocolate_milkshake
+croptopia:churros	Churros	dish	nut,dairy,grain	focused 128s, resistance 128s			croptopia:churros
+croptopia:cinnamon_roll	Cinnamon Roll	meal	nut,egg,poultry,dairy,grain	focused 450s, absorption 450s, slow_falling 450s			croptopia:cinnamon_roll
+croptopia:clam	Clam	raw	fish	dolphins_grace 3s			name
+croptopia:coconut	Coconut	raw	fruit	luck 3s			
+croptopia:coffee	Coffee	prepared	cocoa	speed 21s			croptopia:coffee
+croptopia:coffee_beans	Coffee Beans	raw	cocoa	speed 3s			
+croptopia:cooked_anchovy	Cooked Anchovy	prepared	fish	dolphins_grace 20s			croptopia:cooked_anchovy_from_campfire_cooking
+croptopia:cooked_bacon	Cooked Bacon	prepared	red_meat	strength 24s			croptopia:cooked_bacon_from_campfire_cooking
+croptopia:cooked_calamari	Cooked Calamari	prepared	fish,glow	dolphins_grace 21s			croptopia:cooked_calamari_from_campfire_cooking
+croptopia:cooked_ravager_meat	Cooked Ravager Meat	prepared	red_meat	strength 28s			croptopia:cooked_ravager_meat_from_campfire_cooking
+croptopia:cooked_shrimp	Cooked Shrimp	prepared	fish	dolphins_grace 21s			croptopia:cooked_shrimp_from_campfire_cooking
+croptopia:cooked_tuna	Cooked Tuna	prepared	fish	dolphins_grace 22s			croptopia:cooked_tuna_from_campfire_cooking
+croptopia:corn	Corn	raw	grain	haste 3s			
+croptopia:corn_bread	Corn Bread	prepared	grain	haste 21s			croptopia:corn_bread
+croptopia:cornish_pasty	Cornish Pasty	dish	grain,root,chili,red_meat	haste 165s, steadfast 165s			croptopia:cornish_pasty
+croptopia:crab	Crab	raw	fish	dolphins_grace 3s			name
+croptopia:crab_legs	Crab Legs	dish	fish,chili,dairy	dolphins_grace 172s, fire_resistance 172s			croptopia:crab_legs
+croptopia:cranberry	Cranberry	raw	berry	keen 3s			
+croptopia:cranberry_juice	Cranberry Juice	prepared	berry	keen 21s			croptopia:cranberry_juice
+croptopia:crema	Crema	dish	fruit,dairy	luck 112s, resistance 112s			croptopia:crema
+croptopia:croque_madame	Croque Madame	meal	egg,nut,poultry,red_meat,grain,dairy	absorption 540s, focused 540s, slow_falling 540s			croptopia:croque_madame
+croptopia:croque_monsieur	Croque Monsieur	dish	red_meat,dairy,grain	strength 180s, resistance 180s			croptopia:croque_monsieur
+croptopia:cucumber	Cucumber	raw	fruit	luck 3s			
+croptopia:cucumber_salad	Cucumber Salad	dish	fruit,leafy	luck 165s, fresh 165s			croptopia:cucumber_salad
+croptopia:currant	Currant	raw	berry	keen 3s			
+croptopia:date	Date	raw	fruit	luck 3s			
+croptopia:dauphine_potatoes	Dauphine Potatoes	dish	root,dairy,grain	steadfast 180s, resistance 180s			croptopia:dauphine_potatoes
+croptopia:deep_fried_shrimp	Deep Fried Shrimp	meal	fish,egg,nut,poultry,grain	dolphins_grace 495s, absorption 495s, focused 495s			croptopia:deep_fried_shrimp
+croptopia:doughnut	Doughnut	dish	grain,dairy	haste 128s, resistance 128s			croptopia:doughnut
+croptopia:dragon_egg_omelette	Dragon Egg Omelette	dish	egg,chili,dairy	strength 300s, absorption 180s	strength		croptopia:dragon_egg_omelette
+croptopia:dragonfruit	Dragon Fruit	raw	fruit	luck 3s			
+croptopia:egg_fried_rice	Egg Fried Rice	meal	egg,nut,poultry,grain	absorption 495s, focused 495s, slow_falling 495s			croptopia:egg_fried_rice
+croptopia:egg_roll	Egg Roll	meal	egg,leafy,nut,poultry,red_meat,grain	absorption 495s, fresh 495s, focused 495s			croptopia:egg_roll
+croptopia:eggplant	Eggplant	raw	leafy	fresh 3s			
+croptopia:eggplant_parmesan	Eggplant Parmesan	meal	leafy,chili,egg,nut,poultry,grain,dairy	fresh 540s, fire_resistance 540s, absorption 540s			croptopia:eggplant_parmesan
+croptopia:elderberry	Elderberry	raw	berry	keen 3s			
+croptopia:elderberry_jam	Elderberry Jam	prepared	berry	keen 19s			croptopia:elderberry_jam
+croptopia:enchilada	Enchilada	dish	leafy,red_meat,dairy,grain	fresh 165s, strength 165s			croptopia:enchilada
+croptopia:eton_mess	Eton Mess	meal	nut,berry,egg,poultry,grain,dairy	focused 495s, keen 495s, absorption 495s			croptopia:eton_mess
+croptopia:fajitas	Fajitas	dish	chili,leafy,red_meat,root,dairy	fire_resistance 165s, fresh 165s			croptopia:fajitas
+croptopia:fig	Fig	raw	fruit	luck 3s			
+croptopia:figgy_pudding	Figgy Pudding	meal	fruit,nut,egg,poultry,dairy,grain	luck 495s, focused 495s, absorption 495s			croptopia:figgy_pudding
+croptopia:fish_and_chips	Fish and Chips	dish	fish,chili,root,grain	dolphins_grace 165s, fire_resistance 165s			croptopia:fish_and_chips
+croptopia:french_fries	French Fries	prepared	root	steadfast 21s			croptopia:french_fries
+croptopia:fried_calamari	Fried Calamari	dish	fish,fruit,kelp,grain	dolphins_grace 165s, luck 165s			croptopia:fried_calamari
+croptopia:fried_chicken	Fried Chicken	dish	poultry,chili,grain	slow_falling 165s, fire_resistance 165s			croptopia:fried_chicken
+croptopia:fried_frog_legs	Fried Frog Legs	prepared	rabbit	jump_boost 22s			name
+croptopia:fried_rice	Fried Rice	dish	grain	haste 180s			croptopia:fried_rice
+croptopia:frog_legs	Frog Legs	raw	rabbit	jump_boost 4s			name
+croptopia:fruit_cake	Fruit Cake	meal	fruit,nut,egg,poultry,grain	luck 495s, focused 495s, absorption 495s			croptopia:fruit_cake
+croptopia:fruit_salad	Fruit Salad	dish	fruit,berry	luck 165s, keen 165s			croptopia:fruit_salad
+croptopia:fruit_smoothie	Fruit Smoothie	dish	fruit,dairy	luck 142s, resistance 142s			croptopia:fruit_smoothie
+croptopia:garlic	Garlic	raw	chili	fire_resistance 3s			
+croptopia:glowing_calamari	Glowing Calamari	raw	glow	night_vision 3s			name
+croptopia:goulash	Goulash	dish	red_meat,leafy,root	strength 180s, fresh 180s			croptopia:goulash
+croptopia:grape	Grape	raw	berry	keen 3s			
+croptopia:grape_jam	Grape Jam	prepared	berry	keen 19s			croptopia:grape_jam
+croptopia:grape_juice	Grape Juice	prepared	berry	keen 21s			croptopia:grape_juice
+croptopia:grapefruit	Grapefruit	raw	berry	keen 3s			
+croptopia:greenbean	Green Bean	raw	grain	haste 3s			
+croptopia:greenonion	Green Onion	raw	root	steadfast 3s			
+croptopia:grilled_cheese	Grilled Cheese	dish	dairy,grain	resistance 142s, haste 142s			croptopia:grilled_cheese
+croptopia:grilled_eggplant	Grilled Eggplant	dish	leafy,chili	fresh 165s, fire_resistance 165s			croptopia:grilled_eggplant
+croptopia:grilled_oysters	Grilled Oysters	dish	fish,chili,fruit,dairy	dolphins_grace 172s, fire_resistance 172s			croptopia:grilled_oysters
+croptopia:ground_pork	Ground Pork	prepared	red_meat	strength 16s			croptopia:ground_pork
+croptopia:ham_sandwich	Ham Sandwich	dish	red_meat,dairy,grain	strength 165s, resistance 165s			croptopia:ham_sandwich
+croptopia:hamburger	Hamburger	dish	red_meat,grain	strength 165s, haste 165s			croptopia:hamburger
+croptopia:hashed_brown	Hashed Browns	prepared	root	steadfast 18s			croptopia:hashed_brown
+croptopia:honeydew	Honeydew	raw	honey	regeneration 3s			
+croptopia:horchata	Horchata	dish	nut,fruit,grain	focused 165s, luck 165s			croptopia:horchata
+croptopia:kale	Kale	raw	leafy	fresh 3s			
+croptopia:kale_chips	Kale Chips	prepared	leafy	fresh 21s			croptopia:kale_chips
+croptopia:kale_smoothie	Kale Smoothie	dish	leafy,fruit,dairy	fresh 180s, luck 180s			croptopia:kale_smoothie
+croptopia:kimchi	Kimchi	prepared	leafy	fresh 21s			croptopia:kimchi
+croptopia:kiwi	Kiwi	raw	fruit	luck 3s			
+croptopia:kiwi_sorbet	Kiwi Sorbet	dish	fruit,honey	luck 142s, regeneration 142s			croptopia:kiwi_sorbet
+croptopia:kumquat	Kumquat	raw	fruit	luck 3s			
+croptopia:leafy_salad	Leafy Salad	dish	leafy	fresh 165s			croptopia:leafy_salad
+croptopia:leek	Leek	raw	root	steadfast 3s			
+croptopia:leek_soup	Leek Soup	dish	root,dairy	steadfast 142s, resistance 142s			croptopia:leek_soup
+croptopia:lemon	Lemon	raw	fruit	luck 3s			
+croptopia:lemon_chicken	Lemon Chicken	dish	fruit,chili,leafy,poultry	luck 165s, fire_resistance 165s			croptopia:lemon_chicken
+croptopia:lemon_coconut_bar	Lemon Coconut Bar	meal	fruit,egg,nut,poultry,grain,dairy	luck 428s, absorption 428s, focused 428s			croptopia:lemon_coconut_bar
+croptopia:lemonade	Lemonade	prepared	fruit	luck 21s			croptopia:lemonade
+croptopia:lettuce	Lettuce	raw	leafy	fresh 3s			
+croptopia:lime	Lime	raw	fruit	luck 3s			
+croptopia:limeade	Limeade	dish	fruit	luck 128s			croptopia:limeade
+croptopia:macaron	Macaron	meal	nut,egg,poultry,grain	focused 382s, absorption 382s, slow_falling 382s			croptopia:macaron
+croptopia:mango	Mango	raw	fruit	luck 3s			
+croptopia:mango_ice_cream	Mango Ice Cream	meal	fruit,egg,nut,poultry,dairy,grain	luck 428s, absorption 428s, focused 428s			croptopia:mango_ice_cream
+croptopia:mashed_potatoes	Mashed Potatoes	dish	root,dairy	steadfast 158s, resistance 158s			croptopia:mashed_potatoes
+croptopia:mead	Mead	prepared	honey	regeneration 24s			croptopia:mead
+croptopia:melon_juice	Melon Juice	prepared	fruit	luck 21s			croptopia:melon_juice
+croptopia:meringue	Meringue	meal	egg,nut,poultry,grain	absorption 405s, focused 405s, slow_falling 405s			croptopia:meringue
+croptopia:nectarine	Nectarine	raw	fruit	luck 3s			
+croptopia:nether_star_cake	Nether Star Cake	dish	grain	resistance 300s, haste 180s	resistance		croptopia:nether_star_cake
+croptopia:nether_wart_stew	Nether Wart Stew	meal	mushroom,nut,pumpkin,root,grain	mana_flow 428s, focused 428s, warmth 428s			croptopia:nether_wart_stew
+croptopia:nougat	Nougat	meal	nut,egg,poultry,grain	focused 428s, absorption 428s, slow_falling 428s			croptopia:nougat
+croptopia:nutmeg	Nutmeg	raw	nut	focused 3s			
+croptopia:nutty_cookie	Nutty Cookie	dish	nut,grain	focused 128s, haste 128s			croptopia:nutty_cookie
+croptopia:oat	Oats	raw	grain	haste 3s			
+croptopia:oatmeal	Oatmeal	dish	grain,dairy	haste 142s, resistance 142s			croptopia:oatmeal
+croptopia:olive	Olive	raw	leafy	fresh 3s			
+croptopia:onion	Onion	raw	root	steadfast 3s			
+croptopia:onion_rings	Onion Rings	dish	root,grain	steadfast 128s, haste 128s			croptopia:onion_rings
+croptopia:orange	Orange	raw	fruit	luck 3s			
+croptopia:orange_chicken	Orange Chicken	dish	fruit,chili,poultry	luck 180s, fire_resistance 180s			croptopia:orange_chicken
+croptopia:orange_juice	Orange Juice	prepared	fruit	luck 21s			croptopia:orange_juice
+croptopia:oyster	Oyster	raw	fish	dolphins_grace 3s			name
+croptopia:peach	Peach	raw	fruit	luck 3s			
+croptopia:peach_jam	Peach Jam	prepared	fruit	luck 19s			croptopia:peach_jam
+croptopia:peanut	Peanut	raw	nut	focused 3s			
+croptopia:peanut_butter	Peanut Butter	prepared	nut	focused 21s			croptopia:peanut_butter
+croptopia:peanut_butter_and_jam	Peanut Butter and Jam	dish	fruit,nut,grain	luck 165s, focused 165s			croptopia:peanut_butter_and_jam
+croptopia:peanut_butter_with_celery	Peanut Butter With Celery	dish	leafy,nut	fresh 142s, focused 142s			croptopia:peanut_butter_with_celery
+croptopia:pear	Pear	raw	fruit	luck 3s			
+croptopia:pecan	Pecan	raw	nut	focused 3s			
+croptopia:pecan_ice_cream	Pecan Ice Cream	meal	nut,egg,poultry,dairy,grain	focused 428s, absorption 428s, slow_falling 428s			croptopia:pecan_ice_cream
+croptopia:pecan_pie	Pecan Pie	meal	grain,nut,egg,poultry	haste 495s, focused 495s, absorption 495s			croptopia:pecan_pie
+croptopia:pepperoni	Pepperoni	dish	chili,red_meat	fire_resistance 128s, strength 128s			croptopia:pepperoni
+croptopia:persimmon	Persimmon	raw	fruit	luck 3s			
+croptopia:pickled_anchovy	Pickled Anchovies	prepared	fish	dolphins_grace 21s			croptopia:pickled_anchovy
+croptopia:pickled_beets	Pickled Beets	prepared	root	steadfast 20s			croptopia:pickled_beets
+croptopia:pickled_cucumber	Pickled Cucumber	prepared	fruit	luck 20s			croptopia:pickled_cucumber
+croptopia:pickled_eggs	Pickled Eggs	meal	egg,nut,poultry,grain	absorption 405s, focused 405s, slow_falling 405s			croptopia:pickled_eggs
+croptopia:pickled_garlic	Pickled Garlic	prepared	chili	fire_resistance 19s			croptopia:pickled_garlic
+croptopia:pickled_ginger	Pickled Ginger	prepared	chili	fire_resistance 19s			croptopia:pickled_ginger
+croptopia:pickled_onion	Pickled Onions	prepared	root	steadfast 20s			croptopia:pickled_onion
+croptopia:pickled_radish	Pickled Radish	prepared	root	steadfast 20s			croptopia:pickled_radish
+croptopia:pineapple	Pineapple	raw	fruit	luck 3s			
+croptopia:pineapple_chicken	Pineapple Chicken	dish	fruit,poultry	luck 180s, slow_falling 180s			croptopia:pineapple_chicken
+croptopia:pineapple_juice	Pineapple Juice	prepared	fruit	luck 21s			croptopia:pineapple_juice
+croptopia:pineapple_pepperoni_pizza	Pineapple Pepperoni Pizza	dish	chili,fruit,leafy,dairy,grain	fire_resistance 180s, luck 180s			croptopia:pineapple_pepperoni_pizza
+croptopia:pizza	Pizza	dish	leafy,dairy,grain	fresh 165s, resistance 165s			croptopia:pizza
+croptopia:plum	Plum	raw	fruit	luck 3s			
+croptopia:popcorn	Popcorn	prepared	grain	haste 19s			croptopia:popcorn
+croptopia:pork_and_beans	Pork and Beans	dish	red_meat,grain	strength 165s, haste 165s			croptopia:pork_and_beans
+croptopia:pork_jerky	Pork Jerky	prepared	red_meat	strength 21s			croptopia:pork_jerky
+croptopia:potato_chips	Potato Chips	prepared	root	steadfast 21s			croptopia:potato_chips
+croptopia:potato_soup	Potato Soup	dish	root,red_meat,grain	steadfast 165s, strength 165s			croptopia:potato_soup
+croptopia:protein_bar	Protein Bar	dish	nut,cocoa,honey	focused 165s, speed 165s			croptopia:protein_bar
+croptopia:pumpkin_bars	Pumpkin Bar	meal	pumpkin,nut,egg,poultry,grain,dairy	warmth 405s, focused 405s, absorption 405s			croptopia:pumpkin_bars
+croptopia:pumpkin_soup	Pumpkin Soup	dish	pumpkin,chili,root	warmth 165s, fire_resistance 165s			croptopia:pumpkin_soup
+croptopia:pumpkin_spice_latte	Pumpkin Spice Latte	dish	pumpkin,chili,cocoa,dairy	warmth 180s, fire_resistance 180s			croptopia:pumpkin_spice_latte
+croptopia:quesadilla	Quesadilla	dish	fruit,poultry,grain,dairy	luck 165s, slow_falling 165s			croptopia:quesadilla
+croptopia:quiche	Quiche	meal	egg,leafy,nut,poultry,root,grain,dairy	absorption 540s, fresh 540s, focused 540s			croptopia:quiche
+croptopia:radish	Radish	raw	root	steadfast 3s			
+croptopia:raisin_oatmeal_cookie	Raisin Oatmeal Cookie	meal	berry,grain,dairy	keen 382s, haste 382s, resistance 382s			croptopia:raisin_oatmeal_cookie
+croptopia:raisins	Raisins	prepared	berry	keen 19s			croptopia:raisins
+croptopia:raspberry	Raspberry	raw	berry	keen 3s			
+croptopia:raspberry_jam	Raspberry Jam	prepared	berry	keen 19s			croptopia:raspberry_jam
+croptopia:ratatouille	Ratatouille	dish	leafy,pumpkin,chili,root	fresh 180s, warmth 180s			croptopia:ratatouille
+croptopia:raw_ravager_meat	Raw Ravager Meat	raw	red_meat	poison 10s	poison	hunger	name
+croptopia:refried_beans	Refried Beans	dish	grain,chili,dairy	haste 142s, fire_resistance 142s			croptopia:refried_beans
+croptopia:rhubarb	Rhubarb	raw	fruit	luck 3s			
+croptopia:rhubarb_crisp	Rhubarb Crisp	dish	fruit,nut,grain,dairy	luck 165s, focused 165s			croptopia:rhubarb_crisp
+croptopia:rhubarb_pie	Rhubarb Pie	meal	fruit,egg,nut,poultry,grain	luck 495s, absorption 495s, focused 495s			croptopia:rhubarb_pie
+croptopia:rice	Rice	raw	grain	haste 3s			
+croptopia:roasted_asparagus	Roasted Asparagus	dish	leafy,chili	fresh 142s, fire_resistance 142s			croptopia:roasted_asparagus
+croptopia:roasted_nuts	Roasted Nuts	prepared	nut	focused 21s			croptopia:roasted_nuts_from_campfirecooking
+croptopia:roasted_pumpkin_seeds	Roasted Pumpkin Seeds	dish	pumpkin,chili	warmth 120s, fire_resistance 120s			croptopia:roasted_pumpkin_seeds
+croptopia:roasted_radishes	Roasted Radishes	dish	root,chili	steadfast 142s, fire_resistance 142s			croptopia:roasted_radishes
+croptopia:roasted_squash	Roasted Squash	dish	pumpkin,chili	warmth 142s, fire_resistance 142s			croptopia:roasted_squash
+croptopia:roasted_sunflower_seeds	Roasted Sunflower Seeds	dish	nut,chili	focused 120s, fire_resistance 120s			croptopia:roasted_sunflower_seeds
+croptopia:roasted_turnips	Roasted Turnips	dish	root,chili	steadfast 142s, fire_resistance 142s			croptopia:roasted_turnips
+croptopia:roe	Roe	raw	fish	dolphins_grace 3s			name
+croptopia:rum	Rum	prepared	honey	regeneration 24s			croptopia:rum
+croptopia:rum_raisin_ice_cream	Rum Raisin Ice Cream	meal	berry,egg,honey,nut,poultry,dairy,grain	keen 540s, absorption 540s, regeneration 540s			croptopia:rum_raisin_ice_cream
+croptopia:rutabaga	Rutabaga	raw	root	steadfast 3s			
+croptopia:saguaro	Saguaro	raw	leafy	fresh 3s			
+croptopia:saguaro_juice	Saguaro Juice	prepared	leafy	fresh 21s			croptopia:saguaro_juice
+croptopia:salsa	Salsa	dish	leafy,chili,fruit	fresh 128s, fire_resistance 128s			croptopia:salsa
+croptopia:saucy_chips	Saucy Chips	dish	leafy,root	fresh 142s, steadfast 142s			croptopia:saucy_chips
+croptopia:sauerkraut	Sauerkraut	dish	leafy,dairy	fresh 128s, resistance 128s			croptopia:sauerkraut
+croptopia:sausage	Sausage	dish	red_meat,chili	strength 112s, fire_resistance 112s			croptopia:sausage
+croptopia:scones	Scones	meal	nut,berry,egg,poultry,grain	focused 495s, keen 495s, absorption 495s			croptopia:scones
+croptopia:scrambled_eggs	Scrambled Eggs	meal	egg,nut,poultry,dairy,grain	absorption 428s, focused 428s, slow_falling 428s			croptopia:scrambled_eggs
+croptopia:sea_lettuce	Sea Lettuce	raw	kelp	water_breathing 3s			name
+croptopia:sesame_chicken	Sesame Chicken	raw	poultry	slow_falling 6s			name
+croptopia:shepherds_pie	Shepherd's Pie	dish	grain,chili,root,leafy,red_meat	haste 180s, fire_resistance 180s			croptopia:shepherds_pie
+croptopia:shrimp	Shrimp	raw	fish	dolphins_grace 3s			name
+croptopia:snicker_doodle	Snicker Doodle	dish	nut,grain	focused 142s, haste 142s			croptopia:snicker_doodle
+croptopia:soy_milk	Soy Milk	prepared	grain	haste 21s			croptopia:soy_milk
+croptopia:soybean	Soybeans	raw	grain	haste 3s			
+croptopia:spaghetti_squash	Spaghetti Squash	dish	pumpkin,chili	warmth 165s, fire_resistance 165s			croptopia:spaghetti_squash
+croptopia:spinach	Spinach	raw	leafy	fresh 3s			
+croptopia:squash	Squash	raw	pumpkin	warmth 3s			
+croptopia:starfruit	Star Fruit	raw	fruit	luck 3s			
+croptopia:steamed_broccoli	Steamed Broccoli	prepared	leafy	fresh 24s			croptopia:steamed_broccoli
+croptopia:steamed_clams	Steamed Clams	dish	fish,chili,dairy	dolphins_grace 172s, fire_resistance 172s			croptopia:steamed_clams
+croptopia:steamed_crab	Steamed Crab	prepared	fish	dolphins_grace 22s			croptopia:steamed_crab
+croptopia:steamed_green_beans	Steamed Green Beans	prepared	grain	haste 24s			croptopia:steamed_green_beans
+croptopia:steamed_rice	Steamed Rice	prepared	grain	haste 21s			croptopia:steamed_rice
+croptopia:sticky_toffee_pudding	Sticky Toffee Pudding	meal	honey,nut,egg,fruit,poultry,dairy,grain	regeneration 540s, focused 540s, absorption 540s			croptopia:sticky_toffee_pudding
+croptopia:stir_fry	Stir Fry	dish	chili,glow,leafy,root	fire_resistance 180s, night_vision 180s			croptopia:stir_fry
+croptopia:strawberry	Strawberry	raw	berry	keen 3s			
+croptopia:strawberry_ice_cream	Strawberry Ice Cream	meal	berry,egg,nut,poultry,dairy,grain	keen 428s, absorption 428s, focused 428s			croptopia:strawberry_ice_cream
+croptopia:strawberry_jam	Strawberry Jam	prepared	berry	keen 19s			croptopia:strawberry_jam
+croptopia:strawberry_smoothie	Strawberry Smoothie	dish	berry,dairy	keen 128s, resistance 128s			croptopia:strawberry_smoothie
+croptopia:stuffed_artichoke	Stuffed Artichoke	dish	leafy,chili,fruit,dairy,grain	fresh 180s, fire_resistance 180s			croptopia:stuffed_artichoke
+croptopia:stuffed_poblanos	Stuffed Poblanos	dish	chili,red_meat,grain,dairy	fire_resistance 180s, strength 180s			croptopia:stuffed_poblanos
+croptopia:sunny_side_eggs	Sunny Side Up Eggs	meal	egg,nut,poultry,grain	absorption 382s, focused 382s, slow_falling 382s			croptopia:sunny_side_eggs
+croptopia:supreme_pizza	Supreme Pizza	dish	leafy,chili,red_meat,dairy,grain	fresh 180s, fire_resistance 180s			croptopia:supreme_pizza
+croptopia:sushi	Sushi	dish	fish,grain	dolphins_grace 165s, haste 165s			croptopia:sushi
+croptopia:sweet_crepes	Sweet Crêpes	meal	egg,fruit,nut,poultry,grain,dairy	absorption 450s, luck 450s, focused 450s			croptopia:sweet_crepes
+croptopia:sweet_potato_fries	Sweet Potato Fries	prepared	root	steadfast 21s			croptopia:sweet_potato_fries
+croptopia:sweetpotato	Sweet Potato	raw	root	steadfast 3s			
+croptopia:taco	Taco	meal	leafy,chili,fruit,red_meat,dairy,grain	fresh 495s, fire_resistance 495s, luck 495s			croptopia:taco
+croptopia:tamales	Tamales	dish	chili,poultry,root,grain	fire_resistance 180s, slow_falling 180s			croptopia:tamales
+croptopia:tea	Tea	prepared	cocoa	speed 21s			croptopia:tea
+croptopia:teriyaki_chicken	Teriyaki Chicken	dish	poultry,chili,grain	slow_falling 180s, fire_resistance 180s			croptopia:teriyaki_chicken
+croptopia:the_big_breakfast	The Big Breakfast	meal	red_meat,root,egg,nut,poultry,grain	strength 540s, steadfast 540s, absorption 540s			croptopia:the_big_breakfast
+croptopia:toast	Toast	prepared	grain	haste 24s			croptopia:toast
+croptopia:toast_sandwich	Toast Sandwich	meal	grain,dairy	haste 495s, resistance 495s			croptopia:toast_sandwich
+croptopia:toast_with_jam	Toast With Jam	dish	fruit,grain	luck 158s, haste 158s			croptopia:toast_with_jam
+croptopia:tofu	Tofu	prepared	grain	haste 21s			croptopia:tofu
+croptopia:tofu_and_dumplings	Tofu and Dumplings	dish	grain,chili	haste 180s, fire_resistance 180s			croptopia:tofu_and_dumplings
+croptopia:tofuburger	Tofuburger	dish	red_meat,leafy,root,grain	strength 165s, fresh 165s			croptopia:tofuburger
+croptopia:tomatillo	Tomatillo	raw	leafy	fresh 3s			
+croptopia:tomato	Tomato	raw	leafy	fresh 3s			
+croptopia:tomato_juice	Tomato Juice	prepared	leafy	fresh 21s			croptopia:tomato_juice
+croptopia:tortilla	Tortilla	prepared	grain	haste 21s			croptopia:tortilla
+croptopia:tostada	Tostada	dish	leafy,grain	fresh 165s, haste 165s			croptopia:tostada
+croptopia:trail_mix	Trail Mix	dish	nut,berry,cocoa	focused 165s, keen 165s			croptopia:trail_mix
+croptopia:transcendental_breakfast	Transcendental Breakfast	meal	egg,red_meat,nut,poultry,root,chili,fish,grain,dairy	nausea 5s, absorption 540s, strength 540s	nausea		croptopia:transcendental_breakfast
+croptopia:treacle_tart	Treacle Tart	meal	fruit,honey,nut,grain,dairy	luck 495s, regeneration 495s, focused 495s			croptopia:treacle_tart
+croptopia:tres_leche_cake	Tres Leche Cake	meal	nut,egg,honey,poultry,dairy,grain	focused 540s, absorption 540s, regeneration 540s			croptopia:tres_leche_cake
+croptopia:trifle	Trifle	meal	berry,nut,egg,poultry,dairy,grain	keen 540s, focused 540s, absorption 540s			croptopia:trifle
+croptopia:tteokbokki	Tteokbokki	raw	grain	haste 6s			name
+croptopia:tuna	Tuna	raw	fish	dolphins_grace 3s			name
+croptopia:tuna_roll	Tuna Roll	dish	fish,kelp,root,grain	dolphins_grace 165s, water_breathing 165s			croptopia:tuna_roll
+croptopia:tuna_sandwich	Tuna Sandwich	dish	fish	dolphins_grace 165s			name
+croptopia:turnip	Turnip	raw	root	steadfast 3s			
+croptopia:vanilla_ice_cream	Vanilla Ice Cream	meal	nut,egg,poultry,dairy,grain	focused 428s, absorption 428s, slow_falling 428s			croptopia:vanilla_ice_cream
+croptopia:veggie_fried_rice	Veggie Fried Rice	dish	grain,glow,root	haste 165s, night_vision 165s			croptopia:veggie_fried_rice
+croptopia:veggie_salad	Veggie Salad	dish	leafy,fruit,glow,grain	fresh 165s, luck 165s			croptopia:veggie_salad
+croptopia:walnut	Walnut	raw	nut	focused 3s			
+croptopia:wine	Wine	prepared	berry	keen 24s			croptopia:wine
+croptopia:yam	Yam	raw	root	steadfast 3s			
+croptopia:yam_jam	Yam Jam	dish	fruit,nut,root,dairy	luck 180s, focused 180s			croptopia:yam_jam
+croptopia:yoghurt	Yoghurt	dish	dairy,berry	resistance 128s, keen 128s			croptopia:yoghurt
+croptopia:zucchini	Zucchini	raw	pumpkin	warmth 3s			
+enderscape:drift_jelly_bottle	Drift Jelly Bottle	raw	fruit	low_gravity 20s	low_gravity		name
+enderscape:murublight_bracket	Murublight Bracket	raw	chorus	void_corruption 12s	void_corruption		name
+enderscape:puruberry	Puruberry	raw	chorus	void_purification 15s	void_purification		
+farmersdelight:apple_cider	Apple Cider	meal	fruit	absorption 60s, luck 270s	absorption		farmersdelight:cooking/apple_cider
+farmersdelight:apple_pie_slice	Slice of Apple Pie	prepared	fruit	speed 30s	speed		farmersdelight:chopping_board/apple_pie_slice
+farmersdelight:bacon	Raw Bacon	raw	red_meat	strength 4s			
+farmersdelight:bacon_and_eggs	Bacon and Eggs	dish	egg,red_meat	absorption 165s, strength 165s		nourishment	farmersdelight:bacon_and_eggs
+farmersdelight:bacon_sandwich	Bacon Sandwich	dish	red_meat,leafy,grain	strength 165s, fresh 165s			farmersdelight:bacon_sandwich
+farmersdelight:baked_cod_stew	Baked Cod Stew	meal	fish,egg,leafy,root	dolphins_grace 540s, absorption 540s, fresh 540s		nourishment	farmersdelight:cooking/baked_cod_stew
+farmersdelight:barbecue_stick	Barbecue on a Stick	dish	leafy,red_meat,root	fresh 150s, strength 150s			farmersdelight:barbecue_stick
+farmersdelight:beef_patty	Beef Patty	prepared	red_meat	strength 20s			farmersdelight:beef_patty_from_campfire_cooking
+farmersdelight:beef_stew	Beef Stew	meal	red_meat,glow,root	strength 540s, night_vision 540s, steadfast 540s		nourishment	farmersdelight:cooking/beef_stew
+farmersdelight:bone_broth	Bone Broth	meal	glow,mushroom	night_vision 450s, mana_flow 450s		nourishment	farmersdelight:cooking/bone_broth
+farmersdelight:cabbage	Cabbage	raw	leafy	fresh 4s			
+farmersdelight:cabbage_leaf	Cabbage Leaf	raw	leafy	fresh 3s			
+farmersdelight:cabbage_rolls	Cabbage Rolls	meal	leafy,fish,mushroom,red_meat	fresh 382s, dolphins_grace 382s, mana_flow 382s			farmersdelight:cooking/cabbage_rolls
+farmersdelight:cake_slice	Slice of Cake	prepared		speed 20s	speed		farmersdelight:chopping_board/cake_slice
+farmersdelight:chicken_cuts	Raw Chicken Cuts	raw	poultry	slow_falling 3s		hunger	
+farmersdelight:chicken_sandwich	Chicken Sandwich	dish	poultry,glow,leafy,grain	slow_falling 165s, night_vision 165s			farmersdelight:chicken_sandwich
+farmersdelight:chicken_soup	Chicken Soup	meal	poultry,leafy,glow	slow_falling 540s, fresh 540s, night_vision 540s		nourishment	farmersdelight:cooking/chicken_soup
+farmersdelight:chocolate_pie_slice	Slice of Chocolate Pie	prepared	cocoa	speed 30s	speed		farmersdelight:chopping_board/chocolate_pie_slice
+farmersdelight:cod_roll	Cod Roll	meal	fish,grain	dolphins_grace 428s, haste 428s			farmersdelight:cod_roll
+farmersdelight:cod_slice	Raw Cod Slice	raw	fish	dolphins_grace 3s			
+farmersdelight:cooked_bacon	Cooked Bacon	prepared	red_meat	strength 20s			farmersdelight:cooked_bacon_from_campfire_cooking
+farmersdelight:cooked_chicken_cuts	Cooked Chicken Cuts	prepared	poultry	slow_falling 19s			farmersdelight:cooked_chicken_cuts_from_campfire_cooking
+farmersdelight:cooked_cod_slice	Cooked Cod Slice	prepared	fish	dolphins_grace 19s			farmersdelight:cooked_cod_slice_from_campfire_cooking
+farmersdelight:cooked_mutton_chops	Cooked Mutton Chops	prepared	red_meat	strength 19s			farmersdelight:cooked_mutton_chops_from_campfire_cooking
+farmersdelight:cooked_rice	Cooked Rice	meal	grain	haste 405s		nourishment	farmersdelight:cooking/cooked_rice
+farmersdelight:cooked_salmon_slice	Cooked Salmon Slice	prepared	fish	dolphins_grace 19s			farmersdelight:cooked_salmon_slice_from_campfire_cooking
+farmersdelight:dog_food	Dog Food	meal	red_meat,spoiled,grain	strength 360s, nausea 10s, haste 360s			farmersdelight:cooking/dog_food
+farmersdelight:dumplings	Dumplings	meal	grain,red_meat,leafy,mushroom,poultry,root	haste 450s, strength 450s, fresh 450s			farmersdelight:cooking/dumplings
+farmersdelight:egg_sandwich	Egg Sandwich	dish	egg,grain	absorption 150s, haste 150s			farmersdelight:egg_sandwich
+farmersdelight:fish_stew	Fish Stew	meal	fish,leafy,root	dolphins_grace 540s, fresh 540s, steadfast 540s		nourishment	farmersdelight:cooking/fish_stew
+farmersdelight:fried_egg	Fried Egg	prepared	egg	absorption 20s			farmersdelight:fried_egg_from_campfire_cooking
+farmersdelight:fried_rice	Fried Rice	meal	grain,glow,root	haste 540s, night_vision 540s, steadfast 540s		nourishment	farmersdelight:cooking/fried_rice
+farmersdelight:fruit_salad	Fruit Salad	dish	fruit,berry,pumpkin	regeneration 5s, luck 135s	regeneration		farmersdelight:fruit_salad
+farmersdelight:gleaming_salad	Bowl of Gleaming Salad	meal	leafy,glow,honey,root	fresh 540s, night_vision 540s, regeneration 540s		nourishment	farmersdelight:gleaming_salad_block
+farmersdelight:glow_berry_custard	Glow Berry Custard	meal	glow,egg,dairy	glowing 5s, night_vision 428s, absorption 428s	glowing		farmersdelight:cooking/glow_berry_custard
+farmersdelight:grilled_salmon	Grilled Salmon	dish	fish,berry,leafy,root	dolphins_grace 180s, keen 180s		nourishment	farmersdelight:grilled_salmon
+farmersdelight:ham	Ham	raw	red_meat	strength 4s			name
+farmersdelight:hamburger	Hamburger	dish	red_meat,leafy,root,grain	strength 172s, fresh 172s			farmersdelight:hamburger
+farmersdelight:honey_cookie	Honey Cookie	dish	honey,grain	regeneration 105s, haste 105s			farmersdelight:honey_cookie
+farmersdelight:honey_glazed_ham	Plate of Honey Glazed Ham	meal	honey,berry,red_meat,grain	regeneration 540s, keen 540s, strength 540s		nourishment	farmersdelight:honey_glazed_ham_block
+farmersdelight:kelp_roll	Kelp Roll	meal	kelp,leafy,grain	water_breathing 540s, fresh 540s, haste 540s			farmersdelight:kelp_roll
+farmersdelight:kelp_roll_slice	Kelp Roll Slice	meal	kelp,leafy,grain	water_breathing 405s, fresh 405s, haste 405s			farmersdelight:chopping_board/kelp_roll_slice
+farmersdelight:melon_popsicle	Melon Popsicle	prepared	fruit	luck 19s			farmersdelight:melon_popsicle
+farmersdelight:minced_beef	Minced Beef	raw	red_meat	strength 4s			
+farmersdelight:mixed_salad	Mixed Salad	dish	leafy,root	regeneration 5s, fresh 135s	regeneration		farmersdelight:mixed_salad
+farmersdelight:mushroom_rice	Mushroom Rice	meal	mushroom,root,grain	mana_flow 540s, steadfast 540s, haste 540s		nourishment	farmersdelight:cooking/kc_mushroom_rice
+farmersdelight:mutton_chops	Raw Mutton Chops	raw	red_meat	strength 3s			
+farmersdelight:mutton_wrap	Mutton Wrap	dish	red_meat,leafy,root,grain	strength 165s, fresh 165s			farmersdelight:mutton_wrap
+farmersdelight:nether_salad	Nether Salad	dish	leafy,mushroom	nausea 12s, fresh 128s	nausea		farmersdelight:nether_salad
+farmersdelight:noodle_soup	Noodle Soup	meal	grain,egg,kelp,red_meat	haste 540s, absorption 540s, water_breathing 540s		nourishment	farmersdelight:cooking/kc_noodle_soup
+farmersdelight:onion	Onion	raw	root	steadfast 4s			
+farmersdelight:onion_soup	Onion Soup	meal	root,dairy,grain	steadfast 540s, resistance 540s, haste 540s		nourishment	farmersdelight:cooking/onion_soup
+farmersdelight:pasta_with_meatballs	Pasta with Meatballs	meal	red_meat,leafy,grain	strength 540s, fresh 540s, haste 540s		nourishment	farmersdelight:cooking/kc_pasta_with_meatballs
+farmersdelight:pasta_with_mutton_chop	Pasta with Mutton Chop	meal	red_meat,leafy,grain	strength 540s, fresh 540s, haste 540s		nourishment	farmersdelight:cooking/kc_pasta_with_mutton_chop
+farmersdelight:pie_crust	Pie Crust	dish	grain,dairy	haste 105s, resistance 105s			farmersdelight:pie_crust
+farmersdelight:pumpkin_pie_slice	Slice of Pumpkin Pie	prepared	pumpkin	speed 30s	speed		farmersdelight:cutting/pumpkin_pie
+farmersdelight:pumpkin_slice	Pumpkin Slice	prepared	pumpkin	warmth 19s			farmersdelight:chopping_board/pumpkin_slice
+farmersdelight:pumpkin_soup	Pumpkin Soup	meal	pumpkin,leafy,red_meat,dairy	warmth 540s, fresh 540s, strength 540s		nourishment	farmersdelight:cooking/kc_pumpkin_soup
+farmersdelight:ratatouille	Ratatouille	meal	root,leafy	steadfast 495s, fresh 495s		nourishment	farmersdelight:cooking/kc_ratatouille
+farmersdelight:raw_pasta	Raw Pasta	prepared	grain	haste 18s		hunger	farmersdelight:tag_dough
+farmersdelight:roast_chicken	Plate of Roast Chicken	meal	poultry,root,glow,egg,grain	slow_falling 540s, steadfast 540s, night_vision 540s		nourishment	farmersdelight:pot/roast_chicken_block
+farmersdelight:roasted_mutton_chops	Roasted Mutton Chops	meal	red_meat,leafy,root	strength 540s, fresh 540s, steadfast 540s		nourishment	farmersdelight:pot/roasted_mutton_chops
+farmersdelight:salmon_roll	Salmon Roll	meal	fish,grain	dolphins_grace 428s, haste 428s			farmersdelight:salmon_roll
+farmersdelight:salmon_slice	Raw Salmon Slice	raw	fish	dolphins_grace 3s			
+farmersdelight:shepherds_pie	Plate of Shepherd's Pie	meal	grain,root,red_meat,dairy	haste 540s, steadfast 540s, strength 540s		nourishment	farmersdelight:shepherds_pie_block
+farmersdelight:smoked_ham	Smoked Ham	prepared	red_meat	strength 28s			farmersdelight:smoked_ham_from_campfire_cooking
+farmersdelight:squid_ink_pasta	Squid Ink Pasta	meal	fish,leafy,grain	dolphins_grace 540s, fresh 540s, haste 540s		nourishment	farmersdelight:cooking/kc_squid_ink_pasta
+farmersdelight:steak_and_potatoes	Steak and Potatoes	meal	red_meat,root	strength 540s, steadfast 540s		nourishment	farmersdelight:pot/steak_and_potatoes
+farmersdelight:stuffed_potato	Stuffed Potato	dish	root,red_meat,dairy	steadfast 165s, strength 165s			farmersdelight:stuffed_potato
+farmersdelight:stuffed_pumpkin	Bowl of Stuffed Pumpkin	meal	pumpkin,root,berry,mushroom,grain	warmth 540s, steadfast 540s, keen 540s		nourishment	farmersdelight:cooking/kc_stuffed_pumpkin_block
+farmersdelight:sweet_berry_cheesecake_slice	Slice of Sweet Berry Cheesecake	prepared	berry	speed 30s	speed		farmersdelight:chopping_board/sweet_berry_cheesecake_slice
+farmersdelight:sweet_berry_cookie	Sweet Berry Cookie	dish	berry,grain	keen 105s, haste 105s			farmersdelight:sweet_berry_cookie
+farmersdelight:tomato	Tomato	raw	leafy	fresh 3s			
+farmersdelight:tomato_sauce	Tomato Sauce	meal	leafy	fresh 360s			farmersdelight:cooking/kc_tomato_sauce
+farmersdelight:vegetable_noodles	Vegetable Noodles	meal	grain,glow,leafy,mushroom	haste 540s, night_vision 540s, fresh 540s		nourishment	farmersdelight:cooking/kc_vegetable_noodles
+farmersdelight:vegetable_soup	Vegetable Soup	meal	root,glow,leafy	steadfast 540s, night_vision 540s, fresh 540s		nourishment	farmersdelight:cooking/kc_vegetable_soup
+farmersdelight:wheat_dough	Wheat Dough	dish	grain,egg	haste 105s, absorption 105s		hunger	farmersdelight:wheat_dough_from_egg
+fetzisasiandeco:cooked_koi_fish	Cooked Koi	prepared	fish	dolphins_grace 22s			fetzisasiandeco:koi_campfire
+fetzisasiandeco:koi_fish	Raw Koi	raw	fish	dolphins_grace 3s			name
+fishofthieves:ancientscale	Raw Ancientscale	raw	fish	dolphins_grace 4s			
+fishofthieves:banana	Banana	raw	fruit	luck 4s			
+fishofthieves:battlegill	Raw Battlegill	raw	fish	dolphins_grace 4s			
+fishofthieves:coconut	Coconut	raw	fruit	luck 4s			
+fishofthieves:cooked_ancientscale	Cooked Ancientscale	prepared	fish	dolphins_grace 21s			fishofthieves:cooked_ancientscale_from_campfire_cooking
+fishofthieves:cooked_battlegill	Cooked Battlegill	prepared	fish	resistance 10s	resistance		fishofthieves:cooked_battlegill_from_campfire_cooking
+fishofthieves:cooked_devilfish	Cooked Devilfish	prepared	fish	dolphins_grace 21s			fishofthieves:cooked_devilfish_from_campfire_cooking
+fishofthieves:cooked_islehopper	Cooked Islehopper	prepared	fish	dolphins_grace 21s			fishofthieves:cooked_islehopper_from_campfire_cooking
+fishofthieves:cooked_plentifin	Cooked Plentifin	prepared	fish	luck 10s	luck		fishofthieves:cooked_plentifin_from_campfire_cooking
+fishofthieves:cooked_pondie	Cooked Pondie	prepared	fish	dolphins_grace 21s			fishofthieves:cooked_pondie_from_campfire_cooking
+fishofthieves:cooked_splashtail	Cooked Splashtail	prepared	fish	dolphins_grace 22s			fishofthieves:cooked_splashtail_from_campfire_cooking
+fishofthieves:cooked_stormfish	Cooked Stormfish	prepared	fish	dolphins_grace 22s			fishofthieves:cooked_stormfish_from_campfire_cooking
+fishofthieves:cooked_wildsplash	Cooked Wildsplash	prepared	fish	dolphins_grace 22s			fishofthieves:cooked_wildsplash_from_campfire_cooking
+fishofthieves:cooked_wrecker	Cooked Wrecker	prepared	fish	dolphins_grace 22s			fishofthieves:cooked_wrecker_from_campfire_cooking
+fishofthieves:crownless_pineapple	Crownless Pineapple	raw	fruit	luck 4s			
+fishofthieves:devilfish	Raw Devilfish	raw	fish	weakness 10s	weakness		
+fishofthieves:earthworms	Earthworms	raw	spoiled	nausea 20s	nausea		name
+fishofthieves:grubs	Grubs	raw	spoiled	nausea 20s	nausea		name
+fishofthieves:guardian_fruit	Guardian Fruit	raw	fruit	guardian_stifle 180s	guardian_stifle		
+fishofthieves:half_pineapple	Half Pineapple	raw	fruit	luck 4s			name
+fishofthieves:islehopper	Raw Islehopper	raw	fish	dolphins_grace 4s			
+fishofthieves:leeches	Leeches	raw	spoiled	nausea 20s	nausea		name
+fishofthieves:mango	Mango	raw	fruit	luck 4s			
+fishofthieves:pineapple	Pineapple	raw	fruit	luck 4s			
+fishofthieves:plentifin	Raw Plentifin	raw	fish	dolphins_grace 4s			
+fishofthieves:pomegranate	Pomegranate	raw	fruit	luck 4s			
+fishofthieves:pondie	Raw Pondie	raw	fish	dolphins_grace 3s			
+fishofthieves:raw_mango	Raw Mango	raw	fruit	speed 10s, haste 10s, jump_boost 10s	speed,haste,jump_boost		
+fishofthieves:splashtail	Raw Splashtail	raw	fish	dolphins_grace 4s			
+fishofthieves:stormfish	Raw Stormfish	raw	fish	dolphins_grace 4s			
+fishofthieves:wildsplash	Raw Wildsplash	raw	fish	dolphins_grace 4s			
+fishofthieves:wrecker	Raw Wrecker	raw	fish	dolphins_grace 4s			
+gofish:aquatic_astral_stew	Aquatic Astral Stew	dish	fish	dolphins_grace 158s			gofish:aquatic_astral_stew
+gofish:baked_carrot_carp	Baked Carrot Carp	prepared	glow	night_vision 22s			gofish:baked_carrot_carp_from_campfire_cooking
+gofish:baked_endfish	Baked Endfish	prepared	fish	dolphins_grace 22s			gofish:baked_endfish_from_campfire_cooking
+gofish:baked_seaweed	Baked Seaweed	prepared	kelp	water_breathing 20s			gofish:baked_seaweed_from_campfire_cooking
+gofish:basalt_bass	Basalt Bass	raw	fish	dolphins_grace 4s			name
+gofish:blackstone_trout	Blackstone Trout	raw	fish	dolphins_grace 4s			name
+gofish:blizzard_bass	Blizzard Bass	raw	fish	dolphins_grace 4s			name
+gofish:carrot_carp	Carrot Carp	raw	glow	night_vision 4s			name
+gofish:charfish	Charfish	prepared	fish	blindness 5s	blindness		gofish:charfish_from_campfire_cooking
+gofish:chorus_cod	Chorus Cod	raw	chorus	low_gravity 4s			name
+gofish:cloudy_crab	Cloudy Crab	raw	fish	dolphins_grace 4s			name
+gofish:dragonfish	Dragonfish	raw	fish	dolphins_grace 5s			name
+gofish:ender_eel	Ender Eel	raw	chorus	low_gravity 4s			name
+gofish:endfish	Endfish	raw	fish	dolphins_grace 4s			name
+gofish:endfish_and_chorus	Endfish n' Chorus	dish	chorus,fish	low_gravity 150s, dolphins_grace 150s			gofish:endfish_and_chorus
+gofish:galaxy_starfish	Galaxy Starfish	raw	fish	dolphins_grace 4s			name
+gofish:gilded_blackstone_carp	Gilded Blackstone Carp	raw	fish	dolphins_grace 4s			name
+gofish:grilled_blackstone_deluxe	Blackstone Trout Deluxe	dish	root,fish,kelp	steadfast 172s, dolphins_grace 172s			gofish:grilled_blackstone_deluxe
+gofish:grilled_blackstone_trout	Grilled Blackstone Trout	prepared	fish	dolphins_grace 25s			gofish:grilled_blackstone_trout_from_campfire_cooking
+gofish:icicle_fish	Icicle Fish	raw	fish	instant_damage 0s	instant_damage		name
+gofish:lilyfish	Lilyfish	raw	fish	dolphins_grace 4s			name
+gofish:lunarfish	Lunarfish	raw	fish	dolphins_grace 4s			name
+gofish:magma_cod	Magma Cod	raw	fish	fire_resistance 15s	fire_resistance		name
+gofish:matrix_fish	Matrix Fish	raw	fish	dolphins_grace 4s			name
+gofish:nebula_swordfish	Nebula Swordfish	raw	fish	dolphins_grace 4s			name
+gofish:oakfish	Oakfish	raw	fish	dolphins_grace 4s			name
+gofish:obsidian_halibut	Obsidian Halibut	raw	fish	dolphins_grace 4s			name
+gofish:omega_floater	Omega Floater	raw	fish	dolphins_grace 4s			name
+gofish:portal_puffer	Portal Puffer	raw	pufferfish	conduit_power 4s			name
+gofish:rainy_bass	Rainy Bass	raw	fish	dolphins_grace 4s			name
+gofish:seaweed_eel	Seaweed Eel	raw	kelp	water_breathing 4s			name
+gofish:slimefish	Slimefish	raw	fruit	slowness 5s	slowness		name
+gofish:smoked_cloudy_crab	Smoked Cloudy Crab	prepared	fish	dolphins_grace 24s			gofish:smoked_cloudy_crab_from_campfire_cooking
+gofish:smokey_salmon	Smokey Salmon	raw	fish	fire_resistance 15s	fire_resistance		name
+gofish:snowball_fish	Snowball Fish	raw	fish	dolphins_grace 4s			name
+gofish:soul_salmon	Soul Salmon	raw	fish	dolphins_grace 4s			name
+gofish:starry_salmon	Starry Salmon	raw	fish	dolphins_grace 4s			name
+gofish:steamed_bass	Steamed Bass	prepared	fish	dolphins_grace 22s			gofish:steamed_bass_from_campfire
+gofish:terrafish	Terrafish	raw	fish	dolphins_grace 4s			name
+gofish:thundering_bass	Thundering Bass	raw	fish	speed 15s	speed		name
+hauntedharvest:candy_corn	Candy Corn	dish	honey	regeneration 105s			name
+hauntedharvest:corn_on_the_cob	Corn on the Cob	raw	grain	haste 4s			name
+hauntedharvest:cornbread	Cornbread	dish	grain	haste 120s			hauntedharvest:corn_bread
+hauntedharvest:grim_apple	Grim Apple	meal	fruit,spoiled,mushroom,nut,root	nausea 10s, wither 11s, poison 25s, weakness 300s	nausea,wither,poison,weakness	hunger	hauntedharvest:grim_apple
+hauntedharvest:popcorn	Popcorn	raw	grain	haste 4s			name
+hauntedharvest:rotten_apple	Rotten Apple	raw	spoiled	nausea 4s		hunger	name
+hauntedharvest:succotash	Succotash	raw	leafy	fresh 6s		nourishment	name
+kaleidoscope_cookery:bamboo_tube_rice	Bamboo Tube Rice	dish	grain,red_meat	haste 165s, strength 165s			kaleidoscope_cookery:steamer/bamboo_tube_rice
+kaleidoscope_cookery:baozi	Baozi	prepared	grain	absorption 80s	absorption		kaleidoscope_cookery:steamer/baozi
+kaleidoscope_cookery:beef_meatball_soup	Beef Meatball Soup	meal	red_meat,leafy	preservation 180s, strength 382s, fresh 382s	preservation		kaleidoscope_cookery:flex_stockpot/beef_meatball_soup
+kaleidoscope_cookery:beef_noodle	Beef Noodle	meal	red_meat,grain	vitality 480s, strength 540s, haste 540s	vitality		kaleidoscope_cookery:flex_stockpot/beef_noodle
+kaleidoscope_cookery:blaze_lamb_chop	Blaze Lamb Chop	meal	red_meat,nut	haste 60s, strength 495s, focused 495s	haste		kaleidoscope_cookery:flex_pot/blaze_lamb_chop
+kaleidoscope_cookery:borscht	Borscht	meal	leafy,red_meat	flatulence 150s, fresh 360s, strength 360s	flatulence		kaleidoscope_cookery:flex_stockpot/borscht
+kaleidoscope_cookery:braised_beef	Braised Beef	meal	red_meat,chili	flatulence 50s, satiated_shield 80s, strength 450s	flatulence,satiated_shield		kaleidoscope_cookery:flex_pot/braised_beef
+kaleidoscope_cookery:braised_beef_rice_bowl	Braised Beef on Rice	meal	red_meat,chili	flatulence 50s, satiated_shield 80s, strength 540s	flatulence,satiated_shield		kaleidoscope_cookery:braised_beef_rice_bowl
+kaleidoscope_cookery:braised_beef_with_potatoes	Braised Beef with Potatoes	meal	red_meat,root	warmth 270s, strength 382s, steadfast 382s	warmth		kaleidoscope_cookery:flex_stockpot/braised_beef_with_potatoes
+kaleidoscope_cookery:braised_fish	Braised Fish	meal	fish	satiated_shield 80s, water_breathing 180s, dolphins_grace 450s	satiated_shield,water_breathing		kaleidoscope_cookery:deprecated/braised_fish_cod
+kaleidoscope_cookery:braised_fish_rice_bowl	Braised Fish on Rice	meal	fish	water_breathing 180s, satiated_shield 80s, dolphins_grace 540s	water_breathing,satiated_shield		kaleidoscope_cookery:deprecated/braised_fish_cod_with_rice
+kaleidoscope_cookery:braised_pork_ribs	Braised Pork Ribs	meal	red_meat,fish	haste 60s, strength 540s, dolphins_grace 540s	haste		kaleidoscope_cookery:flex_pot/braised_pork_ribs
+kaleidoscope_cookery:brown_mushroom_pot_soup	Brown Mushroom Pot Soup	meal	mushroom	haste 60s, mana_flow 540s	haste		kaleidoscope_cookery:flex_stockpot/brown_mushroom_pot_soup
+kaleidoscope_cookery:buddha_jumps_over_the_wall	Buddha Jumps Over the Wall	meal	egg,leafy,nut,poultry,grain	haste 60s, absorption 540s, fresh 540s	haste		kaleidoscope_cookery:flex_stockpot/buddha_jumps_over_the_wall
+kaleidoscope_cookery:candied_potato	Candied Potatoes	meal	root	haste 60s, steadfast 540s	haste		kaleidoscope_cookery:flex_pot/candied_potato
+kaleidoscope_cookery:caterpillar	Caterpillar	raw	spoiled	nausea 10s	nausea		name
+kaleidoscope_cookery:chicken_and_mushroom_stew	Chicken and Mushroom Stew	meal	mushroom,poultry	warmth 270s, mana_flow 360s, slow_falling 360s	warmth		kaleidoscope_cookery:flex_stockpot/chicken_and_mushroom_stew
+kaleidoscope_cookery:chorus_fried_egg	Chorus Fried Egg	meal	chorus,egg	flatulence 20s, resistance 100s, low_gravity 472s	flatulence,resistance		kaleidoscope_cookery:flex_pot/chorus_fried_egg
+kaleidoscope_cookery:cold_roasted_meat	Cold Roasted Meat	prepared	red_meat	haste 60s	haste		kaleidoscope_cookery:cold_roasted_meat
+kaleidoscope_cookery:cold_style_sashimi	Frost Style Sashimi	dish	fish	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:cold_style_sashimi
+kaleidoscope_cookery:cooked_cow_offal	Cooked Cow Offal	prepared	red_meat	strength 20s			kaleidoscope_cookery:chopping_board/cooked_cow_offal
+kaleidoscope_cookery:cooked_cut_small_meats	Cooked Meat Cuts	prepared	red_meat,poultry	strength 20s			kaleidoscope_cookery:chopping_board/cooked_cut_small_meats_from_chicken
+kaleidoscope_cookery:cooked_donkey_meat	Cooked Donkey Meat	prepared	red_meat	strength 22s			minecraft:cooked_donkey_meat_from_campfire_cooking
+kaleidoscope_cookery:cooked_lamb_chops	Cooked Lamb Chops	prepared	red_meat	strength 19s			kaleidoscope_cookery:chopping_board/cooked_lamb_chops
+kaleidoscope_cookery:cooked_meatball	Cooked Meatball	dish	red_meat	strength 150s			minecraft:cooked_meatball_from_campfire_cooking
+kaleidoscope_cookery:cooked_pork_belly	Cooked Pork Belly	prepared	red_meat	strength 20s			kaleidoscope_cookery:chopping_board/cooked_pork_belly
+kaleidoscope_cookery:cooked_rice	Cooked Rice	meal	grain	haste 405s			kaleidoscope_cookery:stockpot/rice_1
+kaleidoscope_cookery:country_style_mixed_vegetables	Country Style Mixed Vegetables	meal	leafy,glow,root	preservation 220s, fresh 360s, night_vision 360s	preservation	vigor	kaleidoscope_cookery:deprecated/country_style_mixed_vegetables
+kaleidoscope_cookery:crimson_fungus_pot_soup	Crimson Fungus Pot Soup	meal	mushroom	fire_resistance 80s, resistance 100s, mana_flow 540s	fire_resistance,resistance		kaleidoscope_cookery:flex_stockpot/crimson_fungus_pot_soup
+kaleidoscope_cookery:crystal_lamb_chop	Crystal Lamb Chop	meal	red_meat	haste 60s, strength 495s	haste		kaleidoscope_cookery:flex_pot/crystal_lamb_chop
+kaleidoscope_cookery:dark_cuisine	Dark Cuisine	raw	spoiled	blindness 15s, poison 5s	blindness,poison		name
+kaleidoscope_cookery:delicious_egg_fried_rice	Delicious Egg Fried Rice	meal	egg,leafy,glow,grain	warmth 45s, absorption 540s, fresh 540s	warmth		kaleidoscope_cookery:deprecated/delicious_egg_fried_rice
+kaleidoscope_cookery:desert_style_sashimi	Desert Style Sashimi	dish	fish	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:desert_style_sashimi
+kaleidoscope_cookery:dongpo_pork	Dongpo Pork	meal	red_meat	satiated_shield 80s, warmth 40s, strength 540s	satiated_shield,warmth		kaleidoscope_cookery:flex_pot/dongpo_pork
+kaleidoscope_cookery:donkey_burger	Donkey Burger	meal	red_meat,chili,poultry,grain	satiated_shield 45s, strength 540s, fire_resistance 540s	satiated_shield		kaleidoscope_cookery:flex_pot/donkey_burger
+kaleidoscope_cookery:donkey_soup	Donkey Soup	meal	red_meat	warmth 480s, strength 405s	warmth		kaleidoscope_cookery:deprecated/donkey_soup
+kaleidoscope_cookery:dough_drop_soup	Dough Drop Soup	meal	grain,leafy	haste 60s, fresh 450s	haste		kaleidoscope_cookery:flex_stockpot/dough_drop_soup
+kaleidoscope_cookery:dumpling	Dumpling	meal	grain	warmth 80s, haste 450s	warmth		kaleidoscope_cookery:stockpot/dumpling_count_1
+kaleidoscope_cookery:egg_fried_rice	Egg Fried Rice	meal	egg,grain	absorption 472s, haste 472s			kaleidoscope_cookery:flex_pot/egg_fried_rice
+kaleidoscope_cookery:end_style_sashimi	End Style Sashimi	dish	fish,chorus	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:end_style_sashimi
+kaleidoscope_cookery:fearsome_thick_soup	Fearsome Thick Soup	meal	nut,spoiled,grain	sulfur 480s, mustard 80s, focused 315s	sulfur,mustard		kaleidoscope_cookery:flex_stockpot/fearsome_thick_soup
+kaleidoscope_cookery:fish_flavored_shredded_pork	Fish Flavored Shredded Pork	meal	fish,chili,mushroom,red_meat	satiated_shield 120s, warmth 45s, dolphins_grace 428s	satiated_shield,warmth		kaleidoscope_cookery:flex_pot/fish_flavored_shredded_pork
+kaleidoscope_cookery:fish_flavored_shredded_pork_rice_bowl	Fish Flavored Shredded Pork on Rice	meal	fish,chili,mushroom,red_meat	satiated_shield 120s, warmth 45s, dolphins_grace 540s	satiated_shield,warmth		kaleidoscope_cookery:fish_flavored_shredded_pork_rice_bowl
+kaleidoscope_cookery:fondant_pie	Fondant Pie	meal	grain,pumpkin	luck 140s, regeneration 10s, haste 472s	luck,regeneration		kaleidoscope_cookery:flex_pot/fondant_pie
+kaleidoscope_cookery:fondant_spider_eye	Fondant Spider Eye	meal	spoiled,nut	sulfur 50s, nausea 10s, focused 405s	sulfur		kaleidoscope_cookery:flex_pot/fondant_spider_eye
+kaleidoscope_cookery:four_joy_meatball_soup	Four Joy Meatball Soup	meal	red_meat	haste 60s, strength 540s	haste		kaleidoscope_cookery:flex_stockpot/four_joy_meatball_soup
+kaleidoscope_cookery:fried_caterpillar	Fried Caterpillar	meal	spoiled	haste 60s, nausea 10s	haste		kaleidoscope_cookery:flex_pot/fried_caterpillar
+kaleidoscope_cookery:fried_egg	Fried Egg	meal	egg	absorption 360s			kaleidoscope_cookery:pot/egg_to_fried_egg_1
+kaleidoscope_cookery:fried_spring_roll	Fried Spring Roll	meal	mushroom,nut,poultry,red_meat,grain	haste 60s, mana_flow 540s, focused 540s	haste		kaleidoscope_cookery:flex_pot/fried_spring_roll
+kaleidoscope_cookery:frost_lamb_chop	Frost Lamb Chop	meal	red_meat	haste 60s, strength 495s	haste		kaleidoscope_cookery:flex_pot/frost_lamb_chop
+kaleidoscope_cookery:fruit_platter	Fruit Platter	dish	cocoa,berry,fruit,glow	haste 60s, speed 180s	haste		kaleidoscope_cookery:fruit_platter
+kaleidoscope_cookery:golden_salad	Golden Salad	meal	golden,fruit,glow,poultry	fire_resistance 80s, resistance 100s, luck 540s	fire_resistance,resistance		kaleidoscope_cookery:golden_salad
+kaleidoscope_cookery:green_chili	Green Chili	raw	chili	fire_resistance 3s			
+kaleidoscope_cookery:hot_dry_noodles	Hot Dry Noodles	meal	grain,chili	vitality 480s, haste 540s, fire_resistance 540s	vitality		kaleidoscope_cookery:flex_stockpot/hot_dry_noodles
+kaleidoscope_cookery:hui_noodle	Lamb Hui Noodles	meal	grain,red_meat	vitality 480s, haste 540s, strength 540s	vitality		kaleidoscope_cookery:flex_stockpot/hui_noodle
+kaleidoscope_cookery:laba_congee	Laba Congee	meal	nut	warmth 300s, focused 540s	warmth		kaleidoscope_cookery:flex_stockpot/laba_congee
+kaleidoscope_cookery:lamb_and_radish_soup	Mutton and Radish Soup	meal	red_meat,glow	tundra_strider 160s, strength 360s, night_vision 360s	tundra_strider		kaleidoscope_cookery:flex_stockpot/lamb_and_radish_soup
+kaleidoscope_cookery:lettuce	Lettuce	raw	leafy	fresh 4s			
+kaleidoscope_cookery:mantou	Mantou	prepared	grain	haste 22s			kaleidoscope_cookery:steamer/mantou
+kaleidoscope_cookery:meat_pie	Meat Pie	meal	red_meat	warmth 80s, strength 450s	warmth		kaleidoscope_cookery:pot/stuffed_dough_food_to_meat_pie_1
+kaleidoscope_cookery:nether_style_sashimi	Nether Style Sashimi	dish	fish,mushroom	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:nether_style_sashimi
+kaleidoscope_cookery:numbing_spicy_chicken	Numbing Spicy Chicken	meal	poultry,chili	haste 60s, slow_falling 540s, fire_resistance 540s	haste		kaleidoscope_cookery:flex_stockpot/numbing_spicy_chicken
+kaleidoscope_cookery:oil_splashed_fish	Oil-Splashed Fish	meal	fish,chili	haste 60s, dolphins_grace 540s, fire_resistance 540s	haste		kaleidoscope_cookery:flex_pot/oil_splashed_fish
+kaleidoscope_cookery:pan_seared_knight_steak	Pan-Seared Knight Steak	meal	red_meat,berry,fish	satiated_shield 80s, warmth 40s, strength 495s	satiated_shield,warmth		kaleidoscope_cookery:flex_pot/pan_seared_knight_steak
+kaleidoscope_cookery:pork_bone_soup	Pork Bone Soup	meal	red_meat,fish	strength 315s, dolphins_grace 315s		vigor	kaleidoscope_cookery:flex_stockpot/pork_bone_soup
+kaleidoscope_cookery:pufferfish_soup	Pufferfish Soup	meal	pufferfish,leafy	poison 15s, mustard 180s, conduit_power 315s	poison,mustard		kaleidoscope_cookery:flex_stockpot/pufferfish_soup
+kaleidoscope_cookery:qingtuan	Qingtuan	prepared	fruit	luck 21s			kaleidoscope_cookery:steamer/qingtuan
+kaleidoscope_cookery:raw_cow_offal	Raw Cow Offal	raw	red_meat	strength 4s			
+kaleidoscope_cookery:raw_cut_small_meats	Raw Meat Cuts	prepared	red_meat,poultry	strength 18s			kaleidoscope_cookery:chopping_board/raw_cut_small_meats_from_chicken
+kaleidoscope_cookery:raw_donkey_meat	Raw Donkey Meat	raw	red_meat	strength 4s			name
+kaleidoscope_cookery:raw_lamb_chops	Raw Lamb Chops	raw	red_meat	strength 3s			
+kaleidoscope_cookery:raw_meatball	Raw Meatball	dish	red_meat	strength 120s			kaleidoscope_cookery:raw_meatball
+kaleidoscope_cookery:raw_pork_belly	Raw Pork Belly	raw	red_meat	strength 4s			
+kaleidoscope_cookery:red_chili	Red Chili	raw	chili	fire_resistance 3s			
+kaleidoscope_cookery:red_mushroom_pot_soup	Red Mushroom Pot Soup	meal	mushroom	haste 60s, mana_flow 540s	haste		kaleidoscope_cookery:flex_stockpot/red_mushroom_pot_soup
+kaleidoscope_cookery:samsa	Samsa	prepared	grain	haste 100s	haste		minecraft:samsa_from_campfire_cooking
+kaleidoscope_cookery:sashimi	Sashimi	raw	fish	dolphins_grace 3s			
+kaleidoscope_cookery:scramble_egg_with_tomatoes	Scramble Egg with Tomatoes	meal	egg,leafy	warmth 45s, absorption 405s, fresh 405s	warmth	vigor	kaleidoscope_cookery:flex_pot/scramble_egg_with_tomatoes
+kaleidoscope_cookery:scramble_egg_with_tomatoes_rice_bowl	Scramble Egg with Tomatoes on Rice	meal	egg,leafy	warmth 45s, absorption 540s, fresh 540s	warmth	vigor	kaleidoscope_cookery:pot/scramble_egg_with_tomatoes_rice_bowl
+kaleidoscope_cookery:seafood_miso_soup	Seafood Miso Soup	meal	fish,leafy	water_breathing 180s, dolphins_grace 40s, fresh 360s	water_breathing,dolphins_grace		kaleidoscope_cookery:flex_stockpot/seafood_miso_soup
+kaleidoscope_cookery:shengjian_mantou	Shengjian Mantou	meal	grain	warmth 80s, haste 450s	warmth		kaleidoscope_cookery:stockpot/shengjian_mantou_count_1
+kaleidoscope_cookery:slime_ball_meal	Slime Ball Meal	meal	fruit	jump_boost 50s, luck 360s	jump_boost		kaleidoscope_cookery:flex_pot/slime_ball_meal
+kaleidoscope_cookery:spicy_blood_stew	Spicy Blood Stew	meal	chili,nut,red_meat	haste 60s, fire_resistance 540s, focused 540s	haste		kaleidoscope_cookery:flex_stockpot/spicy_blood_stew
+kaleidoscope_cookery:spicy_chicken	Spicy Chicken	meal	poultry,chili	fire_resistance 80s, regeneration 100s, slow_falling 450s	fire_resistance,regeneration		kaleidoscope_cookery:flex_pot/spicy_chicken
+kaleidoscope_cookery:spicy_chicken_rice_bowl	Spicy Chicken on Rice	meal	poultry,chili	fire_resistance 80s, resistance 100s, slow_falling 540s	fire_resistance,resistance		kaleidoscope_cookery:deprecated/spicy_chicken_rice_bowl
+kaleidoscope_cookery:spicy_rabbit_head	Spicy Rabbit Head	meal	rabbit,chili	haste 60s, jump_boost 540s, fire_resistance 540s	haste		kaleidoscope_cookery:flex_pot/spicy_rabbit_head
+kaleidoscope_cookery:stargazy_pie	Stargazy Pie	meal	grain,fish,pumpkin	flatulence 30s, unluck 180s, haste 405s	flatulence,unluck		kaleidoscope_cookery:flex_pot/stargazy_pie
+kaleidoscope_cookery:sticky_candy	Sticky Candy	meal	honey,spoiled	regeneration 405s, nausea 10s			kaleidoscope_cookery:flex_pot/sticky_candy
+kaleidoscope_cookery:sticky_rice_cake	Sticky Rice Cake	meal	grain	haste 450s			kaleidoscope_cookery:pot/cooked_rice_to_sticky_rice_cake_1
+kaleidoscope_cookery:stir_fried_beef_offal	Stir-fried Beef Offal	meal	red_meat,chili,leafy	flatulence 30s, warmth 60s, strength 428s	flatulence,warmth		kaleidoscope_cookery:deprecated/stir_fried_beef_offal
+kaleidoscope_cookery:stir_fried_beef_offal_rice_bowl	Stir-fried Beef Offal on Rice	meal	red_meat,chili,leafy	flatulence 30s, warmth 60s, strength 540s	flatulence,warmth		kaleidoscope_cookery:deprecated/stir_fried_beef_offal_rice_bowl
+kaleidoscope_cookery:stir_fried_pork_with_peppers	Stir-fried Pork with Peppers	meal	chili,red_meat	mustard 120s, resistance 100s, fire_resistance 428s	mustard,resistance		kaleidoscope_cookery:flex_pot/stir_fried_pork_with_peppers
+kaleidoscope_cookery:stir_fried_pork_with_peppers_rice_bowl	Stir-fried Pork with Peppers on Rice	meal	chili,red_meat	mustard 120s, resistance 100s, fire_resistance 540s	mustard,resistance		kaleidoscope_cookery:pot/stir_fried_pork_with_peppers_rice_bowl
+kaleidoscope_cookery:stuffed_tiger_skin_pepper	Stuffed Tiger Skin Pepper	meal	chili,poultry,red_meat	haste 60s, fire_resistance 540s, slow_falling 540s	haste		kaleidoscope_cookery:flex_pot/stuffed_tiger_skin_pepper
+kaleidoscope_cookery:suspicious_stir_fry	Suspicious Stir-Fry	dish	spoiled	speed 60s, jump_boost 60s, haste 60s, luck 60s, mining_fatigue 60s, nausea 20s	speed,jump_boost,haste,luck,mining_fatigue,nausea		name
+kaleidoscope_cookery:suspicious_stir_fry_rice_bowl	Suspicious Stir-Fry on Rice	dish	spoiled	speed 60s, haste 60s, luck 60s, mining_fatigue 60s, nausea 60s, jump_boost 60s	speed,haste,luck,mining_fatigue,nausea,jump_boost		name
+kaleidoscope_cookery:sweet_and_sour_ender_pearls	Sweet and Sour Ender Pearls	meal	chorus	flatulence 20s, slow_falling 30s, low_gravity 338s	flatulence,slow_falling		kaleidoscope_cookery:flex_pot/sweet_and_sour_ender_pearls
+kaleidoscope_cookery:sweet_and_sour_pork	Sweet and Sour Pork	meal	red_meat	satiated_shield 80s, luck 210s, strength 405s	satiated_shield,luck		kaleidoscope_cookery:flex_pot/sweet_and_sour_pork
+kaleidoscope_cookery:sweet_and_sour_pork_rice_bowl	Sweet and Sour Pork on Rice	meal	red_meat	satiated_shield 80s, luck 210s, strength 540s	satiated_shield,luck		kaleidoscope_cookery:pot/sweet_and_sour_pork_rice_bowl
+kaleidoscope_cookery:tea_egg	Tea Egg	meal	cocoa,egg,nut,poultry,grain	sulfur 60s, speed 360s, absorption 360s	sulfur		kaleidoscope_cookery:stockpot/tea_egg_count_1
+kaleidoscope_cookery:tomato	Tomato	raw	leafy	fresh 4s			
+kaleidoscope_cookery:tomato_beef_brisket_soup	Tomato Beef Brisket Soup	meal	red_meat,leafy	satiated_shield 180s, strength 382s, fresh 382s	satiated_shield		kaleidoscope_cookery:deprecated/tomato_beef_brisket_soup
+kaleidoscope_cookery:tundra_style_sashimi	Tundra Style Sashimi	dish	fish	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:tundra_style_sashimi
+kaleidoscope_cookery:udon_noodle	Udon Noodle	meal	grain,egg,leafy	vitality 480s, haste 540s, absorption 540s	vitality		kaleidoscope_cookery:flex_stockpot/udon_noodle
+kaleidoscope_cookery:warped_fungus_pot_soup	Warped Fungus Pot Soup	meal	mushroom	haste 60s, mana_flow 540s	haste		kaleidoscope_cookery:flex_stockpot/warped_fungus_pot_soup
+kaleidoscope_cookery:wild_mushroom_rabbit_soup	Wild Mushroom Rabbit Soup	meal	mushroom,rabbit	speed 30s, mana_flow 360s, jump_boost 360s	speed		kaleidoscope_cookery:flex_stockpot/wild_mushroom_rabbit_soup
+kaleidoscope_cookery:yakitori	Yakitori	meal	poultry,chili	satiated_shield 80s, warmth 40s, slow_falling 495s	satiated_shield,warmth		kaleidoscope_cookery:pot/yakitori
+kaleidoscope_cookery:zongzi	Cooked Zongzi	meal	fish,grain	regeneration 20s, dolphins_grace 450s, haste 450s	regeneration		kaleidoscope_cookery:stockpot/zongzi_count_1
+legacies_and_legends:enchanted_beetroot	Enchanted Beetroot	raw	golden	regeneration 5s	regeneration		name
+legacies_and_legends:enchanted_beetroot_soup	Enchanted Beetroot Soup	prepared	golden	regeneration 15s	regeneration		legacies_and_legends:enchanted_beetroot_soup
+minecraft:apple	Apple	raw	fruit	luck 4s			
+minecraft:baked_potato	Baked Potato	prepared	root	steadfast 21s			minecraft:baked_potato_from_campfire_cooking
+minecraft:beef	Raw Beef	raw	red_meat	strength 4s			
+minecraft:beetroot	Beetroot	raw	root	steadfast 3s			
+minecraft:beetroot_soup	Cooked Beetroot Soup	prepared	root	steadfast 22s		nourishment	bakeyourbread:beetroot_soup_from_campfire_cooking
+minecraft:bread	Baked Bread	prepared	grain	haste 21s			bakeyourbread:bread_from_campfire_cooking
+minecraft:carrot	Raw Carrot	raw	glow	night_vision 3s			
+minecraft:chicken	Raw Chicken	raw	poultry	slow_falling 4s		hunger	
+minecraft:chorus_fruit	Chorus Fruit	raw	chorus	low_gravity 4s			
+minecraft:cod	Raw Cod	raw	fish	dolphins_grace 4s			
+minecraft:cooked_beef	Steak	prepared	red_meat	strength 25s			minecraft:cooked_beef_from_campfire_cooking
+minecraft:cooked_chicken	Cooked Chicken	prepared	poultry	slow_falling 22s			minecraft:cooked_chicken_from_campfire_cooking
+minecraft:cooked_cod	Cooked Cod	prepared	fish	dolphins_grace 21s			minecraft:cooked_cod_from_campfire_cooking
+minecraft:cooked_mutton	Cooked Mutton	prepared	red_meat	strength 22s			minecraft:cooked_mutton_from_campfire_cooking
+minecraft:cooked_porkchop	Cooked Porkchop	prepared	red_meat	strength 25s			minecraft:cooked_porkchop_from_campfire_cooking
+minecraft:cooked_rabbit	Cooked Rabbit	prepared	rabbit	jump_boost 21s			minecraft:cooked_rabbit_from_campfire_cooking
+minecraft:cooked_salmon	Cooked Salmon	prepared	fish	dolphins_grace 22s			minecraft:cooked_salmon_from_campfire_cooking
+minecraft:cookie	Baked Cookie	dish	cocoa,dairy,grain	speed 105s, resistance 105s			bakeyourbread:cookie_from_campfire_cooking
+minecraft:dried_kelp	Dried Kelp	prepared	kelp	water_breathing 16s			kaleidoscope_cookery:bamboo_tray/drying/kelp_to_dried_kelp
+minecraft:enchanted_golden_apple	Enchanted Golden Apple	raw	golden	regeneration 20s, resistance 300s, fire_resistance 300s, absorption 120s	regeneration,resistance,fire_resistance,absorption		
+minecraft:glow_berries	Glow Berries	raw	glow	night_vision 4s			
+minecraft:golden_apple	Golden Apple	raw	golden	regeneration 5s, absorption 120s	regeneration,absorption		
+minecraft:golden_carrot	Cooked Golden Carrot	raw	glow	night_vision 4s			
+minecraft:honey_bottle	Honey Bottle	prepared	honey	regeneration 22s			mysticalagriculture:essence/minecraft/honey_bottle
+minecraft:melon_slice	Melon Slice	raw	fruit	luck 4s			
+minecraft:mushroom_stew	Cooked Mushroom Stew	dish	mushroom	mana_flow 135s		nourishment	bakeyourbread:mushroom_stew_from_campfire_cooking
+minecraft:mutton	Raw Mutton	raw	red_meat	strength 4s			
+minecraft:poisonous_potato	Poisonous Potato	prepared	spoiled,root	poison 5s	poison		create:haunting/poisonous_potato
+minecraft:porkchop	Raw Porkchop	raw	red_meat	strength 4s			
+minecraft:potato	Potato	raw	root	steadfast 3s			
+minecraft:pufferfish	Pufferfish	raw	pufferfish	poison 60s, nausea 15s	poison,nausea	hunger	
+minecraft:pumpkin_pie	Baked Pumpkin Pie	prepared	pumpkin	warmth 25s			farmersdelight:pumpkin_pie_from_slices
+minecraft:rabbit	Raw Rabbit	raw	rabbit	jump_boost 4s			
+minecraft:rabbit_stew	Cooked Rabbit Stew	dish	rabbit,glow,mushroom,root	jump_boost 10s, night_vision 180s	jump_boost	nourishment	bakeyourbread:rabbit_stew_from_campfire_cooking
+minecraft:rotten_flesh	Rotten Flesh	prepared	spoiled	nausea 10s		hunger	kaleidoscope_cookery:bamboo_tray/wetting/leather_to_rotten_flesh
+minecraft:salmon	Raw Salmon	raw	fish	dolphins_grace 4s			
+minecraft:spider_eye	Spider Eye	dish	spoiled,nut	poison 5s, nausea 10s	poison		mysticalagriculture:essence/minecraft/spider_eye
+minecraft:suspicious_stew	Suspicious Stew	dish	spoiled,mushroom	nausea 10s, mana_flow 135s			minecraft:suspicious_stew_from_allium
+minecraft:sweet_berries	Sweet Berries	raw	berry	keen 4s			
+minecraft:tropical_fish	Tropical Fish	raw	fish	dolphins_grace 3s			
+moredelight:bread_slice	Bread Slice	prepared	grain	haste 18s			moredelight:cutting/bread_slice
+moredelight:carrot_soup	Carrot Soup	meal	glow,dairy	night_vision 540s, resistance 540s		nourishment	moredelight:cooking/carrot_soup
+moredelight:chicken_salad	Chicken Salad	dish	poultry,leafy,root	regeneration 5s, slow_falling 135s	regeneration		moredelight:chicken_salad
+moredelight:chicken_sandwich_with_egg_and_tomato	Chicken Sandwich with Egg and Tomato	dish	egg,leafy,poultry,grain	absorption 172s, fresh 172s			moredelight:chicken_sandwich_with_egg_and_tomato
+moredelight:chocolate_popsicle	Chocolate Popsicle	prepared	cocoa	speed 19s			moredelight:chocolate_popsicle
+moredelight:cooked_rice_with_beef	Cooked Rice with Beef	meal	red_meat,dairy,grain	strength 540s, resistance 540s, haste 540s		nourishment	moredelight:cooking/cooked_rice_with_beef
+moredelight:cooked_rice_with_chicken_cuts	Cooked Rice with Chicken Cuts	meal	poultry,dairy,grain	slow_falling 540s, resistance 540s, haste 540s		nourishment	moredelight:cooking/cooked_rice_with_chicken_cuts
+moredelight:cooked_rice_with_porkchop	Cooked Rice with Porkchop	meal	red_meat,dairy,grain	strength 540s, resistance 540s, haste 540s		nourishment	moredelight:cooking/cooked_rice_with_porkchop
+moredelight:creamy_pasta_with_chicken_cuts	Creamy Pasta with Chicken Cuts	meal	poultry,root,dairy,grain	slow_falling 540s, steadfast 540s, resistance 540s		nourishment	moredelight:cooking/creamy_pasta_with_chicken_cuts
+moredelight:creamy_pasta_with_ham	Creamy Pasta with Ham	meal	red_meat,root,dairy,grain	strength 540s, steadfast 540s, resistance 540s		nourishment	moredelight:cooking/creamy_pasta_with_ham
+moredelight:diced_potatoes	Diced Potatoes	prepared	root	steadfast 18s			moredelight:cutting/diced_potatoes
+moredelight:diced_potatoes_with_beef	Diced Potatoes with Beef	meal	red_meat,root	strength 495s, steadfast 495s			moredelight:cooking/diced_potatoes_with_beef
+moredelight:diced_potatoes_with_chicken_cuts	Diced Potatoes with Chicken Cuts	meal	poultry,root	slow_falling 495s, steadfast 495s			moredelight:cooking/diced_potatoes_with_chicken_cuts
+moredelight:diced_potatoes_with_egg_and_tomato	Diced Potatoes with Egg and Tomato	meal	egg,root,leafy	absorption 495s, steadfast 495s, fresh 495s			moredelight:cooking/diced_potatoes_with_egg_and_tomato
+moredelight:diced_potatoes_with_porkchop	Diced Potatoes with Porkchop	meal	red_meat,root	strength 495s, steadfast 495s			moredelight:cooking/diced_potatoes_with_porkchop
+moredelight:egg_with_bacon_sandwich	Egg with Bacon Sandwich	dish	egg,red_meat,grain	absorption 172s, strength 172s			moredelight:egg_with_bacon_sandwich
+moredelight:hamburger_with_egg	Hamburger with Egg	dish	egg,red_meat,grain	absorption 158s, strength 158s			moredelight:hamburger_with_egg
+moredelight:loaded_hamburger	Loaded Hamburger	dish	red_meat,leafy,egg,root,grain	strength 180s, fresh 180s			moredelight:loaded_hamburger
+moredelight:mashed_potatoes	Mashed Potatoes	meal	root,dairy	steadfast 540s, resistance 540s			moredelight:cooking/mashed_potatoes
+moredelight:omelette	Omelet	prepared	egg	absorption 22s			moredelight:omelette_campfire_cooking
+moredelight:porkchop_sandwich	Porkchop Sandwich	dish	red_meat,leafy,grain	strength 165s, fresh 165s			moredelight:porkchop_sandwich
+moredelight:potato_salad	Potato Salad	meal	leafy,root,egg	regeneration 5s, fresh 405s, steadfast 405s	regeneration		moredelight:cooking/potato_salad
+moredelight:simple_hamburger	Simple Hamburger	dish	red_meat,grain	strength 150s, haste 150s			moredelight:simple_hamburger
+moredelight:steak_sandwich	Steak Sandwich	dish	red_meat,leafy,grain	strength 165s, fresh 165s			moredelight:steak_sandwich
+moredelight:toast	Toast	prepared	grain	haste 19s			moredelight:toast_campfire_cooking
+moredelight:toast_with_chocolate	Toast with Chocolate	dish	cocoa,grain	speed 128s, haste 128s			moredelight:toast_with_chocolate
+moredelight:toast_with_egg	Toast with Egg	dish	egg,grain	absorption 128s, haste 128s			moredelight:toast_with_egg
+moredelight:toast_with_glow_berries	Toast with Glow Berries	dish	glow,grain	night_vision 128s, haste 128s			moredelight:toast_with_glow_berries
+moredelight:toast_with_honey	Toast with Honey	dish	honey,grain	regeneration 128s, haste 128s			moredelight:toast_with_honey
+moredelight:toast_with_sweet_berries	Toast with Sweet Berries	dish	berry,grain	keen 128s, haste 128s			moredelight:toast_with_sweet_berries
+moredelight:tomato_sandwich	Tomato Sandwich	dish	leafy,grain	fresh 142s, haste 142s			moredelight:tomato_sandwich
+oceansdelight:baked_tentacle_on_a_stick	Baked Tentacle on a Stick	prepared	fish	dolphins_grace 22s			oceansdelight:baked_tentacle_on_a_stick_from_campfire_cooking
+oceansdelight:bowl_of_guardian_soup	Bowl of Guardian Soup	dish	fish	dolphins_grace 180s		comfort	name
+oceansdelight:braised_sea_pickle	Braised Sea Pickle	meal	mushroom	mana_flow 450s			oceansdelight:cooking/cooking/braised_sea_pickle
+oceansdelight:cabbage_wrapped_elder_guardian	Cabbage Wrapped Elder Guardian	dish	fish,leafy,root	dolphins_grace 180s, fresh 180s		comfort	oceansdelight:cabbage_wrapped_elder_guardian
+oceansdelight:cooked_elder_guardian_slice	Cooked Slice of Elder Guardian	prepared	fish	dolphins_grace 19s			oceansdelight:cooked_elder_guardian_slice_from_campfire_cooking
+oceansdelight:cooked_guardian_tail	Cooked Guardian Tail	prepared	fish	dolphins_grace 22s			oceansdelight:cooked_guardian_tail_from_campfire_cooking
+oceansdelight:cooked_stuffed_cod	Cooked Stuffed Cod	dish	fish,kelp,leafy,mushroom,root	dolphins_grace 135s, water_breathing 135s		comfort	oceansdelight:cooked_stuffed_cod_from_campfire_cooking
+oceansdelight:cooked_stuffed_squid	Cooked Stuffed Squid	meal	fish,kelp,grain	dolphins_grace 450s, water_breathing 450s, haste 450s		comfort	oceansdelight:cooked_stuffed_squid_from_campfire_cooking
+oceansdelight:cut_tentacles	Cut Tentacles	prepared	fish	dolphins_grace 16s			oceansdelight:cutting/cutting/tentacles
+oceansdelight:elder_guardian_roll	Roll of Elder Guardian	meal	fish,grain	dolphins_grace 428s, haste 428s			oceansdelight:food/elder_guardian_roll
+oceansdelight:elder_guardian_slab	Slab of Elder Guardian	raw	fish	dolphins_grace 5s			name
+oceansdelight:elder_guardian_slice	Slice of Elder Guardian	prepared	fish	mining_fatigue 150s	mining_fatigue		oceansdelight:cutting/cutting/elder_guardian_slab
+oceansdelight:fish_and_chips	Fish and Chips	meal	fish,root	dolphins_grace 495s, steadfast 495s		comfort	oceansdelight:cooking/fish_and_chips
+oceansdelight:fugu_roll	Fugu Roll	meal	pufferfish,grain	conduit_power 428s, haste 428s			oceansdelight:food/fugu_roll
+oceansdelight:fugu_slice	Fugu Slice	prepared	pufferfish	conduit_power 16s			oceansdelight:cutting/cutting/pufferfish
+oceansdelight:guardian_tail	Guardian Tail	prepared	fish	dolphins_grace 18s			oceansdelight:cutting/cutting/guardian
+oceansdelight:honey_fried_kelp	Honey Fried Kelp	meal	kelp,honey	water_breathing 360s, regeneration 360s			oceansdelight:cooking/cooking/honey_fried_kelp
+oceansdelight:kelp_encrusted_cod	Kelp Encrusted Cod	meal	kelp,egg,fish	water_breathing 382s, absorption 382s, dolphins_grace 382s			oceansdelight:cooking/cooking/kelp_encrusted_cod
+oceansdelight:seagrass_salad	Seagrass Salad	prepared	leafy	fresh 18s			oceansdelight:seagrass_salad
+oceansdelight:squid_rings	Squid Rings	meal	fish,grain	dolphins_grace 382s, haste 382s			oceansdelight:cooking/cooking/squid_rings
+oceansdelight:stuffed_cod	Stuffed Cod	dish	fish,kelp,leafy,mushroom,root	dolphins_grace 112s, water_breathing 112s			oceansdelight:stuffed_cod
+oceansdelight:stuffed_squid	Stuffed Squid	meal	fish,kelp,grain	blindness 30s, dolphins_grace 382s, water_breathing 382s	blindness		oceansdelight:stuffed_squid
+oceansdelight:tentacle_on_a_stick	Tentacle on a Stick	prepared	fish	dolphins_grace 19s			oceansdelight:tentacle_on_a_stick
+oceansdelight:tentacles	Tentacles	raw	fish	blindness 30s	blindness		name
+oceansdelight:turtle_egg_omelette	Turtle Egg Omelette	meal	egg,leafy,nut,poultry,grain	absorption 428s, fresh 428s, focused 428s		comfort	oceansdelight:cooking/turtle_egg_omelette
+regions_unexplored:duskmelon_slice	Duskmelon Slice	raw	fruit	blindness 12s	blindness		name
+regions_unexplored:hanging_earlight_fruit	Hanging Earlight Fruit	raw	glow	glowing 10s	glowing		
+regions_unexplored:meadow_sage	Meadow Sage	raw	leafy	instant_health 1s	instant_health		name
+regions_unexplored:salmonberry	Salmonberry	raw	berry	keen 4s			
+rusticdelight:baked_potato_slices	Baked Potato Slices	prepared	root	steadfast 19s			rusticdelight:baked_potato_slices_from_campfire_cooking
+rusticdelight:batter	Batter	meal	egg,grain,dairy	absorption 315s, haste 315s, resistance 315s		hunger	rusticdelight:item/batter
+rusticdelight:bell_pepper_black	Black Bell Pepper	meal	leafy	fresh 315s			rusticdelight:bell_pepper_black_block_from_bell_pepper_slice_black
+rusticdelight:bell_pepper_blue	Blue Bell Pepper	meal	leafy	fresh 315s			rusticdelight:bell_pepper_blue_block_from_bell_pepper_slice_blue
+rusticdelight:bell_pepper_green	Green Bell Pepper	meal	leafy	fresh 315s			rusticdelight:bell_pepper_green_block_from_bell_pepper_slice_green
+rusticdelight:bell_pepper_orange	Orange Bell Pepper	meal	fruit	luck 315s			rusticdelight:bell_pepper_orange_block_from_bell_pepper_slice_orange
+rusticdelight:bell_pepper_pasta	Bell Pepper Pasta	meal	leafy,grain	fresh 540s, haste 540s		nourishment	rusticdelight:item/bell_pepper_pasta
+rusticdelight:bell_pepper_pink	Pink Bell Pepper	raw	leafy	fresh 4s			
+rusticdelight:bell_pepper_purple	Purple Bell Pepper	raw	leafy	fresh 4s			
+rusticdelight:bell_pepper_red	Red Bell Pepper	raw	leafy	fresh 4s			
+rusticdelight:bell_pepper_roll_black	Black Bell Pepper Roll	meal	leafy,grain	fresh 428s, haste 428s			rusticdelight:bell_pepper_roll_black
+rusticdelight:bell_pepper_roll_blue	Blue Bell Pepper Roll	meal	leafy,grain	fresh 428s, haste 428s			rusticdelight:bell_pepper_roll_blue
+rusticdelight:bell_pepper_roll_green	Green Bell Pepper Roll	meal	leafy,grain	fresh 428s, haste 428s			rusticdelight:bell_pepper_roll_green
+rusticdelight:bell_pepper_roll_orange	Orange Bell Pepper Roll	meal	fruit,grain	luck 428s, haste 428s			rusticdelight:bell_pepper_roll_orange
+rusticdelight:bell_pepper_roll_pink	Pink Bell Pepper Roll	meal	leafy,grain	fresh 428s, haste 428s			rusticdelight:bell_pepper_roll_pink
+rusticdelight:bell_pepper_roll_purple	Purple Bell Pepper Roll	meal	leafy,grain	fresh 428s, haste 428s			rusticdelight:bell_pepper_roll_purple
+rusticdelight:bell_pepper_roll_red	Red Bell Pepper Roll	meal	leafy,grain	fresh 428s, haste 428s			rusticdelight:bell_pepper_roll_red
+rusticdelight:bell_pepper_roll_white	White Bell Pepper Roll	meal	leafy,grain	fresh 428s, haste 428s			rusticdelight:bell_pepper_roll_white
+rusticdelight:bell_pepper_roll_yellow	Yellow Bell Pepper Roll	meal	leafy,grain	fresh 428s, haste 428s			rusticdelight:bell_pepper_roll_yellow
+rusticdelight:bell_pepper_slice_black	Black Bell Pepper Slice	raw	leafy	fresh 3s			
+rusticdelight:bell_pepper_slice_blue	Blue Bell Pepper Slice	raw	leafy	fresh 3s			
+rusticdelight:bell_pepper_slice_green	Green Bell Pepper Slice	raw	leafy	fresh 3s			
+rusticdelight:bell_pepper_slice_orange	Orange Bell Pepper Slice	raw	fruit	luck 3s			
+rusticdelight:bell_pepper_slice_pink	Pink Bell Pepper Slice	raw	leafy	fresh 3s			
+rusticdelight:bell_pepper_slice_purple	Purple Bell Pepper Slice	raw	leafy	fresh 3s			
+rusticdelight:bell_pepper_slice_red	Red Bell Pepper Slice	raw	leafy	fresh 3s			
+rusticdelight:bell_pepper_slice_white	White Bell Pepper Slice	raw	leafy	fresh 3s			
+rusticdelight:bell_pepper_slice_yellow	Yellow Bell Pepper Slice	raw	leafy	fresh 3s			
+rusticdelight:bell_pepper_soup	Bell Pepper Soup	prepared	leafy	fresh 22s		nourishment	rusticdelight:bell_pepper_soup
+rusticdelight:bell_pepper_white	White Bell Pepper	meal	leafy	fresh 315s			rusticdelight:bell_pepper_white_block_from_bell_pepper_slice_white
+rusticdelight:bell_pepper_yellow	Yellow Bell Pepper	meal	leafy	fresh 315s			rusticdelight:bell_pepper_yellow_block_from_bell_pepper_slice_yellow
+rusticdelight:calamari	Raw Calamari	raw	fish	dolphins_grace 4s			
+rusticdelight:calamari_roll	Calamari Roll	meal	fish,grain	dolphins_grace 428s, haste 428s			rusticdelight:calamari_roll
+rusticdelight:calamari_slice	Raw Calamari Slice	raw	fish	dolphins_grace 3s			
+rusticdelight:calamari_soup	Calamari Soup	meal	fish,root,dairy	dolphins_grace 495s, steadfast 495s, resistance 495s		nourishment	rusticdelight:item/calamari_soup
+rusticdelight:cherry_blossom_cheesecake_slice	Slice of Cherry Blossom Cheesecake	prepared	berry	speed 30s	speed		rusticdelight:item/cherry_blossom_cheesecake_slice
+rusticdelight:cherry_blossom_coffee	Cherry Blossom Coffee	meal	cocoa,berry,dairy	speed 60s, haste 60s, keen 270s	speed,haste		rusticdelight:cherry_blossom_coffee_from_coffee
+rusticdelight:cherry_blossom_cookie	Cherry Blossom Cookie	dish	berry,grain	keen 105s, haste 105s			rusticdelight:cherry_blossom_cookie
+rusticdelight:cherry_blossom_pancake	Cherry Blossom Pancake	prepared	berry	health_boost 30s	health_boost		rusticdelight:cherry_blossom_pancake_from_cherry_blossom_pancakes
+rusticdelight:cherry_blossom_roll	Cherry Blossom Roll	meal	berry,grain	keen 405s, haste 405s			rusticdelight:cherry_blossom_roll
+rusticdelight:chocolate_coffee	Chocolate Coffee	meal	cocoa,dairy	speed 60s, haste 60s, resistance 270s	speed,haste		rusticdelight:chocolate_coffee_from_coffee
+rusticdelight:chocolate_pancake	Chocolate Pancake	prepared	cocoa	speed 60s	speed		rusticdelight:chocolate_pancake_from_chocolate_pancakes
+rusticdelight:coffee	Coffee	meal	cocoa	speed 90s, haste 90s	speed,haste		rusticdelight:item/coffee
+rusticdelight:coffee_braised_beef	Coffee-Braised Beef	meal	cocoa,glow,red_meat,root	speed 540s, night_vision 540s, strength 540s		nourishment	rusticdelight:item/coffee_braised_beef
+rusticdelight:coffee_cheesecake_slice	Slice of Coffee Cheesecake	prepared	cocoa	speed 30s, haste 30s	speed,haste		rusticdelight:item/coffee_cheesecake_slice
+rusticdelight:coffee_cookie	Coffee Cookie	dish	cocoa,grain	speed 105s, haste 105s			rusticdelight:coffee_cookie
+rusticdelight:coffee_pancake	Coffee Pancake	prepared	cocoa	haste 30s	haste		rusticdelight:coffee_pancake_from_coffee_pancakes
+rusticdelight:cooked_calamari	Cooked Calamari	prepared	fish	dolphins_grace 21s			rusticdelight:cooked_calamari_from_campfire_cooking
+rusticdelight:cooked_calamari_slice	Cooked Calamari Slice	prepared	fish	dolphins_grace 19s			rusticdelight:cooked_calamari_slice_from_campfire_cooking
+rusticdelight:dark_coffee	Dark Coffee	meal	cocoa	speed 45s, haste 45s	speed,haste		rusticdelight:item/dark_coffee
+rusticdelight:fried_calamari	Fried Calamari	meal	fish,egg,leafy,dairy,grain	dolphins_grace 540s, absorption 540s, fresh 540s		nourishment	rusticdelight:item/fried_calamari
+rusticdelight:fried_chicken	Fried Chicken	meal	poultry,egg,root,dairy,grain	slow_falling 540s, absorption 540s, steadfast 540s		nourishment	rusticdelight:item/fried_chicken
+rusticdelight:fried_dough	Fried Dough	meal	grain	haste 405s			rusticdelight:item/fried_dough
+rusticdelight:fried_dumplings	Fried Dumplings	meal	grain,leafy,mushroom,poultry,red_meat,root	haste 495s, fresh 495s, mana_flow 495s			rusticdelight:item/fried_dumplings
+rusticdelight:fried_fish	Fried Fish	meal	fish,egg,dairy,grain	dolphins_grace 450s, absorption 450s, resistance 450s			rusticdelight:item/fried_fish
+rusticdelight:fried_mushrooms	Fried Mushrooms	meal	mushroom,root	mana_flow 540s, steadfast 540s		nourishment	rusticdelight:item/fried_mushrooms
+rusticdelight:fruit_beignet	Fruit Beignet	meal	fruit,berry,grain	speed 30s, luck 405s, keen 405s	speed		rusticdelight:item/fruit_beignet
+rusticdelight:golden_coffee_beans	Golden Coffee Beans	dish	cocoa,poultry	speed 128s, slow_falling 128s			rusticdelight:golden_coffee_beans
+rusticdelight:honey_coffee	Honey Coffee	meal	honey,cocoa,dairy	speed 60s, haste 60s, regeneration 405s	speed,haste		rusticdelight:honey_coffee_from_coffee
+rusticdelight:honey_pancake	Honey Pancake	prepared	honey	speed 60s	speed		rusticdelight:honey_pancake_from_honey_pancakes
+rusticdelight:milk_coffee	Milk Coffee	meal	cocoa,dairy	speed 60s, haste 60s, resistance 270s	speed,haste		rusticdelight:item/milk_coffee
+rusticdelight:pancake	Pancake	prepared	grain	haste 20s			rusticdelight:item/pancakes
+rusticdelight:potato_salad	Potato Salad	dish	leafy,root,egg,dairy	regeneration 5s, fresh 150s	regeneration		rusticdelight:potato_salad
+rusticdelight:potato_slices	Potato Slices	raw	root	steadfast 3s			
+rusticdelight:pumpkin_coffee	Pumpkin Coffee	meal	pumpkin,cocoa,dairy	speed 60s, haste 60s, warmth 270s	speed,haste		rusticdelight:item/pumpkin_coffee
+rusticdelight:pumpkin_pancake	Pumpkin Pancake	prepared	pumpkin	health_boost 30s	health_boost		rusticdelight:item/pumpkin_pancakes
+rusticdelight:roasted_bell_pepper_black	Roasted Black Bell Pepper	prepared	leafy	fresh 21s			rusticdelight:roasted_bell_pepper_black_from_campfire_cooking
+rusticdelight:roasted_bell_pepper_blue	Roasted Blue Bell Pepper	prepared	leafy	fresh 21s			rusticdelight:roasted_bell_pepper_blue_from_campfire_cooking
+rusticdelight:roasted_bell_pepper_green	Roasted Green Bell Pepper	prepared	leafy	fresh 21s			rusticdelight:roasted_bell_pepper_green_from_campfire_cooking
+rusticdelight:roasted_bell_pepper_orange	Roasted Orange Bell Pepper	prepared	fruit	luck 21s			rusticdelight:roasted_bell_pepper_orange_from_campfire_cooking
+rusticdelight:roasted_bell_pepper_pink	Roasted Pink Bell Pepper	prepared	leafy	fresh 21s			rusticdelight:roasted_bell_pepper_pink_from_campfire_cooking
+rusticdelight:roasted_bell_pepper_purple	Roasted Purple Bell Pepper	prepared	leafy	fresh 21s			rusticdelight:roasted_bell_pepper_purple_from_campfire_cooking
+rusticdelight:roasted_bell_pepper_red	Roasted Red Bell Pepper	prepared	leafy	fresh 21s			rusticdelight:roasted_bell_pepper_red_from_campfire_cooking
+rusticdelight:roasted_bell_pepper_slice_black	Roasted Black Bell Pepper Slice	prepared	leafy	fresh 19s			rusticdelight:item/roasted_bell_pepper_black
+rusticdelight:roasted_bell_pepper_slice_blue	Roasted Blue Bell Pepper Slice	prepared	leafy	fresh 19s			rusticdelight:item/roasted_bell_pepper_blue
+rusticdelight:roasted_bell_pepper_slice_green	Roasted Green Bell Pepper Slice	prepared	leafy	fresh 19s			rusticdelight:item/roasted_bell_pepper_green
+rusticdelight:roasted_bell_pepper_slice_orange	Roasted Orange Bell Pepper Slice	prepared	fruit	luck 19s			rusticdelight:item/roasted_bell_pepper_orange
+rusticdelight:roasted_bell_pepper_slice_pink	Roasted Pink Bell Pepper Slice	prepared	leafy	fresh 19s			rusticdelight:item/roasted_bell_pepper_pink
+rusticdelight:roasted_bell_pepper_slice_purple	Roasted Purple Bell Pepper Slice	prepared	leafy	fresh 19s			rusticdelight:item/roasted_bell_pepper_purple
+rusticdelight:roasted_bell_pepper_slice_red	Roasted Red Bell Pepper Slice	prepared	leafy	fresh 19s			rusticdelight:item/roasted_bell_pepper_red
+rusticdelight:roasted_bell_pepper_slice_white	Roasted White Bell Pepper Slice	prepared	leafy	fresh 19s			rusticdelight:item/roasted_bell_pepper_white
+rusticdelight:roasted_bell_pepper_slice_yellow	Roasted Yellow Bell Pepper Slice	prepared	leafy	fresh 19s			rusticdelight:item/roasted_bell_pepper_yellow
+rusticdelight:roasted_bell_pepper_white	Roasted White Bell Pepper	prepared	leafy	fresh 21s			rusticdelight:roasted_bell_pepper_white_from_campfire_cooking
+rusticdelight:roasted_bell_pepper_yellow	Roasted Yellow Bell Pepper	prepared	leafy	fresh 21s			rusticdelight:roasted_bell_pepper_yellow_from_campfire_cooking
+rusticdelight:roasted_coffee_beans	Roasted Coffee Beans	prepared	cocoa	speed 18s			rusticdelight:roasted_coffee_beans_from_campfire_cooking
+rusticdelight:spring_rolls	Spring Rolls	meal	leafy,grain	fresh 405s, haste 405s			rusticdelight:item/spring_rolls
+rusticdelight:stuffed_bell_pepper_black	Stuffed Black Bell Pepper	meal	leafy,grain	fresh 495s, haste 495s			rusticdelight:item/stuffed_bell_pepper_black
+rusticdelight:stuffed_bell_pepper_blue	Stuffed Blue Bell Pepper	meal	leafy,grain	fresh 495s, haste 495s			rusticdelight:item/stuffed_bell_pepper_blue
+rusticdelight:stuffed_bell_pepper_green	Stuffed Green Bell Pepper	meal	leafy,grain	fresh 495s, haste 495s			rusticdelight:item/stuffed_bell_pepper_green
+rusticdelight:stuffed_bell_pepper_orange	Stuffed Orange Bell Pepper	meal	fruit,grain	luck 495s, haste 495s			rusticdelight:item/stuffed_bell_pepper_orange
+rusticdelight:stuffed_bell_pepper_pink	Stuffed Pink Bell Pepper	meal	leafy,grain	fresh 495s, haste 495s			rusticdelight:item/stuffed_bell_pepper_pink
+rusticdelight:stuffed_bell_pepper_purple	Stuffed Purple Bell Pepper	meal	leafy,grain	fresh 495s, haste 495s			rusticdelight:item/stuffed_bell_pepper_purple
+rusticdelight:stuffed_bell_pepper_red	Stuffed Red Bell Pepper	meal	leafy,grain	fresh 495s, haste 495s			rusticdelight:item/stuffed_bell_pepper_red
+rusticdelight:stuffed_bell_pepper_white	Stuffed White Bell Pepper	meal	leafy,grain	fresh 495s, haste 495s			rusticdelight:item/stuffed_bell_pepper_white
+rusticdelight:stuffed_bell_pepper_yellow	Stuffed Yellow Bell Pepper	meal	leafy,grain	fresh 495s, haste 495s			rusticdelight:item/stuffed_bell_pepper_yellow
+rusticdelight:sweet_salad	Sweet Salad	dish	leafy,berry,honey	regeneration 5s, fresh 150s	regeneration		rusticdelight:sweet_salad
+rusticdelight:syrup	Syrup	meal	honey	speed 15s, regeneration 315s	speed		rusticdelight:item/syrup
+rusticdelight:syrup_cheesecake_slice	Slice of Syrup Cheesecake	prepared	honey	speed 30s	speed		rusticdelight:item/syrup_cheesecake_slice
+rusticdelight:syrup_coffee	Syrup Coffee	meal	honey,cocoa,dairy	speed 90s, haste 90s, regeneration 270s	speed,haste		rusticdelight:item/syrup_coffee
+rusticdelight:syrup_cookie	Syrup Cookie	dish	honey,grain	regeneration 105s, haste 105s			rusticdelight:syrup_cookie
+rusticdelight:syrup_sandwich	Syrup Sandwich	dish	honey,grain	regeneration 150s, haste 150s			rusticdelight:syrup_sandwich
+rusticdelight:vegetable_pancake	Vegetable Pancake	prepared	grain	haste 60s	haste		rusticdelight:item/vegetable_pancakes
+sealife:anchovy	Anchovy	raw	fish	dolphins_grace 3s			
+sealife:angelfish	Angelfish	raw	fish	dolphins_grace 4s			
+sealife:anglerfish	Anglerfish	raw	fish	dolphins_grace 4s			
+sealife:bass	Bass	raw	fish	dolphins_grace 4s			
+sealife:blue_tang	Blue Tang	raw	fish	dolphins_grace 4s			
+sealife:bowfin	Bowfin	raw	fish	dolphins_grace 4s			
+sealife:butterflyfish	Butterflyfish	raw	fish	dolphins_grace 4s			
+sealife:carp	Carp	raw	fish	dolphins_grace 4s			
+sealife:catfish	Catfish	raw	fish	dolphins_grace 4s			
+sealife:chub	Chub	raw	fish	dolphins_grace 4s			
+sealife:damselfish	Damselfish	raw	fish	dolphins_grace 3s			
+sealife:electric_ray	Electric Ray	raw	fish	dolphins_grace 4s			
+sealife:fish_fingers	Fish Fingers	dish	fish,grain	dolphins_grace 172s, haste 172s			sealife:fish_fingers
+sealife:fish_stew	Fish Stew	dish	fish,root,glow	dolphins_grace 142s, steadfast 142s			sealife:fish_stew
+sealife:goldfish	Goldfish	raw	fish	dolphins_grace 3s			
+sealife:koi	Koi	raw	fish	dolphins_grace 4s			
+sealife:lamprey	Lamprey	raw	fish	dolphins_grace 4s			
+sealife:lungfish	Lungfish	raw	fish	dolphins_grace 4s			
+sealife:manta_ray	Manta Ray	raw	fish	dolphins_grace 4s			
+sealife:minnow	Minnow	raw	fish	dolphins_grace 3s			
+sealife:neon_tetra	Neon Tetra	raw	fish	dolphins_grace 3s			
+sealife:northern_pike	Northern Pike	raw	fish	dolphins_grace 4s			
+sealife:perch	Perch	raw	fish	dolphins_grace 4s			
+sealife:pickerel	Pickerel	raw	fish	dolphins_grace 4s			
+sealife:piranha	Piranha	raw	fish	dolphins_grace 4s			
+sealife:pupfish	Pupfish	raw	fish	dolphins_grace 3s			
+sealife:sardine	Sardine	raw	fish	dolphins_grace 3s			
+sealife:sashimi	Sashimi	prepared	fish	dolphins_grace 21s			sealife:sashimi
+sealife:siamese_fighting_fish	Siamese Fighting Fish	raw	fish	dolphins_grace 3s			
+sealife:silver_stripe_blaasop	Silver-Stripe Blaasop	raw	fish	dolphins_grace 4s			
+sealife:stingray	Stingray	raw	fish	dolphins_grace 4s			
+sealife:trout	Trout	raw	fish	dolphins_grace 4s			
+sealife:tuna	Tuna	raw	fish	dolphins_grace 4s			
+sealife:walleye	Walleye	raw	fish	dolphins_grace 4s			
+sealife:whitemargin_stargazer	Whitemargin Stargazer	raw	fish	dolphins_grace 4s			
+shroomcraft:cooked_shroomfin	Cooked Shroomfin	prepared	mushroom	mana_flow 21s			shroomcraft:cooked_shroomfin_from_campfire_cooking
+shroomcraft:shroomfin	Shroomfin	raw	mushroom	mana_flow 4s			name
+spider-overhaul:cooked_crab	Cooked Crab	prepared	fish	dolphins_grace 24s			name
+spider-overhaul:crab_leg	Crab Leg	raw	fish	dolphins_grace 4s			name
+the_darkness_will_find_you:cursed_apple	Cursed Apple	dish	fruit,golden	luck 120s			the_darkness_will_find_you:cursed_apple
+yungscavebiomes:prickly_peach	Prickly Peach	raw	fruit	luck 4s			name

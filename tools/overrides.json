@@ -1,0 +1,29 @@
+{
+  "_comment": "Per-item fixes the generator can't infer. Keys: item id. 'families': ordered list (first = signature), 'tier': raw|prepared|dish|meal, 'skip': true leaves the item untouched.",
+  "minecraft:cod_bucket": {
+    "skip": true
+  },
+  "minecraft:salmon_bucket": {
+    "skip": true
+  },
+  "minecraft:pufferfish_bucket": {
+    "skip": true
+  },
+  "minecraft:tropical_fish_bucket": {
+    "skip": true
+  },
+  "kaleidoscope_cookery:transmutation_lunch_bag": {
+    "skip": true
+  },
+  "croptopia:cooking_oil": {
+    "skip": true
+  },
+  "rusticdelight:cooking_oil": {
+    "skip": true
+  },
+  "cropcritters:puffbomb_slice": {
+    "families": [
+      "mushroom"
+    ]
+  }
+}

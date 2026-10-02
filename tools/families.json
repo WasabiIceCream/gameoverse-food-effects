@@ -1,0 +1,213 @@
+{
+  "_comment": "Ingredient families, checked in this order against an item's or tag's path: the first match wins. effect null = add nothing (the food keeps its own effects). See docs/food-effects-design.md in the server project.",
+  "families": [
+    {
+      "id": "golden",
+      "name": "Golden",
+      "effect": null,
+      "pattern": "golden_(apple|salad)|glistering|enchanted_golden|enchanted_beetroot"
+    },
+    {
+      "id": "spoiled",
+      "name": "Spoiled",
+      "effect": "minecraft:nausea",
+      "pattern": "rotten|spider_eye|poisonous|suspicious|dark_cuisine|caterpillar|grubs|earthworm|leeches|flesh",
+      "max_seconds": 10
+    },
+    {
+      "id": "pufferfish",
+      "name": "Pufferfish",
+      "effect": "minecraft:conduit_power",
+      "pattern": "puffer"
+    },
+    {
+      "id": "chorus",
+      "name": "Chorus & End fruit",
+      "effect": "enderscape:low_gravity",
+      "pattern": "chorus|murublight|puruberry|ender_|_ender|void|purpur"
+    },
+    {
+      "id": "glow",
+      "name": "Carrot & glow berries",
+      "effect": "minecraft:night_vision",
+      "pattern": "glow_berr|glowing|earlight|luminous|carrot"
+    },
+    {
+      "id": "pumpkin",
+      "name": "Pumpkin & squash",
+      "effect": "kaleidoscope_cookery:warmth",
+      "pattern": "pumpkin|squash|zucchini|gourd"
+    },
+    {
+      "id": "kelp",
+      "name": "Kelp & seaweed",
+      "effect": "minecraft:water_breathing",
+      "pattern": "kelp|seaweed|sea_lettuce|nori|algae|laver"
+    },
+    {
+      "id": "chili",
+      "name": "Chili & spice",
+      "effect": "minecraft:fire_resistance",
+      "pattern": "chil[ie]|(?<!bell_)pepper(?!mint)|paprika|jalapeno|cayenne|curry|mustard|wasabi|horseradish|ginger|garlic"
+    },
+    {
+      "id": "honey",
+      "name": "Honey & sweets",
+      "effect": "minecraft:regeneration",
+      "pattern": "honey|syrup|molasses|maple|caramel|candy|toffee|marshmallow"
+    },
+    {
+      "id": "cocoa",
+      "name": "Coffee, tea & cocoa",
+      "effect": "minecraft:speed",
+      "pattern": "cocoa|chocolate|coffee|espresso|mocha|(^|_)tea($|_)|matcha|latte"
+    },
+    {
+      "id": "berry",
+      "name": "Berries",
+      "effect": "gameoverse_food_effects:keen",
+      "pattern": "berr|grape|currant|cherr|raisin|cranberr"
+    },
+    {
+      "id": "fruit",
+      "name": "Fruit & melon",
+      "effect": "minecraft:luck",
+      "pattern": "apple|pear|peach|plum|apricot|orange|lemon|lime|banana|mango|pineapple|coconut|kiwi|(^|_)figs?($|_)|(^|_)dates?($|_)|citrus|starfruit|persimmon|kumquat|dragonfruit|nectarine|grapefruit|pomegranate|avocado|guava|papaya|fruit|(^|_)jam|jelly|rhubarb|melon|cucumber|cantaloupe|honeydew"
+    },
+    {
+      "id": "mushroom",
+      "name": "Mushrooms",
+      "effect": "gameoverse_food_effects:mana_flow",
+      "pattern": "mushroom|fungus|shroom|toadstool|truffle|morel"
+    },
+    {
+      "id": "rabbit",
+      "name": "Rabbit & frog",
+      "effect": "minecraft:jump_boost",
+      "pattern": "rabbit|frog"
+    },
+    {
+      "id": "egg",
+      "name": "Eggs",
+      "effect": "minecraft:absorption",
+      "pattern": "(^|_)eggs?($|_)|omelet|custard|mayo|meringue|quiche"
+    },
+    {
+      "id": "poultry",
+      "name": "Poultry",
+      "effect": "minecraft:slow_falling",
+      "pattern": "chicken|turkey|duck|(^|_)wings?($|_)|nugget"
+    },
+    {
+      "id": "fish",
+      "name": "Fish & seafood",
+      "effect": "minecraft:dolphins_grace",
+      "pattern": "fish|(^|_)cod|salmon|tuna|bass|trout|carp|(^|_)eel|anchovy|sardine|halibut|pike|perch|catfish|minnow|tang|(^|_)ray|stingray|koi|tetra|shrimp|prawn|crab|lobster|clam|oyster|mussel|scallop|calamari|squid|tentacle|octopus|(^|_)roe|caviar|sushi|sashimi|seafood|splashtail|plentifin|wildsplash|devilfish|battlegill|wrecker|stormfish|islehopper|ancientscale|pondie|floater|lamprey|stargazer|blaasop|walleye|pickerel|chub|bowfin|lungfish|pupfish|guardian|piranha|anglerfish|angelfish|damselfish|goldfish|pupfish|shroomfin|elder_guardian"
+    },
+    {
+      "id": "red_meat",
+      "name": "Red meat",
+      "effect": "minecraft:strength",
+      "pattern": "beef|steak|mutton|lamb|venison|ravager|donkey|horse|burger|patty|meatball|minced|jerky|bacon|pork|(^|_)ham($|_)|sausage|offal|ribs|brisket|hoglin|meat"
+    },
+    {
+      "id": "leafy",
+      "name": "Greens & vegetables",
+      "effect": "gameoverse_food_effects:fresh",
+      "pattern": "lettuce|cabbage|spinach|kale|(^|_)leaf|leaves|greens|salad|herb|basil|sage|mint|celery|artichoke|asparagus|broccoli|cauliflower|bok_choy|waterlily|bell_pepper|eggplant|olive|tomat|ketchup|marinara|salsa|saguaro|succotash"
+    },
+    {
+      "id": "root",
+      "name": "Root vegetables",
+      "effect": "gameoverse_food_effects:steadfast",
+      "pattern": "potato|beetroot|radish|turnip|onion|leek|(^|_)yams?($|_)|parsnip|rutabaga|cassava|taro"
+    },
+    {
+      "id": "grain",
+      "name": "Grain",
+      "effect": "minecraft:haste",
+      "pattern": "wheat|bread|flour|dough|rice|barley|oat|corn|maize|noodle|pasta|tortilla|toast|(^|_)buns?($|_)|bagel|cracker|cereal|pancake|waffle|crust|seitan|tofu|soy|bean|lentil|(^|_)peas?($|_)|chickpea|hop|baozi|mantou|samsa|dumpling|pie|tteokbokki|popcorn"
+    },
+    {
+      "id": "nut",
+      "name": "Nuts & seeds",
+      "effect": "gameoverse_food_effects:focused",
+      "pattern": "(^|_)nuts?($|_)|almond|cashew|pecan|walnut|pistachio|sesame|seeds?($|_)|vanilla|cinnamon|nutmeg|peanut"
+    },
+    {
+      "id": "dairy",
+      "name": "Dairy",
+      "effect": "minecraft:resistance",
+      "pattern": "milk|cheese|butter|cream|yogh?urt"
+    }
+  ],
+  "staples": [
+    "grain",
+    "dairy"
+  ],
+  "neutral": "(:|/)(salts?|sugar|oils?|olive_oils|cooking_oil|water|water_bottles|bowl|glass_bottle|buckets?|frying_pan|cooking_pot|food_press|ice|stick|paper|bone_meal|stuffed_dough_food|mortar|pestle|knife|knives|dry_seeds|stuffed_bell_pepper_ingredients)$",
+  "dead_effects": [
+    "farmersdelight:nourishment",
+    "farmersdelight:comfort",
+    "kaleidoscope_cookery:vigor",
+    "minecraft:hunger"
+  ],
+  "tiers": {
+    "raw": {
+      "seconds": 4,
+      "max_effects": 1
+    },
+    "prepared": {
+      "seconds": 20,
+      "max_effects": 1
+    },
+    "dish": {
+      "seconds": 120,
+      "max_effects": 2
+    },
+    "meal": {
+      "seconds": 360,
+      "max_effects": 3
+    }
+  },
+  "prep_types": [
+    "minecraft:campfire_cooking",
+    "minecraft:smelting",
+    "minecraft:smoking",
+    "minecraft:blasting",
+    "farmersdelight:cutting",
+    "kaleidoscope_cookery:chopping_board",
+    "kaleidoscope_cookery:steamer",
+    "create:cutting",
+    "kaleidoscope_cookery:bamboo_tray",
+    "create:milling",
+    "create:filling"
+  ],
+  "meal_types": [
+    "farmersdelight:cooking",
+    "kaleidoscope_cookery:pot",
+    "kaleidoscope_cookery:stockpot",
+    "kaleidoscope_cookery:flex_stockpot",
+    "kaleidoscope_cookery:flex_pot",
+    "alcocraftplus:beer_brewing",
+    "create:mixing",
+    "kaleidoscope_cookery:rice_bowl"
+  ],
+  "natural_tag_prefixes": [
+    "c:foods/raw_",
+    "c:crops",
+    "c:foods/fruit",
+    "c:foods/berry",
+    "c:foods/vegetable",
+    "c:foods/leafy",
+    "c:fruits",
+    "c:vegetables",
+    "c:raw_fishes"
+  ],
+  "skip_recipe": "crate|_bag$|basket|sack|bale",
+  "skip_ingredient": "crate|_bag$|basket|_block$|sack|bale",
+  "name_tiers": {
+    "prepared": "cooked|baked|roast|fried|grilled|smoked|toasted|steamed|boiled|dried|juice|(^|_)tea($|_)|coffee",
+    "dish": "soup|stew|pie|sandwich|burger|cake|salad|pizza|candy|cookie|roll|sushi|curry|taco|bowl|jam|smoothie|wine|beer|tart|muffin|pancake|kebab|skewer|stir_fry|rice"
+  }
+}
