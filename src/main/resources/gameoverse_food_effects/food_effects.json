@@ -116,7 +116,7 @@
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:slow_falling",
     "probability": 1.0,
     "seconds": 382
    }
@@ -156,7 +156,7 @@
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:haste",
     "probability": 1.0,
     "seconds": 382
    }
@@ -450,19 +450,13 @@
     "amplifier": 0,
     "effect": "minecraft:luck",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:apricot": [
@@ -554,19 +548,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "gameoverse_food_effects:fresh",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:baked_sweet_potato": [
@@ -598,19 +586,13 @@
     "amplifier": 0,
     "effect": "minecraft:luck",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:banana_nut_bread": [
@@ -698,19 +680,13 @@
     "amplifier": 0,
     "effect": "minecraft:strength",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
     "effect": "minecraft:fire_resistance",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:absorption",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:beer": [
@@ -748,19 +724,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "minecraft:luck",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:bibimbap": [
@@ -768,19 +738,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:strength",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:blackbean": [
@@ -864,19 +828,13 @@
     "amplifier": 0,
     "effect": "minecraft:speed",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:burrito": [
@@ -1156,19 +1114,13 @@
     "amplifier": 0,
     "effect": "gameoverse_food_effects:keen",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:chicken_and_dumplings": [
@@ -1226,19 +1178,13 @@
     "amplifier": 0,
     "effect": "minecraft:fire_resistance",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:chimichanga": [
@@ -1274,19 +1220,13 @@
     "amplifier": 0,
     "effect": "minecraft:speed",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:chocolate_milkshake": [
@@ -1338,7 +1278,7 @@
    },
    {
     "amplifier": 0,
-    "effect": "minecraft:slow_falling",
+    "effect": "minecraft:resistance",
     "probability": 1.0,
     "seconds": 450
    }
@@ -1510,19 +1450,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:strength",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:croque_monsieur": [
@@ -1596,19 +1530,13 @@
     "amplifier": 0,
     "effect": "minecraft:dolphins_grace",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:doughnut": [
@@ -1652,19 +1580,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:haste",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:egg_roll": [
@@ -1672,19 +1594,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "gameoverse_food_effects:fresh",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:eggplant": [
@@ -1700,19 +1616,13 @@
     "amplifier": 0,
     "effect": "gameoverse_food_effects:fresh",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
     "effect": "minecraft:fire_resistance",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:absorption",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:elderberry": [
@@ -1748,12 +1658,6 @@
   "croptopia:eton_mess": [
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
     "effect": "gameoverse_food_effects:keen",
     "probability": 1.0,
     "seconds": 495
@@ -1761,6 +1665,12 @@
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
+    "probability": 1.0,
+    "seconds": 495
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
     "seconds": 495
    }
@@ -1796,13 +1706,13 @@
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:absorption",
     "probability": 1.0,
     "seconds": 495
    },
    {
     "amplifier": 0,
-    "effect": "minecraft:absorption",
+    "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
     "seconds": 495
    }
@@ -1886,19 +1796,13 @@
     "amplifier": 0,
     "effect": "minecraft:luck",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:absorption",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:fruit_salad": [
@@ -2240,19 +2144,13 @@
     "amplifier": 0,
     "effect": "minecraft:luck",
     "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 428
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    }
   ],
   "croptopia:lemonade": [
@@ -2292,19 +2190,13 @@
     "amplifier": 0,
     "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
-    "seconds": 382
+    "seconds": 128
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 382
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 382
+    "seconds": 128
    }
   ],
   "croptopia:mango": [
@@ -2320,19 +2212,13 @@
     "amplifier": 0,
     "effect": "minecraft:luck",
     "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 428
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    }
   ],
   "croptopia:mashed_potatoes": [
@@ -2370,19 +2256,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 405
+    "seconds": 135
    },
    {
     "amplifier": 0,
     "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
-    "seconds": 405
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 405
+    "seconds": 135
    }
   ],
   "croptopia:nectarine": [
@@ -2412,39 +2292,27 @@
     "amplifier": 0,
     "effect": "gameoverse_food_effects:mana_flow",
     "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:haste",
     "probability": 1.0,
-    "seconds": 428
-   },
-   {
-    "amplifier": 0,
-    "effect": "kaleidoscope_cookery:warmth",
-    "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    }
   ],
   "croptopia:nougat": [
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 428
-   },
-   {
-    "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    },
    {
     "amplifier": 0,
-    "effect": "minecraft:slow_falling",
+    "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    }
   ],
   "croptopia:nutmeg": [
@@ -2640,19 +2508,13 @@
     "amplifier": 0,
     "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 428
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    }
   ],
   "croptopia:pecan_pie": [
@@ -2660,19 +2522,13 @@
     "amplifier": 0,
     "effect": "minecraft:haste",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:pepperoni": [
@@ -2726,19 +2582,7 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 405
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 405
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 405
+    "seconds": 22
    }
   ],
   "croptopia:pickled_garlic": [
@@ -2910,19 +2754,13 @@
     "amplifier": 0,
     "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 405
+    "seconds": 135
    },
    {
     "amplifier": 0,
     "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
-    "seconds": 405
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:absorption",
-    "probability": 1.0,
-    "seconds": 405
+    "seconds": 135
    }
   ],
   "croptopia:pumpkin_soup": [
@@ -2972,19 +2810,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
     "effect": "gameoverse_food_effects:fresh",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:radish": [
@@ -3102,19 +2934,13 @@
     "amplifier": 0,
     "effect": "minecraft:luck",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:rice": [
@@ -3238,19 +3064,13 @@
     "amplifier": 0,
     "effect": "gameoverse_food_effects:keen",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:regeneration",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:rutabaga": [
@@ -3336,21 +3156,15 @@
   "croptopia:scones": [
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
     "effect": "gameoverse_food_effects:keen",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 495
+    "seconds": 165
    }
   ],
   "croptopia:scrambled_eggs": [
@@ -3358,19 +3172,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:resistance",
     "probability": 1.0,
-    "seconds": 428
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    }
   ],
   "croptopia:sea_lettuce": [
@@ -3572,19 +3380,13 @@
     "amplifier": 0,
     "effect": "gameoverse_food_effects:keen",
     "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 428
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    }
   ],
   "croptopia:strawberry_jam": [
@@ -3642,19 +3444,7 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 382
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 382
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 382
+    "seconds": 21
    }
   ],
   "croptopia:supreme_pizza": [
@@ -3690,19 +3480,13 @@
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 450
+    "seconds": 150
    },
    {
     "amplifier": 0,
     "effect": "minecraft:luck",
     "probability": 1.0,
-    "seconds": 450
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 450
+    "seconds": 150
    }
   ],
   "croptopia:sweet_potato_fries": [
@@ -3782,19 +3566,13 @@
     "amplifier": 0,
     "effect": "minecraft:strength",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
     "effect": "gameoverse_food_effects:steadfast",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:absorption",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:toast": [
@@ -3994,19 +3772,13 @@
     "amplifier": 0,
     "effect": "gameoverse_food_effects:keen",
     "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 180
    }
   ],
   "croptopia:tteokbokki": [
@@ -4060,19 +3832,13 @@
     "amplifier": 0,
     "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    },
    {
     "amplifier": 0,
     "effect": "minecraft:absorption",
     "probability": 1.0,
-    "seconds": 428
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 428
+    "seconds": 142
    }
   ],
   "croptopia:veggie_fried_rice": [
@@ -5391,6 +5157,544 @@
     "seconds": 4
    }
   ],
+  "frightsdelight:apple_slime": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:slimed",
+    "probability": 0.75,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:luck",
+    "probability": 1.0,
+    "seconds": 382
+   }
+  ],
+  "frightsdelight:bone_kebab_rotten_flesh": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:infected",
+    "probability": 0.65,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:nausea",
+    "probability": 1.0,
+    "seconds": 10
+   }
+  ],
+  "frightsdelight:bone_kebab_slimeapple": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:slimed",
+    "probability": 0.65,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:luck",
+    "probability": 1.0,
+    "seconds": 450
+   }
+  ],
+  "frightsdelight:bone_kebab_soul_berry": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:fortified_mind",
+    "probability": 1.0,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 405
+   }
+  ],
+  "frightsdelight:bone_kebab_spider_eye": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:hysteria",
+    "probability": 0.65,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:nausea",
+    "probability": 1.0,
+    "seconds": 10
+   }
+  ],
+  "frightsdelight:bone_kebab_wither_berry": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:undead_hunger",
+    "probability": 1.0,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 405
+   }
+  ],
+  "frightsdelight:cobweb_ring_candy": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:cobwebbed",
+    "probability": 0.25,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:regeneration",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
+  "frightsdelight:cookie_cobweb": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:cobwebbed",
+    "probability": 0.75,
+    "seconds": 30
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:haste",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
+  "frightsdelight:cookie_flesh": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:infected",
+    "probability": 0.75,
+    "seconds": 30
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:nausea",
+    "probability": 1.0,
+    "seconds": 10
+   }
+  ],
+  "frightsdelight:cookie_ghast_tear": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:chills",
+    "probability": 0.75,
+    "seconds": 30
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:haste",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
+  "frightsdelight:cookie_slimeapple": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:slimed",
+    "probability": 0.75,
+    "seconds": 30
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:luck",
+    "probability": 1.0,
+    "seconds": 315
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:haste",
+    "probability": 1.0,
+    "seconds": 315
+   }
+  ],
+  "frightsdelight:cookie_soul_berry": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:fortified_mind",
+    "probability": 1.0,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
+  "frightsdelight:cookie_spidereye": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:hysteria",
+    "probability": 0.75,
+    "seconds": 30
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:nausea",
+    "probability": 1.0,
+    "seconds": 10
+   }
+  ],
+  "frightsdelight:cookie_wither_berry": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:undead_hunger",
+    "probability": 1.0,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
+  "frightsdelight:ghasttear_ring_candy": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:chills",
+    "probability": 0.25,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:regeneration",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
+  "frightsdelight:monster_mash": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:chills",
+    "probability": 0.5,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:infected",
+    "probability": 0.5,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:hysteria",
+    "probability": 0.5,
+    "seconds": 180
+   }
+  ],
+  "frightsdelight:pasta_with_slimeballs": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:slimed",
+    "probability": 0.5,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:haste",
+    "probability": 1.0,
+    "seconds": 495
+   }
+  ],
+  "frightsdelight:punch_rotten_flesh": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:infected",
+    "probability": 0.5,
+    "seconds": 30
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:nausea",
+    "probability": 1.0,
+    "seconds": 10
+   }
+  ],
+  "frightsdelight:punch_slimeapple": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:slimed",
+    "probability": 0.75,
+    "seconds": 30
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:glowing",
+    "probability": 1.0,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:luck",
+    "probability": 1.0,
+    "seconds": 360
+   }
+  ],
+  "frightsdelight:punch_soul_berry": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:fortified_mind",
+    "probability": 1.0,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 360
+   }
+  ],
+  "frightsdelight:punch_spidereye": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:hysteria",
+    "probability": 0.5,
+    "seconds": 30
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:nausea",
+    "probability": 1.0,
+    "seconds": 10
+   }
+  ],
+  "frightsdelight:punch_wither_berry": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:undead_hunger",
+    "probability": 1.0,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 360
+   }
+  ],
+  "frightsdelight:rotten_flesh_ring_candy": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:infected",
+    "probability": 0.25,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:nausea",
+    "probability": 1.0,
+    "seconds": 10
+   }
+  ],
+  "frightsdelight:slimeapple_ring_candy": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:slimed",
+    "probability": 0.25,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:regeneration",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
+  "frightsdelight:soul_berry_ring_candy": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:fortified_mind",
+    "probability": 1.0,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:regeneration",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
+  "frightsdelight:soup_cobweb": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:cobwebbed",
+    "probability": 0.5,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 450
+   }
+  ],
+  "frightsdelight:soup_ghast_tear": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:chills",
+    "probability": 0.5,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 450
+   }
+  ],
+  "frightsdelight:soup_rotten_flesh": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:infected",
+    "probability": 0.5,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:nausea",
+    "probability": 1.0,
+    "seconds": 10
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 450
+   }
+  ],
+  "frightsdelight:soup_slime": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:slimed",
+    "probability": 0.5,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 450
+   }
+  ],
+  "frightsdelight:soup_slimeapple": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:slimed",
+    "probability": 0.5,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:luck",
+    "probability": 1.0,
+    "seconds": 450
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 450
+   }
+  ],
+  "frightsdelight:soup_soul_berry": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:fortified_mind",
+    "probability": 1.0,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 450
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 450
+   }
+  ],
+  "frightsdelight:soup_spider_eye": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:hysteria",
+    "probability": 0.5,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:nausea",
+    "probability": 1.0,
+    "seconds": 10
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 450
+   }
+  ],
+  "frightsdelight:soup_wither_berry": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:undead_hunger",
+    "probability": 1.0,
+    "seconds": 180
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 450
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 450
+   }
+  ],
+  "frightsdelight:spidereye_ring_candy": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:hysteria",
+    "probability": 0.25,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:regeneration",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
+  "frightsdelight:wither_berry_ring_candy": [
+   {
+    "amplifier": 0,
+    "effect": "frightsdelight:undead_hunger",
+    "probability": 1.0,
+    "seconds": 60
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:regeneration",
+    "probability": 1.0,
+    "seconds": 105
+   }
+  ],
   "gofish:aquatic_astral_stew": [
    {
     "amplifier": 0,
@@ -5813,12 +6117,6 @@
    {
     "amplifier": 0,
     "effect": "minecraft:strength",
-    "probability": 1.0,
-    "seconds": 495
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
     "seconds": 495
    }
@@ -6334,9 +6632,9 @@
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:nausea",
     "probability": 1.0,
-    "seconds": 315
+    "seconds": 10
    }
   ],
   "kaleidoscope_cookery:fish_flavored_shredded_pork": [
@@ -6411,12 +6709,6 @@
     "effect": "minecraft:nausea",
     "probability": 1.0,
     "seconds": 10
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
-    "probability": 1.0,
-    "seconds": 405
    }
   ],
   "kaleidoscope_cookery:four_joy_meatball_soup": [
@@ -6470,7 +6762,7 @@
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:strength",
     "probability": 1.0,
     "seconds": 540
    }
@@ -6746,7 +7038,7 @@
   "kaleidoscope_cookery:qingtuan": [
    {
     "amplifier": 0,
-    "effect": "minecraft:luck",
+    "effect": "gameoverse_food_effects:fresh",
     "probability": 1.0,
     "seconds": 21
    }
@@ -6903,20 +7195,6 @@
     "seconds": 450
    }
   ],
-  "kaleidoscope_cookery:slime_ball_meal": [
-   {
-    "amplifier": 0,
-    "effect": "minecraft:jump_boost",
-    "probability": 1.0,
-    "seconds": 50
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:luck",
-    "probability": 1.0,
-    "seconds": 360
-   }
-  ],
   "kaleidoscope_cookery:spicy_blood_stew": [
    {
     "amplifier": 0,
@@ -6932,7 +7210,7 @@
    },
    {
     "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
+    "effect": "minecraft:strength",
     "probability": 1.0,
     "seconds": 540
    }
@@ -7635,20 +7913,6 @@
     "effect": "minecraft:dolphins_grace",
     "probability": 1.0,
     "seconds": 4
-   }
-  ],
-  "minecraft:spider_eye": [
-   {
-    "amplifier": 0,
-    "effect": "minecraft:poison",
-    "probability": 1.0,
-    "seconds": 5
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:nausea",
-    "probability": 1.0,
-    "seconds": 10
    }
   ],
   "minecraft:suspicious_stew": [
@@ -8397,12 +8661,6 @@
    {
     "amplifier": 0,
     "effect": "gameoverse_food_effects:fresh",
-    "probability": 1.0,
-    "seconds": 428
-   },
-   {
-    "amplifier": 0,
-    "effect": "gameoverse_food_effects:focused",
     "probability": 1.0,
     "seconds": 428
    }

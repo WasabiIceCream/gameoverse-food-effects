@@ -72,7 +72,7 @@
       "id": "fruit",
       "name": "Fruit & melon",
       "effect": "minecraft:luck",
-      "pattern": "apple|pear|peach|plum|apricot|orange|lemon|lime|banana|mango|pineapple|coconut|kiwi|(^|_)figs?($|_)|(^|_)dates?($|_)|citrus|starfruit|persimmon|kumquat|dragonfruit|nectarine|grapefruit|pomegranate|avocado|guava|papaya|fruit|(^|_)jam|jelly|rhubarb|melon|cucumber|cantaloupe|honeydew"
+      "pattern": "apple|pear|peach|plum|apricot|orange|lemon|(?<!s)lime|banana|mango|pineapple|coconut|kiwi|(^|_)figs?($|_)|(^|_)dates?($|_)|citrus|starfruit|persimmon|kumquat|dragonfruit|nectarine|grapefruit|pomegranate|avocado|guava|papaya|fruit|(^|_)jam|jelly|rhubarb|melon|cucumber|cantaloupe|honeydew"
     },
     {
       "id": "mushroom",
@@ -145,7 +145,7 @@
     "grain",
     "dairy"
   ],
-  "neutral": "(:|/)(salts?|sugar|oils?|olive_oils|cooking_oil|water|water_bottles|bowl|glass_bottle|buckets?|frying_pan|cooking_pot|food_press|ice|stick|paper|bone_meal|stuffed_dough_food|mortar|pestle|knife|knives|dry_seeds|stuffed_bell_pepper_ingredients)$",
+  "neutral": "(:|/)(salts?|sugar|oils?|olive_oils|cooking_oil|water|water_bottles|bowl|glass_bottle|buckets?|frying_pan|cooking_pot|food_press|ice|stick|paper|bone_meal|stuffed_dough_food|mortar|pestle|knife|knives|dry_seeds|stuffed_bell_pepper_ingredients|slime_balls?)$",
   "dead_effects": [
     "farmersdelight:nourishment",
     "farmersdelight:comfort",
@@ -204,7 +204,7 @@
     "c:vegetables",
     "c:raw_fishes"
   ],
-  "skip_recipe": "crate|_bag$|basket|sack|bale",
+  "skip_recipe": "crate|_bag$|basket|sack|bale|^mysticalagriculture:essence/",
   "skip_ingredient": "crate|_bag$|basket|_block$|sack|bale",
   "name_tiers": {
     "prepared": "cooked|baked|roast|fried|grilled|smoked|toasted|steamed|boiled|dried|juice|(^|_)tea($|_)|coffee",
