@@ -588,22 +588,22 @@ kaleidoscope_cookery:bamboo_tube_rice	Bamboo Tube Rice	dish	grain,red_meat	haste
 kaleidoscope_cookery:baozi	Baozi	prepared	grain	absorption 80s	absorption		kaleidoscope_cookery:steamer/baozi
 kaleidoscope_cookery:beef_meatball_soup	Beef Meatball Soup	meal	red_meat,leafy	preservation 180s, strength 382s, fresh 382s	preservation		kaleidoscope_cookery:flex_stockpot/beef_meatball_soup
 kaleidoscope_cookery:beef_noodle	Beef Noodle	meal	red_meat,grain	vitality 480s, strength 540s, haste 540s	vitality		kaleidoscope_cookery:flex_stockpot/beef_noodle
-kaleidoscope_cookery:blaze_lamb_chop	Blaze Lamb Chop	meal	red_meat	haste 60s, strength 495s	haste		kaleidoscope_cookery:flex_pot/blaze_lamb_chop
+kaleidoscope_cookery:blaze_lamb_chop	Blaze Lamb Chop	meal	red_meat	fire_resistance 80s, resistance 100s, strength 495s	fire_resistance,resistance		kaleidoscope_cookery:flex_pot/blaze_lamb_chop
 kaleidoscope_cookery:borscht	Borscht	meal	leafy,red_meat	flatulence 150s, fresh 360s, strength 360s	flatulence		kaleidoscope_cookery:flex_stockpot/borscht
 kaleidoscope_cookery:braised_beef	Braised Beef	meal	red_meat,chili	flatulence 50s, satiated_shield 80s, strength 450s	flatulence,satiated_shield		kaleidoscope_cookery:flex_pot/braised_beef
 kaleidoscope_cookery:braised_beef_rice_bowl	Braised Beef on Rice	meal	red_meat,chili	flatulence 50s, satiated_shield 80s, strength 540s	flatulence,satiated_shield		kaleidoscope_cookery:braised_beef_rice_bowl
 kaleidoscope_cookery:braised_beef_with_potatoes	Braised Beef with Potatoes	meal	red_meat,root	warmth 270s, strength 382s, steadfast 382s	warmth		kaleidoscope_cookery:flex_stockpot/braised_beef_with_potatoes
 kaleidoscope_cookery:braised_fish	Braised Fish	meal	fish	satiated_shield 80s, water_breathing 180s, dolphins_grace 450s	satiated_shield,water_breathing		kaleidoscope_cookery:deprecated/braised_fish_cod
 kaleidoscope_cookery:braised_fish_rice_bowl	Braised Fish on Rice	meal	fish	water_breathing 180s, satiated_shield 80s, dolphins_grace 540s	water_breathing,satiated_shield		kaleidoscope_cookery:deprecated/braised_fish_cod_with_rice
-kaleidoscope_cookery:braised_pork_ribs	Braised Pork Ribs	meal	red_meat,fish	haste 60s, strength 540s, dolphins_grace 540s	haste		kaleidoscope_cookery:flex_pot/braised_pork_ribs
-kaleidoscope_cookery:brown_mushroom_pot_soup	Brown Mushroom Pot Soup	meal	mushroom	haste 60s, mana_flow 540s	haste		kaleidoscope_cookery:flex_stockpot/brown_mushroom_pot_soup
-kaleidoscope_cookery:buddha_jumps_over_the_wall	Buddha Jumps Over the Wall	meal	egg,leafy	haste 60s, absorption 540s, fresh 540s	haste		kaleidoscope_cookery:flex_stockpot/buddha_jumps_over_the_wall
-kaleidoscope_cookery:candied_potato	Candied Potatoes	meal	root	haste 60s, steadfast 540s	haste		kaleidoscope_cookery:flex_pot/candied_potato
+kaleidoscope_cookery:braised_pork_ribs	Braised Pork Ribs	meal	red_meat,fish	warmth 80s, strength 540s, dolphins_grace 540s	warmth		kaleidoscope_cookery:flex_pot/braised_pork_ribs
+kaleidoscope_cookery:brown_mushroom_pot_soup	Brown Mushroom Pot Soup	meal	mushroom	warmth 300s, mana_flow 540s	warmth		kaleidoscope_cookery:flex_stockpot/brown_mushroom_pot_soup
+kaleidoscope_cookery:buddha_jumps_over_the_wall	Buddha Jumps Over the Wall	meal	egg,leafy	satiated_shield 180s, absorption 540s, fresh 540s	satiated_shield		kaleidoscope_cookery:flex_stockpot/buddha_jumps_over_the_wall
+kaleidoscope_cookery:candied_potato	Candied Potatoes	meal	root	warmth 80s, steadfast 540s	warmth		kaleidoscope_cookery:flex_pot/candied_potato
 kaleidoscope_cookery:caterpillar	Caterpillar	raw	spoiled	nausea 10s	nausea		name
 kaleidoscope_cookery:chicken_and_mushroom_stew	Chicken and Mushroom Stew	meal	mushroom,poultry	warmth 270s, mana_flow 360s, slow_falling 360s	warmth		kaleidoscope_cookery:flex_stockpot/chicken_and_mushroom_stew
 kaleidoscope_cookery:chorus_fried_egg	Chorus Fried Egg	meal	chorus,egg	flatulence 20s, resistance 100s, low_gravity 472s	flatulence,resistance		kaleidoscope_cookery:flex_pot/chorus_fried_egg
-kaleidoscope_cookery:cold_roasted_meat	Cold Roasted Meat	prepared	red_meat	haste 60s	haste		kaleidoscope_cookery:cold_roasted_meat
-kaleidoscope_cookery:cold_style_sashimi	Frost Style Sashimi	dish	fish	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:cold_style_sashimi
+kaleidoscope_cookery:cold_roasted_meat	Cold Roasted Meat	prepared	red_meat	strength 30s			kaleidoscope_cookery:cold_roasted_meat
+kaleidoscope_cookery:cold_style_sashimi	Frost Style Sashimi	dish	fish	tundra_strider 45s, dolphins_grace 180s	tundra_strider	vigor	kaleidoscope_cookery:cold_style_sashimi
 kaleidoscope_cookery:cooked_cow_offal	Cooked Cow Offal	prepared	red_meat	strength 20s			kaleidoscope_cookery:chopping_board/cooked_cow_offal
 kaleidoscope_cookery:cooked_cut_small_meats	Cooked Meat Cuts	prepared	red_meat,poultry	strength 20s			kaleidoscope_cookery:chopping_board/cooked_cut_small_meats_from_chicken
 kaleidoscope_cookery:cooked_donkey_meat	Cooked Donkey Meat	prepared	red_meat	strength 22s			minecraft:cooked_donkey_meat_from_campfire_cooking
@@ -612,30 +612,30 @@ kaleidoscope_cookery:cooked_meatball	Cooked Meatball	dish	red_meat	strength 150s
 kaleidoscope_cookery:cooked_pork_belly	Cooked Pork Belly	prepared	red_meat	strength 20s			kaleidoscope_cookery:chopping_board/cooked_pork_belly
 kaleidoscope_cookery:cooked_rice	Cooked Rice	meal	grain	haste 405s			kaleidoscope_cookery:stockpot/rice_1
 kaleidoscope_cookery:country_style_mixed_vegetables	Country Style Mixed Vegetables	meal	leafy,glow,root	preservation 220s, fresh 360s, night_vision 360s	preservation	vigor	kaleidoscope_cookery:deprecated/country_style_mixed_vegetables
-kaleidoscope_cookery:crimson_fungus_pot_soup	Crimson Fungus Pot Soup	meal	mushroom	fire_resistance 80s, resistance 100s, mana_flow 540s	fire_resistance,resistance		kaleidoscope_cookery:flex_stockpot/crimson_fungus_pot_soup
+kaleidoscope_cookery:crimson_fungus_pot_soup	Crimson Fungus Pot Soup	meal	mushroom	fire_resistance 120s, mana_flow 540s	fire_resistance		kaleidoscope_cookery:flex_stockpot/crimson_fungus_pot_soup
 kaleidoscope_cookery:crystal_lamb_chop	Crystal Lamb Chop	meal	red_meat	haste 60s, strength 495s	haste		kaleidoscope_cookery:flex_pot/crystal_lamb_chop
 kaleidoscope_cookery:dark_cuisine	Dark Cuisine	raw	spoiled	blindness 15s, poison 5s	blindness,poison		name
 kaleidoscope_cookery:delicious_egg_fried_rice	Delicious Egg Fried Rice	meal	egg,leafy,glow,grain	warmth 45s, absorption 540s, fresh 540s	warmth		kaleidoscope_cookery:deprecated/delicious_egg_fried_rice
-kaleidoscope_cookery:desert_style_sashimi	Desert Style Sashimi	dish	fish	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:desert_style_sashimi
+kaleidoscope_cookery:desert_style_sashimi	Desert Style Sashimi	dish	fish	warmth 40s, mustard 80s	warmth,mustard		kaleidoscope_cookery:desert_style_sashimi
 kaleidoscope_cookery:dongpo_pork	Dongpo Pork	meal	red_meat	satiated_shield 80s, warmth 40s, strength 540s	satiated_shield,warmth		kaleidoscope_cookery:flex_pot/dongpo_pork
 kaleidoscope_cookery:donkey_burger	Donkey Burger	meal	red_meat,chili,poultry,grain	satiated_shield 45s, strength 540s, fire_resistance 540s	satiated_shield		kaleidoscope_cookery:flex_pot/donkey_burger
 kaleidoscope_cookery:donkey_soup	Donkey Soup	meal	red_meat	warmth 480s, strength 405s	warmth		kaleidoscope_cookery:deprecated/donkey_soup
-kaleidoscope_cookery:dough_drop_soup	Dough Drop Soup	meal	grain,leafy	haste 60s, fresh 450s	haste		kaleidoscope_cookery:flex_stockpot/dough_drop_soup
+kaleidoscope_cookery:dough_drop_soup	Dough Drop Soup	meal	grain,leafy	warmth 80s, haste 450s, fresh 450s	warmth		kaleidoscope_cookery:flex_stockpot/dough_drop_soup
 kaleidoscope_cookery:dumpling	Dumpling	meal	grain	warmth 80s, haste 450s	warmth		kaleidoscope_cookery:stockpot/dumpling_count_1
 kaleidoscope_cookery:egg_fried_rice	Egg Fried Rice	meal	egg,grain	absorption 472s, haste 472s			kaleidoscope_cookery:flex_pot/egg_fried_rice
-kaleidoscope_cookery:end_style_sashimi	End Style Sashimi	dish	fish,chorus	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:end_style_sashimi
+kaleidoscope_cookery:end_style_sashimi	End Style Sashimi	dish	fish,chorus	slow_falling 30s, absorption 40s	slow_falling,absorption		kaleidoscope_cookery:end_style_sashimi
 kaleidoscope_cookery:fearsome_thick_soup	Fearsome Thick Soup	meal	spoiled	sulfur 480s, mustard 80s, nausea 10s	sulfur,mustard		kaleidoscope_cookery:flex_stockpot/fearsome_thick_soup
 kaleidoscope_cookery:fish_flavored_shredded_pork	Fish Flavored Shredded Pork	meal	fish,chili,mushroom,red_meat	satiated_shield 120s, warmth 45s, dolphins_grace 428s	satiated_shield,warmth		kaleidoscope_cookery:flex_pot/fish_flavored_shredded_pork
 kaleidoscope_cookery:fish_flavored_shredded_pork_rice_bowl	Fish Flavored Shredded Pork on Rice	meal	fish,chili,mushroom,red_meat	satiated_shield 120s, warmth 45s, dolphins_grace 540s	satiated_shield,warmth		kaleidoscope_cookery:fish_flavored_shredded_pork_rice_bowl
 kaleidoscope_cookery:fondant_pie	Fondant Pie	meal	grain,pumpkin	luck 140s, regeneration 10s, haste 472s	luck,regeneration		kaleidoscope_cookery:flex_pot/fondant_pie
 kaleidoscope_cookery:fondant_spider_eye	Fondant Spider Eye	meal	spoiled	sulfur 50s, nausea 10s	sulfur		kaleidoscope_cookery:flex_pot/fondant_spider_eye
-kaleidoscope_cookery:four_joy_meatball_soup	Four Joy Meatball Soup	meal	red_meat	haste 60s, strength 540s	haste		kaleidoscope_cookery:flex_stockpot/four_joy_meatball_soup
-kaleidoscope_cookery:fried_caterpillar	Fried Caterpillar	meal	spoiled	haste 60s, nausea 10s	haste		kaleidoscope_cookery:flex_pot/fried_caterpillar
+kaleidoscope_cookery:four_joy_meatball_soup	Four Joy Meatball Soup	meal	red_meat	warmth 80s, strength 540s	warmth		kaleidoscope_cookery:flex_stockpot/four_joy_meatball_soup
+kaleidoscope_cookery:fried_caterpillar	Fried Caterpillar	meal	spoiled	flatulence 10s, nausea 10s	flatulence		kaleidoscope_cookery:flex_pot/fried_caterpillar
 kaleidoscope_cookery:fried_egg	Fried Egg	meal	egg	absorption 360s			kaleidoscope_cookery:pot/egg_to_fried_egg_1
-kaleidoscope_cookery:fried_spring_roll	Fried Spring Roll	meal	mushroom,red_meat	haste 60s, mana_flow 540s, strength 540s	haste		kaleidoscope_cookery:flex_pot/fried_spring_roll
-kaleidoscope_cookery:frost_lamb_chop	Frost Lamb Chop	meal	red_meat	haste 60s, strength 495s	haste		kaleidoscope_cookery:flex_pot/frost_lamb_chop
-kaleidoscope_cookery:fruit_platter	Fruit Platter	dish	cocoa,berry,fruit,glow	haste 60s, speed 180s	haste		kaleidoscope_cookery:fruit_platter
-kaleidoscope_cookery:golden_salad	Golden Salad	meal	golden,fruit,glow,poultry	fire_resistance 80s, resistance 100s, luck 540s	fire_resistance,resistance		kaleidoscope_cookery:golden_salad
+kaleidoscope_cookery:fried_spring_roll	Fried Spring Roll	meal	mushroom,red_meat	warmth 80s, mana_flow 540s, strength 540s	warmth		kaleidoscope_cookery:flex_pot/fried_spring_roll
+kaleidoscope_cookery:frost_lamb_chop	Frost Lamb Chop	meal	red_meat	tundra_strider 45s, resistance 100s, strength 495s	tundra_strider,resistance		kaleidoscope_cookery:flex_pot/frost_lamb_chop
+kaleidoscope_cookery:fruit_platter	Fruit Platter	dish	cocoa,berry,fruit,glow	speed 180s, keen 180s			kaleidoscope_cookery:fruit_platter
+kaleidoscope_cookery:golden_salad	Golden Salad	meal	golden,fruit,glow,poultry	resistance 100s, regeneration 10s, luck 540s	resistance,regeneration		kaleidoscope_cookery:golden_salad
 kaleidoscope_cookery:green_chili	Green Chili	raw	chili	fire_resistance 3s			
 kaleidoscope_cookery:hot_dry_noodles	Hot Dry Noodles	meal	grain,chili	vitality 480s, haste 540s, fire_resistance 540s	vitality		kaleidoscope_cookery:flex_stockpot/hot_dry_noodles
 kaleidoscope_cookery:hui_noodle	Lamb Hui Noodles	meal	grain,red_meat	vitality 480s, haste 540s, strength 540s	vitality		kaleidoscope_cookery:flex_stockpot/hui_noodle
@@ -644,9 +644,9 @@ kaleidoscope_cookery:lamb_and_radish_soup	Mutton and Radish Soup	meal	red_meat,g
 kaleidoscope_cookery:lettuce	Lettuce	raw	leafy	fresh 4s			
 kaleidoscope_cookery:mantou	Mantou	prepared	grain	haste 22s			kaleidoscope_cookery:steamer/mantou
 kaleidoscope_cookery:meat_pie	Meat Pie	meal	red_meat	warmth 80s, strength 450s	warmth		kaleidoscope_cookery:pot/stuffed_dough_food_to_meat_pie_1
-kaleidoscope_cookery:nether_style_sashimi	Nether Style Sashimi	dish	fish,mushroom	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:nether_style_sashimi
-kaleidoscope_cookery:numbing_spicy_chicken	Numbing Spicy Chicken	meal	poultry,chili	haste 60s, slow_falling 540s, fire_resistance 540s	haste		kaleidoscope_cookery:flex_stockpot/numbing_spicy_chicken
-kaleidoscope_cookery:oil_splashed_fish	Oil-Splashed Fish	meal	fish,chili	haste 60s, dolphins_grace 540s, fire_resistance 540s	haste		kaleidoscope_cookery:flex_pot/oil_splashed_fish
+kaleidoscope_cookery:nether_style_sashimi	Nether Style Sashimi	dish	fish,mushroom	fire_resistance 80s, resistance 100s	fire_resistance,resistance		kaleidoscope_cookery:nether_style_sashimi
+kaleidoscope_cookery:numbing_spicy_chicken	Numbing Spicy Chicken	meal	poultry,chili	fire_resistance 120s, slow_falling 540s	fire_resistance		kaleidoscope_cookery:flex_stockpot/numbing_spicy_chicken
+kaleidoscope_cookery:oil_splashed_fish	Oil-Splashed Fish	meal	fish,chili	warmth 80s, dolphins_grace 540s, fire_resistance 540s	warmth		kaleidoscope_cookery:flex_pot/oil_splashed_fish
 kaleidoscope_cookery:pan_seared_knight_steak	Pan-Seared Knight Steak	meal	red_meat,berry,fish	satiated_shield 80s, warmth 40s, strength 495s	satiated_shield,warmth		kaleidoscope_cookery:flex_pot/pan_seared_knight_steak
 kaleidoscope_cookery:pork_bone_soup	Pork Bone Soup	meal	red_meat,fish	strength 315s, dolphins_grace 315s		vigor	kaleidoscope_cookery:flex_stockpot/pork_bone_soup
 kaleidoscope_cookery:pufferfish_soup	Pufferfish Soup	meal	pufferfish,leafy	poison 15s, mustard 180s, conduit_power 315s	poison,mustard		kaleidoscope_cookery:flex_stockpot/pufferfish_soup
@@ -658,7 +658,7 @@ kaleidoscope_cookery:raw_lamb_chops	Raw Lamb Chops	raw	red_meat	strength 3s
 kaleidoscope_cookery:raw_meatball	Raw Meatball	dish	red_meat	strength 120s			kaleidoscope_cookery:raw_meatball
 kaleidoscope_cookery:raw_pork_belly	Raw Pork Belly	raw	red_meat	strength 4s			
 kaleidoscope_cookery:red_chili	Red Chili	raw	chili	fire_resistance 3s			
-kaleidoscope_cookery:red_mushroom_pot_soup	Red Mushroom Pot Soup	meal	mushroom	haste 60s, mana_flow 540s	haste		kaleidoscope_cookery:flex_stockpot/red_mushroom_pot_soup
+kaleidoscope_cookery:red_mushroom_pot_soup	Red Mushroom Pot Soup	meal	mushroom	warmth 300s, mana_flow 540s	warmth		kaleidoscope_cookery:flex_stockpot/red_mushroom_pot_soup
 kaleidoscope_cookery:samsa	Samsa	prepared	grain	haste 100s	haste		minecraft:samsa_from_campfire_cooking
 kaleidoscope_cookery:sashimi	Sashimi	raw	fish	dolphins_grace 3s			
 kaleidoscope_cookery:scramble_egg_with_tomatoes	Scramble Egg with Tomatoes	meal	egg,leafy	warmth 45s, absorption 405s, fresh 405s	warmth	vigor	kaleidoscope_cookery:flex_pot/scramble_egg_with_tomatoes
@@ -666,10 +666,10 @@ kaleidoscope_cookery:scramble_egg_with_tomatoes_rice_bowl	Scramble Egg with Toma
 kaleidoscope_cookery:seafood_miso_soup	Seafood Miso Soup	meal	fish,leafy	water_breathing 180s, dolphins_grace 40s, fresh 360s	water_breathing,dolphins_grace		kaleidoscope_cookery:flex_stockpot/seafood_miso_soup
 kaleidoscope_cookery:shengjian_mantou	Shengjian Mantou	meal	grain	warmth 80s, haste 450s	warmth		kaleidoscope_cookery:stockpot/shengjian_mantou_count_1
 kaleidoscope_cookery:slime_ball_meal	Slime Ball Meal	meal		jump_boost 50s	jump_boost		kaleidoscope_cookery:flex_pot/slime_ball_meal
-kaleidoscope_cookery:spicy_blood_stew	Spicy Blood Stew	meal	chili,red_meat	haste 60s, fire_resistance 540s, strength 540s	haste		kaleidoscope_cookery:flex_stockpot/spicy_blood_stew
+kaleidoscope_cookery:spicy_blood_stew	Spicy Blood Stew	meal	chili,red_meat	fire_resistance 80s, strength 540s	fire_resistance		kaleidoscope_cookery:flex_stockpot/spicy_blood_stew
 kaleidoscope_cookery:spicy_chicken	Spicy Chicken	meal	poultry,chili	fire_resistance 80s, regeneration 100s, slow_falling 450s	fire_resistance,regeneration		kaleidoscope_cookery:flex_pot/spicy_chicken
 kaleidoscope_cookery:spicy_chicken_rice_bowl	Spicy Chicken on Rice	meal	poultry,chili	fire_resistance 80s, resistance 100s, slow_falling 540s	fire_resistance,resistance		kaleidoscope_cookery:deprecated/spicy_chicken_rice_bowl
-kaleidoscope_cookery:spicy_rabbit_head	Spicy Rabbit Head	meal	rabbit,chili	haste 60s, jump_boost 540s, fire_resistance 540s	haste		kaleidoscope_cookery:flex_pot/spicy_rabbit_head
+kaleidoscope_cookery:spicy_rabbit_head	Spicy Rabbit Head	meal	rabbit,chili	warmth 80s, jump_boost 540s, fire_resistance 540s	warmth		kaleidoscope_cookery:flex_pot/spicy_rabbit_head
 kaleidoscope_cookery:stargazy_pie	Stargazy Pie	meal	grain,fish,pumpkin	flatulence 30s, unluck 180s, haste 405s	flatulence,unluck		kaleidoscope_cookery:flex_pot/stargazy_pie
 kaleidoscope_cookery:sticky_candy	Sticky Candy	meal	honey,spoiled	regeneration 405s, nausea 10s			kaleidoscope_cookery:flex_pot/sticky_candy
 kaleidoscope_cookery:sticky_rice_cake	Sticky Rice Cake	meal	grain	haste 450s			kaleidoscope_cookery:pot/cooked_rice_to_sticky_rice_cake_1
@@ -677,7 +677,7 @@ kaleidoscope_cookery:stir_fried_beef_offal	Stir-fried Beef Offal	meal	red_meat,c
 kaleidoscope_cookery:stir_fried_beef_offal_rice_bowl	Stir-fried Beef Offal on Rice	meal	red_meat,chili,leafy	flatulence 30s, warmth 60s, strength 540s	flatulence,warmth		kaleidoscope_cookery:deprecated/stir_fried_beef_offal_rice_bowl
 kaleidoscope_cookery:stir_fried_pork_with_peppers	Stir-fried Pork with Peppers	meal	chili,red_meat	mustard 120s, resistance 100s, fire_resistance 428s	mustard,resistance		kaleidoscope_cookery:flex_pot/stir_fried_pork_with_peppers
 kaleidoscope_cookery:stir_fried_pork_with_peppers_rice_bowl	Stir-fried Pork with Peppers on Rice	meal	chili,red_meat	mustard 120s, resistance 100s, fire_resistance 540s	mustard,resistance		kaleidoscope_cookery:pot/stir_fried_pork_with_peppers_rice_bowl
-kaleidoscope_cookery:stuffed_tiger_skin_pepper	Stuffed Tiger Skin Pepper	meal	chili,poultry,red_meat	haste 60s, fire_resistance 540s, slow_falling 540s	haste		kaleidoscope_cookery:flex_pot/stuffed_tiger_skin_pepper
+kaleidoscope_cookery:stuffed_tiger_skin_pepper	Stuffed Tiger Skin Pepper	meal	chili,poultry,red_meat	warmth 80s, fire_resistance 540s, slow_falling 540s	warmth		kaleidoscope_cookery:flex_pot/stuffed_tiger_skin_pepper
 kaleidoscope_cookery:suspicious_stir_fry	Suspicious Stir-Fry	dish	spoiled	speed 60s, jump_boost 60s, haste 60s, luck 60s, mining_fatigue 60s, nausea 20s	speed,jump_boost,haste,luck,mining_fatigue,nausea		name
 kaleidoscope_cookery:suspicious_stir_fry_rice_bowl	Suspicious Stir-Fry on Rice	dish	spoiled	speed 60s, haste 60s, luck 60s, mining_fatigue 60s, nausea 60s, jump_boost 60s	speed,haste,luck,mining_fatigue,nausea,jump_boost		name
 kaleidoscope_cookery:sweet_and_sour_ender_pearls	Sweet and Sour Ender Pearls	meal	chorus	flatulence 20s, slow_falling 30s, low_gravity 338s	flatulence,slow_falling		kaleidoscope_cookery:flex_pot/sweet_and_sour_ender_pearls
@@ -686,9 +686,9 @@ kaleidoscope_cookery:sweet_and_sour_pork_rice_bowl	Sweet and Sour Pork on Rice	m
 kaleidoscope_cookery:tea_egg	Tea Egg	meal	cocoa,egg	sulfur 60s, speed 360s, absorption 360s	sulfur		kaleidoscope_cookery:stockpot/tea_egg_count_1
 kaleidoscope_cookery:tomato	Tomato	raw	leafy	fresh 4s			
 kaleidoscope_cookery:tomato_beef_brisket_soup	Tomato Beef Brisket Soup	meal	red_meat,leafy	satiated_shield 180s, strength 382s, fresh 382s	satiated_shield		kaleidoscope_cookery:deprecated/tomato_beef_brisket_soup
-kaleidoscope_cookery:tundra_style_sashimi	Tundra Style Sashimi	dish	fish	haste 60s, dolphins_grace 180s	haste		kaleidoscope_cookery:tundra_style_sashimi
+kaleidoscope_cookery:tundra_style_sashimi	Tundra Style Sashimi	dish	fish	preservation 120s, dolphins_grace 180s	preservation	vigor	kaleidoscope_cookery:tundra_style_sashimi
 kaleidoscope_cookery:udon_noodle	Udon Noodle	meal	grain,egg,leafy	vitality 480s, haste 540s, absorption 540s	vitality		kaleidoscope_cookery:flex_stockpot/udon_noodle
-kaleidoscope_cookery:warped_fungus_pot_soup	Warped Fungus Pot Soup	meal	mushroom	haste 60s, mana_flow 540s	haste		kaleidoscope_cookery:flex_stockpot/warped_fungus_pot_soup
+kaleidoscope_cookery:warped_fungus_pot_soup	Warped Fungus Pot Soup	meal	mushroom	fire_resistance 120s, mana_flow 540s	fire_resistance		kaleidoscope_cookery:flex_stockpot/warped_fungus_pot_soup
 kaleidoscope_cookery:wild_mushroom_rabbit_soup	Wild Mushroom Rabbit Soup	meal	mushroom,rabbit	speed 30s, mana_flow 360s, jump_boost 360s	speed		kaleidoscope_cookery:flex_stockpot/wild_mushroom_rabbit_soup
 kaleidoscope_cookery:yakitori	Yakitori	meal	poultry,chili	satiated_shield 80s, warmth 40s, slow_falling 495s	satiated_shield,warmth		kaleidoscope_cookery:pot/yakitori
 kaleidoscope_cookery:zongzi	Cooked Zongzi	meal	fish,grain	regeneration 20s, dolphins_grace 450s, haste 450s	regeneration		kaleidoscope_cookery:stockpot/zongzi_count_1

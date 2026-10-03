@@ -6110,9 +6110,15 @@
   "kaleidoscope_cookery:blaze_lamb_chop": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "minecraft:fire_resistance",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 80
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:resistance",
+    "probability": 1.0,
+    "seconds": 100
    },
    {
     "amplifier": 0,
@@ -6244,9 +6250,9 @@
   "kaleidoscope_cookery:braised_pork_ribs": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 80
    },
    {
     "amplifier": 0,
@@ -6264,9 +6270,9 @@
   "kaleidoscope_cookery:brown_mushroom_pot_soup": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 300
    },
    {
     "amplifier": 0,
@@ -6278,9 +6284,9 @@
   "kaleidoscope_cookery:buddha_jumps_over_the_wall": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:satiated_shield",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 180
    },
    {
     "amplifier": 0,
@@ -6298,9 +6304,9 @@
   "kaleidoscope_cookery:candied_potato": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 80
    },
    {
     "amplifier": 0,
@@ -6349,12 +6355,20 @@
     "seconds": 472
    }
   ],
+  "kaleidoscope_cookery:cold_roasted_meat": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:strength",
+    "probability": 1.0,
+    "seconds": 30
+   }
+  ],
   "kaleidoscope_cookery:cold_style_sashimi": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:tundra_strider",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 45
    },
    {
     "amplifier": 0,
@@ -6444,13 +6458,7 @@
     "amplifier": 0,
     "effect": "minecraft:fire_resistance",
     "probability": 1.0,
-    "seconds": 80
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:resistance",
-    "probability": 1.0,
-    "seconds": 100
+    "seconds": 120
    },
    {
     "amplifier": 0,
@@ -6491,20 +6499,6 @@
     "effect": "gameoverse_food_effects:fresh",
     "probability": 1.0,
     "seconds": 540
-   }
-  ],
-  "kaleidoscope_cookery:desert_style_sashimi": [
-   {
-    "amplifier": 0,
-    "effect": "minecraft:haste",
-    "probability": 1.0,
-    "seconds": 60
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:dolphins_grace",
-    "probability": 1.0,
-    "seconds": 180
    }
   ],
   "kaleidoscope_cookery:dongpo_pork": [
@@ -6564,9 +6558,15 @@
   "kaleidoscope_cookery:dough_drop_soup": [
    {
     "amplifier": 0,
+    "effect": "kaleidoscope_cookery:warmth",
+    "probability": 1.0,
+    "seconds": 80
+   },
+   {
+    "amplifier": 0,
     "effect": "minecraft:haste",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 450
    },
    {
     "amplifier": 0,
@@ -6601,20 +6601,6 @@
     "effect": "minecraft:haste",
     "probability": 1.0,
     "seconds": 472
-   }
-  ],
-  "kaleidoscope_cookery:end_style_sashimi": [
-   {
-    "amplifier": 0,
-    "effect": "minecraft:haste",
-    "probability": 1.0,
-    "seconds": 60
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:dolphins_grace",
-    "probability": 1.0,
-    "seconds": 180
    }
   ],
   "kaleidoscope_cookery:fearsome_thick_soup": [
@@ -6714,9 +6700,9 @@
   "kaleidoscope_cookery:four_joy_meatball_soup": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 80
    },
    {
     "amplifier": 0,
@@ -6728,9 +6714,9 @@
   "kaleidoscope_cookery:fried_caterpillar": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:flatulence",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 10
    },
    {
     "amplifier": 0,
@@ -6750,9 +6736,9 @@
   "kaleidoscope_cookery:fried_spring_roll": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 80
    },
    {
     "amplifier": 0,
@@ -6770,9 +6756,15 @@
   "kaleidoscope_cookery:frost_lamb_chop": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:tundra_strider",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 45
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:resistance",
+    "probability": 1.0,
+    "seconds": 100
    },
    {
     "amplifier": 0,
@@ -6784,13 +6776,13 @@
   "kaleidoscope_cookery:fruit_platter": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "minecraft:speed",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 180
    },
    {
     "amplifier": 0,
-    "effect": "minecraft:speed",
+    "effect": "gameoverse_food_effects:keen",
     "probability": 1.0,
     "seconds": 180
    }
@@ -6798,15 +6790,15 @@
   "kaleidoscope_cookery:golden_salad": [
    {
     "amplifier": 0,
-    "effect": "minecraft:fire_resistance",
-    "probability": 1.0,
-    "seconds": 80
-   },
-   {
-    "amplifier": 0,
     "effect": "minecraft:resistance",
     "probability": 1.0,
     "seconds": 100
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:regeneration",
+    "probability": 1.0,
+    "seconds": 10
    },
    {
     "amplifier": 0,
@@ -6927,36 +6919,16 @@
     "seconds": 450
    }
   ],
-  "kaleidoscope_cookery:nether_style_sashimi": [
-   {
-    "amplifier": 0,
-    "effect": "minecraft:haste",
-    "probability": 1.0,
-    "seconds": 60
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:dolphins_grace",
-    "probability": 1.0,
-    "seconds": 180
-   }
-  ],
   "kaleidoscope_cookery:numbing_spicy_chicken": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "minecraft:fire_resistance",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 120
    },
    {
     "amplifier": 0,
     "effect": "minecraft:slow_falling",
-    "probability": 1.0,
-    "seconds": 540
-   },
-   {
-    "amplifier": 0,
-    "effect": "minecraft:fire_resistance",
     "probability": 1.0,
     "seconds": 540
    }
@@ -6964,9 +6936,9 @@
   "kaleidoscope_cookery:oil_splashed_fish": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 80
    },
    {
     "amplifier": 0,
@@ -7102,9 +7074,9 @@
   "kaleidoscope_cookery:red_mushroom_pot_soup": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 300
    },
    {
     "amplifier": 0,
@@ -7198,15 +7170,9 @@
   "kaleidoscope_cookery:spicy_blood_stew": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
-    "probability": 1.0,
-    "seconds": 60
-   },
-   {
-    "amplifier": 0,
     "effect": "minecraft:fire_resistance",
     "probability": 1.0,
-    "seconds": 540
+    "seconds": 80
    },
    {
     "amplifier": 0,
@@ -7258,9 +7224,9 @@
   "kaleidoscope_cookery:spicy_rabbit_head": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 80
    },
    {
     "amplifier": 0,
@@ -7400,9 +7366,9 @@
   "kaleidoscope_cookery:stuffed_tiger_skin_pepper": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:warmth",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 80
    },
    {
     "amplifier": 0,
@@ -7528,9 +7494,9 @@
   "kaleidoscope_cookery:tundra_style_sashimi": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "kaleidoscope_cookery:preservation",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 120
    },
    {
     "amplifier": 0,
@@ -7562,9 +7528,9 @@
   "kaleidoscope_cookery:warped_fungus_pot_soup": [
    {
     "amplifier": 0,
-    "effect": "minecraft:haste",
+    "effect": "minecraft:fire_resistance",
     "probability": 1.0,
-    "seconds": 60
+    "seconds": 120
    },
    {
     "amplifier": 0,
