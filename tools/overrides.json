@@ -30,5 +30,35 @@
     "families": [
       "leafy"
     ]
+  },
+  "aerialhell:cortinarius_violaceus_piece": {
+    "families": [
+      "mushroom"
+    ]
+  },
+  "aerialhell:ganoderma_applanatum_piece": {
+    "families": [
+      "mushroom"
+    ]
+  },
+  "aerialhell:copper_pine_cone": {
+    "families": [
+      "nut"
+    ]
+  },
+  "aerialhell:azurite_copper_pine_cone": {
+    "families": [
+      "nut"
+    ]
+  },
+  "aerialhell:sky_cactus_fiber": {
+    "families": [
+      "leafy"
+    ]
+  },
+  "aerialhell:vibrant_sky_cactus_fiber": {
+    "families": [
+      "leafy"
+    ]
   }
 }

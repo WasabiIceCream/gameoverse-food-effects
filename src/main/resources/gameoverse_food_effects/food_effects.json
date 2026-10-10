@@ -1,6 +1,166 @@
 {
  "_generated_by": "tools/generate.py",
  "foods": {
+  "aerialhell:aerial_berry": [
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 18
+   }
+  ],
+  "aerialhell:azurite_copper_pine_cone": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:haste",
+    "probability": 1.0,
+    "seconds": 20
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:focused",
+    "probability": 1.0,
+    "seconds": 120
+   }
+  ],
+  "aerialhell:cooked_phantom_meat": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:strength",
+    "probability": 1.0,
+    "seconds": 28
+   }
+  ],
+  "aerialhell:cooked_turtle_meat": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:strength",
+    "probability": 1.0,
+    "seconds": 25
+   }
+  ],
+  "aerialhell:copper_pine_cone": [
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:focused",
+    "probability": 1.0,
+    "seconds": 4
+   }
+  ],
+  "aerialhell:frozen_chicken": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:slowness",
+    "probability": 1.0,
+    "seconds": 15
+   },
+   {
+    "amplifier": 0,
+    "effect": "minecraft:resistance",
+    "probability": 1.0,
+    "seconds": 10
+   }
+  ],
+  "aerialhell:ganoderma_applanatum_piece": [
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:mana_flow",
+    "probability": 1.0,
+    "seconds": 3
+   }
+  ],
+  "aerialhell:glowing_stick_fruit": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:night_vision",
+    "probability": 1.0,
+    "seconds": 4
+   }
+  ],
+  "aerialhell:roasted_aerial_berry": [
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 19
+   }
+  ],
+  "aerialhell:ruby_aerial_berry": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:health_boost",
+    "probability": 1.0,
+    "seconds": 120
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 135
+   }
+  ],
+  "aerialhell:sky_cactus_fiber": [
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 16
+   }
+  ],
+  "aerialhell:stellar_bread": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:haste",
+    "probability": 1.0,
+    "seconds": 21
+   }
+  ],
+  "aerialhell:turtle_meat": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:strength",
+    "probability": 1.0,
+    "seconds": 4
+   }
+  ],
+  "aerialhell:vibrant_aerial_berry": [
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 20
+   }
+  ],
+  "aerialhell:vibrant_glowing_stick_fruit": [
+   {
+    "amplifier": 0,
+    "effect": "minecraft:night_vision",
+    "probability": 1.0,
+    "seconds": 22
+   }
+  ],
+  "aerialhell:vibrant_sky_cactus_fiber": [
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:fresh",
+    "probability": 1.0,
+    "seconds": 20
+   }
+  ],
+  "aerialhell:volucite_aerial_berry": [
+   {
+    "amplifier": 1,
+    "effect": "aerialhell:head_in_the_clouds",
+    "probability": 1.0,
+    "seconds": 250
+   },
+   {
+    "amplifier": 0,
+    "effect": "gameoverse_food_effects:keen",
+    "probability": 1.0,
+    "seconds": 135
+   }
+  ],
   "alcocraftplus:chorus_ale": [
    {
     "amplifier": 0,

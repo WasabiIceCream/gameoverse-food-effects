@@ -1,4 +1,48 @@
 id	name	tier	families	effects	kept_from_mod	dropped	recipe
+aerialhell:aerial_berry	Aerial Berry	prepared	berry	keen 18s			aerialhell:aerial_berry_from_frozen_aerial_berry_smelting
+aerialhell:azurite_copper_pine_cone	Azurite Copper Pine Cone	dish	nut	haste 20s, focused 120s	haste		aerialhell:azurite_copper_pine_cone
+aerialhell:blue_solid_ether_fragment	Blue Solid Ether Fragment	prepared		head_in_the_clouds 4s	head_in_the_clouds		aerialhell:blue_solid_ether_fragment_freezing
+aerialhell:cooked_phantom_meat	Cooked Phantom Meat	prepared	red_meat	strength 28s			aerialhell:cooked_phantom_meat
+aerialhell:cooked_turtle_meat	Cooked Turtle Meat	prepared	red_meat	strength 25s			aerialhell:cooked_turtle_meat
+aerialhell:copper_pine_cone	Copper Pine Cone	raw	nut	focused 4s			name
+aerialhell:cortinarius_violaceus_piece	Cortinarius Violaceus Piece	raw	mushroom	nausea 5s	nausea		name
+aerialhell:dark_shadow_fruit	Dark Shadow Fruit	raw	fruit	blindness 1s, night_vision 6s	blindness,night_vision		name
+aerialhell:frozen_aerial_berry	Frozen Aerial Berry	prepared	berry	slowness 15s, resistance 10s	slowness,resistance		aerialhell:frozen_aerial_berry_freezing
+aerialhell:frozen_chicken	Frozen Chicken	prepared	poultry	slowness 15s, resistance 10s	slowness,resistance	hunger	aerialhell:frozen_chicken_freezing
+aerialhell:frozen_glowing_stick_fruit	Frozen Glowing Stick Fruit	prepared	glow	slowness 6s, resistance 9s	slowness,resistance		aerialhell:frozen_glowing_stick_fruit_freezing
+aerialhell:frozen_mutton	Frozen Mutton	prepared	red_meat	slowness 15s, resistance 10s	slowness,resistance		aerialhell:frozen_mutton_freezing
+aerialhell:frozen_phantom_meat	Frozen Phantom Meat	prepared	red_meat	resistance 40s	resistance		aerialhell:frozen_phantom_meat_freezing
+aerialhell:frozen_solid_ether_soup	Frozen Solid Ether Soup	dish		slow_falling 9s, head_in_the_clouds 8s, resistance 10s	slow_falling,head_in_the_clouds,resistance		aerialhell:frozen_solid_ether_soup_freezing
+aerialhell:frozen_turtle_meat	Frozen Turtle Meat	prepared	red_meat	resistance 20s	resistance		aerialhell:frozen_turtle_meat_freezing
+aerialhell:ganoderma_applanatum_piece	Bear Bread Piece	raw	mushroom	mana_flow 3s		hunger	name
+aerialhell:glowing_stick_fruit	Glowing Stick Fruit	raw	glow	night_vision 4s			name
+aerialhell:gods_volucite_aerial_berry	Gods Volucite Aerial Berry	raw	berry	slow_falling 120s, head_in_the_clouds 100s, shadow_immunity 120s, god 300s, fire_resistance 300s, resistance 120s, strength 120s, haste 120s, absorption 120s	slow_falling,head_in_the_clouds,shadow_immunity,god,fire_resistance,resistance,strength,haste,absorption		name
+aerialhell:golden_nether_meat_piece	Golden Nether Meat Piece	raw	red_meat	fire_resistance 5s	fire_resistance		name
+aerialhell:golden_nether_steak	Golden Nether Steak	prepared	red_meat	fire_resistance 25s	fire_resistance		aerialhell:golden_nether_steak
+aerialhell:golden_solid_ether_fragment	Golden Solid Ether Fragment	prepared		slow_falling 5s	slow_falling		aerialhell:golden_solid_ether_fragment_vibration
+aerialhell:green_solid_ether_fragment	Green Solid Ether Fragment	raw		jump_boost 4s	jump_boost		name
+aerialhell:phantom_meat	Phantom Meat	raw	red_meat	resistance 6s	resistance		name
+aerialhell:phoenix_feather	Phoenix Feather	raw		slow_falling 60s, fire_resistance 60s	slow_falling,fire_resistance		name
+aerialhell:purple_shadow_fruit	Purple Shadow Fruit	raw	fruit	blindness 1s, shadow_immunity 4s	blindness,shadow_immunity		name
+aerialhell:purple_solid_ether_fragment	Purple Solid Ether Fragment	raw		shadow_immunity 4s	shadow_immunity		name
+aerialhell:roasted_aerial_berry	Roasted Aerial Berry	prepared	berry	keen 19s			aerialhell:roasted_aerial_berry
+aerialhell:ruby_aerial_berry	Rubified Aerial Berry	dish	berry	health_boost 120s, keen 135s	health_boost		aerialhell:ruby_aerial_berry
+aerialhell:shadow_fruit_stew	Shadow Fruit Stew	dish	fruit,spoiled	blindness 1s, shadow_immunity 60s	blindness,shadow_immunity		aerialhell:shadow_fruit_stew
+aerialhell:shadow_spider_eye	Shadow Spider Eye	raw	spoiled	blindness 1s, slowness 6s	blindness,slowness		name
+aerialhell:sky_cactus_fiber	Sky Cactus Fiber	prepared	leafy	fresh 16s			aerialhell:sky_cactus_fiber
+aerialhell:solid_ether_soup	Solid Ether Soup	dish		slow_falling 8s, head_in_the_clouds 8s	slow_falling,head_in_the_clouds		aerialhell:solid_ether_soup
+aerialhell:stellar_bread	Stellar Bread	prepared	grain	haste 21s			aerialhell:stellar_bread
+aerialhell:turtle_meat	Turtle Meat	raw	red_meat	strength 4s			name
+aerialhell:vibrant_aerial_berry	Vibrant Aerial Berry	prepared	berry	keen 20s			aerialhell:vibrant_aerial_berry_vibration
+aerialhell:vibrant_chicken	Vibrant Chicken	prepared	poultry	slow_falling 3s	slow_falling		aerialhell:vibrant_chicken_vibration
+aerialhell:vibrant_glowing_stick_fruit	Vibrant Glowing Stick Fruit	prepared	glow	night_vision 22s			aerialhell:vibrant_glowing_stick_fruit_vibration
+aerialhell:vibrant_golden_nether_steak	Vibrant Golden Nether Steak	prepared	red_meat	fire_resistance 50s	fire_resistance		aerialhell:vibrant_golden_nether_steak_vibration
+aerialhell:vibrant_phantom_meat	Vibrant Phantom Meat	prepared	red_meat	resistance 20s	resistance		aerialhell:vibrant_phantom_meat_vibration
+aerialhell:vibrant_sky_cactus_fiber	Vibrant Sky Cactus Fiber	prepared	leafy	fresh 20s			aerialhell:vibrant_sky_cactus_fiber
+aerialhell:vibrant_solid_ether_soup	Vibrant Solid Ether Soup	dish		slow_falling 8s, head_in_the_clouds 8s	slow_falling,head_in_the_clouds		aerialhell:vibrant_solid_ether_soup_vibration
+aerialhell:vibrant_turtle_meat	Vibrant Turtle Meat	prepared	red_meat	slow_falling 20s	slow_falling		aerialhell:vibrant_turtle_meat_vibration
+aerialhell:volucite_aerial_berry	Volucite Aerial Berry	dish	berry	head_in_the_clouds 250s, keen 135s	head_in_the_clouds		aerialhell:volucite_aerial_berry
+aerialhell:white_solid_ether_fragment	White Solid Ether Fragment	raw					name
 alcocraftplus:chorus_ale	Mug of Chorus Ale	meal	chorus,grain	luck 60s, nausea 10s, low_gravity 382s	luck,nausea		alcocraftplus:chorus_ale
 alcocraftplus:digger_bitter	Mug of Digger Bitter	meal	grain	haste 60s, nausea 10s	haste,nausea		alcocraftplus:digger_bitter
 alcocraftplus:drowned_ale	Mug of Drowned Ale	meal	grain	water_breathing 300s, dolphins_grace 150s, nausea 10s	water_breathing,dolphins_grace,nausea		alcocraftplus:drowned_ale

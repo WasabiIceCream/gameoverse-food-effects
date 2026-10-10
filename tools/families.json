@@ -208,6 +208,6 @@
   "skip_ingredient": "crate|_bag$|basket|_block$|sack|bale",
   "name_tiers": {
     "prepared": "cooked|baked|roast|fried|grilled|smoked|toasted|steamed|boiled|dried|juice|(^|_)tea($|_)|coffee",
-    "dish": "soup|stew|pie|sandwich|burger|cake|salad|pizza|candy|cookie|roll|sushi|curry|taco|bowl|jam|smoothie|wine|beer|tart|muffin|pancake|kebab|skewer|stir_fry|rice"
+    "dish": "soup|stew|pie(?!ce)|sandwich|burger|cake|salad|pizza|candy|cookie|roll|sushi|curry|taco|bowl|jam|smoothie|wine|beer|tart|muffin|pancake|kebab|skewer|stir_fry|rice"
   }
 }
